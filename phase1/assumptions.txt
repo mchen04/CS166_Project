@@ -1,0 +1,17 @@
+Assumptions — CS 166 Mechanics Shop Phase 1
+
+Design Decisions
+
+- Owns is a separate table instead of just a FK in Car. The spec references "the ownership relation" in Query 7, so we gave it its own table. A UNIQUE constraint on car_vin enforces one owner per car.
+- Closed_Request is a separate entity from Service_Request. This way open requests just live in Service_Request, and when a mechanic fixes a car they create a new row in Closed_Request. Avoids a bunch of nullable columns for open requests.
+- Mechanic specialty is omitted in Phase 1. The requirement analysis doesn't mention it, but the Phase 2 "Add Mechanic" function does list it as input, so we can add it then.
+- Car uses VIN as a natural primary key. Customer, Mechanic, Service_Request, and Closed_Request all use surrogate integer IDs since they don't have obvious natural keys.
+- The odometer reading belongs to the service request, not the car, since the same car will have different readings each visit.
+
+Constraints We Can't Enforce in the Schema
+
+These need to be handled in the application layer (Phase 2):
+
+1. Closing date >= request date — needs a cross-table comparison between Closed_Request and Service_Request, which you can't do with a CHECK constraint.
+2. "Works on a single car at a time" — this is a concurrency rule about mechanics, not something you can model as a static constraint.
+3. Customer actually owns the car they bring in — the schema has customer_id and car_vin on Service_Request but doesn't verify ownership through the Owns table. Needs app-level validation.

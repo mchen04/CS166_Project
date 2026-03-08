@@ -1,0 +1,1001 @@
+wid,rid,mid,date,comment,bill
+0,0,127,2020-07-12,"diagnosed and repaired, no further issues",620.32
+1,2,155,2020-07-16,flushed the system and refilled,266.5
+2,3,203,2022-07-06,swapped out the old one for a new unit,525.78
+3,4,124,2022-05-26,"filter and fluid change, should last a while",789.28
+4,5,147,2024-11-20,"replaced worn components, all good",72.83
+5,6,173,2025-06-30,"full replacement done, runs smooth",52.41
+6,7,133,2023-01-07,"realigned and balanced, drives straight now",599.92
+7,8,62,2025-12-03,"replaced worn components, all good",317.2
+8,10,169,2020-03-12,"filter and fluid change, should last a while",135.14
+9,12,245,2020-07-09,"welded the crack, structurally sound now",745.08
+10,13,4,2022-10-26,flushed the system and refilled,167.42
+11,14,15,2021-01-12,"diagnosed and repaired, no further issues",315.26
+12,18,86,2024-02-15,"replaced the part, good to go",335.32
+13,19,117,2024-10-20,"replaced worn components, all good",53.77
+14,20,164,2025-08-27,"diagnosed and repaired, no further issues",43.41
+15,21,184,2024-06-12,"patched it up, recommend replacing soon",550.62
+16,24,44,2024-03-23,"replaced the part, good to go",185.58
+17,26,217,2021-02-11,topped off fluids and tightened everything,264.74
+18,27,8,2024-04-28,"full replacement done, runs smooth",489.33
+19,28,228,2024-03-03,"welded the crack, structurally sound now",113.74
+20,29,46,2025-08-23,"fixed the issue, test drove it",452.21
+21,30,49,2023-11-03,swapped out the old one for a new unit,610.05
+22,31,209,2020-04-08,"replaced worn components, all good",594.39
+23,32,218,2025-03-12,"fixed the issue, test drove it",598.99
+24,34,40,2022-07-31,"welded the crack, structurally sound now",317.89
+25,37,166,2023-08-24,"cleaned and adjusted, should be fine now",112.17
+26,39,217,2025-11-24,swapped out the old one for a new unit,44.29
+27,41,21,2023-08-07,"cleaned and adjusted, should be fine now",737.72
+28,42,10,2023-06-06,"replaced the part, good to go",720.73
+29,44,32,2025-12-04,"cleaned and adjusted, should be fine now",420.95
+30,46,167,2021-03-28,"diagnosed and repaired, no further issues",605.16
+31,47,46,2021-01-03,"electrical issue fixed, tested all circuits",66.96
+32,48,73,2025-11-21,"minor fix, just needed an adjustment",276.22
+33,49,188,2020-04-26,"minor fix, just needed an adjustment",714.08
+34,50,202,2024-07-05,"welded the crack, structurally sound now",449.31
+35,52,37,2025-05-24,"full replacement done, runs smooth",174.97
+36,54,40,2022-08-15,flushed the system and refilled,426.88
+37,55,177,2023-06-09,"realigned and balanced, drives straight now",44.99
+38,58,20,2025-10-27,"full replacement done, runs smooth",781.43
+39,59,141,2023-12-22,"welded the crack, structurally sound now",250.63
+40,61,106,2021-12-11,"full replacement done, runs smooth",308.4
+41,62,148,2023-08-20,"cleaned and adjusted, should be fine now",599.01
+42,64,69,2021-06-11,"full replacement done, runs smooth",35.18
+43,65,145,2022-07-06,"filter and fluid change, should last a while",561.77
+44,66,4,2020-07-12,"full replacement done, runs smooth",711.74
+45,68,243,2025-06-06,"diagnosed and repaired, no further issues",145.61
+46,69,160,2021-09-20,"welded the crack, structurally sound now",657.84
+47,72,87,2020-06-04,"patched it up, recommend replacing soon",382.3
+48,73,115,2025-01-26,"diagnosed and repaired, no further issues",563.53
+49,75,120,2023-01-05,"minor fix, just needed an adjustment",727.26
+50,76,66,2024-08-14,"diagnosed and repaired, no further issues",27.79
+51,78,178,2020-04-09,"replaced worn components, all good",236.25
+52,80,81,2022-05-10,"diagnosed and repaired, no further issues",380.06
+53,84,222,2020-06-03,"full replacement done, runs smooth",91.97
+54,87,231,2023-05-23,"minor fix, just needed an adjustment",412.6
+55,89,116,2022-10-24,"cleaned and adjusted, should be fine now",447.96
+56,90,39,2025-04-01,"minor fix, just needed an adjustment",72.5
+57,94,153,2025-06-19,"minor fix, just needed an adjustment",642.4
+58,95,37,2020-10-01,"full replacement done, runs smooth",557.44
+59,96,18,2021-11-03,flushed the system and refilled,610.81
+60,97,65,2021-01-21,"diagnosed and repaired, no further issues",45.81
+61,98,87,2023-03-23,"filter and fluid change, should last a while",406.84
+62,100,165,2020-09-04,"full replacement done, runs smooth",50.79
+63,101,99,2022-04-24,"realigned and balanced, drives straight now",333.31
+64,102,131,2020-04-15,"electrical issue fixed, tested all circuits",180.98
+65,104,176,2020-05-10,flushed the system and refilled,336.1
+66,105,78,2023-12-02,"filter and fluid change, should last a while",472.35
+67,106,94,2024-05-03,"fixed the issue, test drove it",136.87
+68,107,149,2022-02-19,swapped out the old one for a new unit,720.61
+69,108,225,2021-05-21,"electrical issue fixed, tested all circuits",615.36
+70,109,67,2024-11-20,"minor fix, just needed an adjustment",555.65
+71,110,60,2024-06-07,flushed the system and refilled,556.4
+72,111,21,2020-05-24,"full replacement done, runs smooth",638.65
+73,112,21,2022-06-29,"replaced worn components, all good",91.34
+74,113,157,2022-05-13,flushed the system and refilled,227.81
+75,114,5,2022-07-01,"diagnosed and repaired, no further issues",27.14
+76,116,179,2020-10-23,"diagnosed and repaired, no further issues",25.91
+77,118,131,2023-04-30,"realigned and balanced, drives straight now",556.0
+78,119,124,2022-10-14,"welded the crack, structurally sound now",104.65
+79,120,43,2023-05-30,"diagnosed and repaired, no further issues",387.19
+80,121,26,2023-06-23,"replaced the part, good to go",390.25
+81,125,73,2021-10-08,topped off fluids and tightened everything,200.22
+82,129,108,2022-05-11,"replaced worn components, all good",314.07
+83,131,113,2021-08-08,"full replacement done, runs smooth",376.08
+84,132,38,2020-01-14,"welded the crack, structurally sound now",252.59
+85,133,21,2020-10-07,"replaced the part, good to go",278.83
+86,134,17,2020-12-09,"replaced the part, good to go",742.94
+87,135,146,2022-04-04,"replaced the part, good to go",64.71
+88,136,120,2022-12-03,"filter and fluid change, should last a while",107.25
+89,138,142,2020-09-28,"patched it up, recommend replacing soon",46.76
+90,141,45,2020-07-31,"patched it up, recommend replacing soon",62.25
+91,142,89,2020-08-09,topped off fluids and tightened everything,463.14
+92,143,41,2025-05-31,"electrical issue fixed, tested all circuits",745.97
+93,144,58,2020-12-22,flushed the system and refilled,503.77
+94,146,8,2021-03-02,"replaced the part, good to go",792.06
+95,147,44,2020-11-22,"welded the crack, structurally sound now",711.41
+96,148,93,2024-08-01,"replaced worn components, all good",637.68
+97,149,121,2023-05-22,flushed the system and refilled,382.05
+98,150,177,2020-08-14,flushed the system and refilled,691.57
+99,151,85,2020-01-20,swapped out the old one for a new unit,697.82
+100,152,108,2020-10-27,"replaced worn components, all good",696.98
+101,153,115,2022-03-25,topped off fluids and tightened everything,222.16
+102,157,194,2023-03-28,"patched it up, recommend replacing soon",142.29
+103,159,169,2020-06-09,flushed the system and refilled,502.04
+104,160,189,2023-08-06,flushed the system and refilled,527.55
+105,162,14,2022-10-24,"fixed the issue, test drove it",338.46
+106,163,28,2021-07-14,"electrical issue fixed, tested all circuits",582.07
+107,164,112,2020-05-13,"replaced the part, good to go",754.4
+108,165,201,2022-01-01,"filter and fluid change, should last a while",308.95
+109,166,230,2020-05-06,swapped out the old one for a new unit,209.73
+110,167,239,2020-11-17,"replaced worn components, all good",619.7
+111,170,222,2025-10-25,"electrical issue fixed, tested all circuits",353.41
+112,171,192,2022-09-29,"realigned and balanced, drives straight now",469.41
+113,172,200,2024-08-23,"replaced worn components, all good",371.65
+114,174,136,2023-05-06,"realigned and balanced, drives straight now",548.95
+115,178,96,2025-05-05,"welded the crack, structurally sound now",28.72
+116,179,135,2024-01-21,"patched it up, recommend replacing soon",409.71
+117,181,22,2022-01-09,"electrical issue fixed, tested all circuits",379.8
+118,182,153,2023-10-03,"replaced the part, good to go",644.95
+119,185,133,2023-05-18,"replaced worn components, all good",585.78
+120,187,132,2024-03-07,"fixed the issue, test drove it",238.15
+121,189,150,2023-08-03,"replaced the part, good to go",424.52
+122,191,54,2022-11-02,"electrical issue fixed, tested all circuits",286.49
+123,192,102,2024-05-11,topped off fluids and tightened everything,594.22
+124,193,172,2021-03-03,"diagnosed and repaired, no further issues",223.01
+125,195,84,2022-07-08,"replaced worn components, all good",503.33
+126,197,142,2024-10-29,swapped out the old one for a new unit,166.56
+127,199,95,2021-09-06,swapped out the old one for a new unit,270.94
+128,200,249,2022-09-02,"realigned and balanced, drives straight now",483.15
+129,202,24,2024-06-14,"fixed the issue, test drove it",95.16
+130,203,246,2025-03-06,"welded the crack, structurally sound now",568.38
+131,206,95,2020-01-29,"realigned and balanced, drives straight now",692.74
+132,207,246,2025-06-05,topped off fluids and tightened everything,343.03
+133,208,108,2021-08-10,"minor fix, just needed an adjustment",497.51
+134,210,171,2022-03-26,"patched it up, recommend replacing soon",487.25
+135,211,209,2022-01-25,"fixed the issue, test drove it",213.14
+136,212,211,2021-08-22,"full replacement done, runs smooth",116.28
+137,213,170,2023-05-02,"replaced the part, good to go",659.52
+138,214,116,2022-03-05,"realigned and balanced, drives straight now",178.88
+139,215,70,2023-05-27,"welded the crack, structurally sound now",684.85
+140,216,2,2022-12-24,"electrical issue fixed, tested all circuits",55.91
+141,219,39,2024-08-08,flushed the system and refilled,690.28
+142,223,67,2024-07-03,"patched it up, recommend replacing soon",502.55
+143,225,242,2022-08-13,flushed the system and refilled,747.63
+144,226,2,2024-09-18,"filter and fluid change, should last a while",282.21
+145,227,139,2023-02-07,"cleaned and adjusted, should be fine now",662.54
+146,228,132,2023-01-04,"welded the crack, structurally sound now",743.6
+147,229,235,2024-11-25,"minor fix, just needed an adjustment",694.96
+148,231,183,2024-07-07,"cleaned and adjusted, should be fine now",775.5
+149,232,218,2020-04-24,"electrical issue fixed, tested all circuits",243.48
+150,234,248,2024-09-14,topped off fluids and tightened everything,496.86
+151,235,138,2020-05-19,"diagnosed and repaired, no further issues",261.41
+152,237,1,2025-08-21,"cleaned and adjusted, should be fine now",477.5
+153,238,239,2022-12-12,"fixed the issue, test drove it",398.38
+154,240,140,2025-05-26,topped off fluids and tightened everything,553.7
+155,241,203,2021-02-26,"cleaned and adjusted, should be fine now",87.47
+156,242,110,2020-11-24,"diagnosed and repaired, no further issues",166.95
+157,243,86,2020-12-27,"replaced the part, good to go",651.72
+158,248,88,2023-05-22,"cleaned and adjusted, should be fine now",506.66
+159,250,229,2025-05-07,"full replacement done, runs smooth",370.66
+160,251,241,2024-04-20,"full replacement done, runs smooth",505.25
+161,252,128,2020-10-28,flushed the system and refilled,504.46
+162,253,150,2025-08-15,"minor fix, just needed an adjustment",382.29
+163,254,120,2024-04-06,topped off fluids and tightened everything,241.06
+164,255,131,2022-10-22,"welded the crack, structurally sound now",375.24
+165,256,75,2023-03-10,swapped out the old one for a new unit,240.17
+166,257,29,2022-09-13,"replaced worn components, all good",742.81
+167,258,34,2020-08-09,"welded the crack, structurally sound now",475.46
+168,260,177,2022-11-06,"full replacement done, runs smooth",795.91
+169,261,234,2023-08-16,"realigned and balanced, drives straight now",279.43
+170,262,154,2023-07-07,"cleaned and adjusted, should be fine now",563.92
+171,263,85,2024-02-07,"fixed the issue, test drove it",790.6
+172,264,148,2025-03-28,topped off fluids and tightened everything,317.08
+173,265,63,2023-02-12,"replaced worn components, all good",46.09
+174,268,39,2025-02-05,topped off fluids and tightened everything,677.15
+175,270,135,2021-08-23,"electrical issue fixed, tested all circuits",253.32
+176,271,154,2020-12-22,"full replacement done, runs smooth",582.04
+177,273,171,2024-02-17,"full replacement done, runs smooth",117.09
+178,274,227,2020-02-03,"patched it up, recommend replacing soon",342.43
+179,275,205,2023-04-25,"cleaned and adjusted, should be fine now",571.57
+180,277,179,2022-01-21,swapped out the old one for a new unit,697.55
+181,278,15,2021-03-08,"diagnosed and repaired, no further issues",46.87
+182,279,107,2024-08-18,"replaced worn components, all good",220.55
+183,280,7,2023-01-31,"patched it up, recommend replacing soon",775.05
+184,282,26,2022-03-04,"replaced the part, good to go",126.77
+185,283,33,2021-10-29,flushed the system and refilled,740.95
+186,285,61,2020-02-26,"replaced the part, good to go",190.21
+187,286,112,2021-10-09,"cleaned and adjusted, should be fine now",651.53
+188,287,233,2023-05-12,"realigned and balanced, drives straight now",606.6
+189,289,125,2021-04-20,"minor fix, just needed an adjustment",345.74
+190,290,166,2021-04-19,topped off fluids and tightened everything,256.14
+191,291,223,2020-05-14,"patched it up, recommend replacing soon",349.24
+192,294,220,2024-11-24,"electrical issue fixed, tested all circuits",650.03
+193,297,33,2020-11-04,"fixed the issue, test drove it",187.52
+194,298,178,2023-03-24,"diagnosed and repaired, no further issues",447.01
+195,299,47,2020-11-20,"welded the crack, structurally sound now",403.41
+196,301,194,2023-04-06,"replaced the part, good to go",727.28
+197,302,106,2025-02-04,"patched it up, recommend replacing soon",565.14
+198,303,76,2020-06-03,"replaced worn components, all good",692.87
+199,304,84,2024-05-06,"full replacement done, runs smooth",316.95
+200,305,90,2020-04-18,"patched it up, recommend replacing soon",574.2
+201,306,75,2021-04-18,"minor fix, just needed an adjustment",745.82
+202,309,42,2023-11-21,"filter and fluid change, should last a while",452.01
+203,311,133,2020-01-05,"patched it up, recommend replacing soon",133.12
+204,312,240,2020-07-21,"welded the crack, structurally sound now",538.65
+205,313,180,2021-09-27,"full replacement done, runs smooth",360.41
+206,314,10,2024-04-08,"welded the crack, structurally sound now",269.98
+207,316,243,2023-02-02,topped off fluids and tightened everything,327.34
+208,317,236,2024-07-03,"replaced worn components, all good",432.63
+209,318,79,2021-01-18,"minor fix, just needed an adjustment",413.66
+210,320,40,2021-08-07,"filter and fluid change, should last a while",437.78
+211,321,73,2023-03-01,"welded the crack, structurally sound now",52.9
+212,322,39,2021-10-20,swapped out the old one for a new unit,86.41
+213,323,56,2023-01-21,flushed the system and refilled,154.86
+214,325,157,2022-02-01,"minor fix, just needed an adjustment",696.96
+215,327,117,2020-05-11,"electrical issue fixed, tested all circuits",593.53
+216,328,221,2021-06-02,swapped out the old one for a new unit,602.99
+217,329,234,2022-10-07,swapped out the old one for a new unit,697.28
+218,331,241,2020-05-03,"minor fix, just needed an adjustment",363.27
+219,332,75,2024-04-02,"electrical issue fixed, tested all circuits",367.95
+220,333,223,2024-03-02,"diagnosed and repaired, no further issues",447.48
+221,336,34,2022-01-18,"minor fix, just needed an adjustment",569.38
+222,337,199,2021-07-29,"cleaned and adjusted, should be fine now",390.18
+223,338,135,2023-02-25,"realigned and balanced, drives straight now",318.51
+224,339,7,2022-02-02,swapped out the old one for a new unit,140.9
+225,340,129,2021-10-22,"diagnosed and repaired, no further issues",372.85
+226,341,57,2021-08-04,topped off fluids and tightened everything,364.16
+227,344,20,2022-01-02,"replaced the part, good to go",340.19
+228,348,170,2020-07-11,swapped out the old one for a new unit,663.51
+229,349,68,2022-02-06,flushed the system and refilled,293.89
+230,350,222,2020-07-30,"electrical issue fixed, tested all circuits",783.44
+231,351,162,2022-10-05,"patched it up, recommend replacing soon",397.26
+232,352,87,2025-07-11,"full replacement done, runs smooth",159.45
+233,354,244,2023-11-10,"cleaned and adjusted, should be fine now",690.55
+234,355,217,2022-02-06,"diagnosed and repaired, no further issues",412.27
+235,356,182,2023-03-08,"replaced the part, good to go",68.35
+236,358,84,2025-01-18,"patched it up, recommend replacing soon",436.32
+237,361,180,2026-01-07,"diagnosed and repaired, no further issues",194.2
+238,363,241,2022-10-02,"electrical issue fixed, tested all circuits",383.27
+239,365,190,2021-03-13,flushed the system and refilled,664.31
+240,367,43,2023-11-20,"patched it up, recommend replacing soon",657.26
+241,369,207,2021-10-24,"welded the crack, structurally sound now",731.49
+242,372,79,2021-04-22,"cleaned and adjusted, should be fine now",636.21
+243,373,10,2024-05-13,"realigned and balanced, drives straight now",777.49
+244,374,84,2023-10-10,"patched it up, recommend replacing soon",250.02
+245,376,105,2021-10-06,"replaced worn components, all good",588.0
+246,378,179,2022-07-02,swapped out the old one for a new unit,785.36
+247,379,203,2023-03-24,"welded the crack, structurally sound now",734.51
+248,381,117,2022-10-09,"replaced the part, good to go",252.21
+249,382,26,2021-09-06,"diagnosed and repaired, no further issues",777.58
+250,384,137,2025-09-01,"fixed the issue, test drove it",303.76
+251,387,149,2025-08-03,flushed the system and refilled,632.87
+252,388,73,2023-11-03,"filter and fluid change, should last a while",524.82
+253,389,59,2020-06-25,"full replacement done, runs smooth",677.09
+254,394,223,2023-11-20,"full replacement done, runs smooth",496.76
+255,395,76,2024-02-09,"minor fix, just needed an adjustment",545.18
+256,397,229,2025-12-10,"realigned and balanced, drives straight now",545.13
+257,398,127,2024-10-21,swapped out the old one for a new unit,185.6
+258,399,182,2023-03-27,"replaced worn components, all good",682.31
+259,400,246,2023-06-21,"cleaned and adjusted, should be fine now",244.65
+260,401,154,2020-01-29,"patched it up, recommend replacing soon",439.36
+261,402,235,2024-09-22,"diagnosed and repaired, no further issues",47.48
+262,403,168,2021-04-07,"full replacement done, runs smooth",715.65
+263,404,61,2024-10-03,"replaced worn components, all good",227.87
+264,405,80,2024-09-16,"filter and fluid change, should last a while",484.44
+265,406,215,2022-08-09,"cleaned and adjusted, should be fine now",351.85
+266,411,8,2025-07-21,"full replacement done, runs smooth",43.62
+267,412,142,2023-11-22,"patched it up, recommend replacing soon",184.9
+268,414,21,2020-08-02,"realigned and balanced, drives straight now",61.58
+269,415,220,2025-12-12,"replaced worn components, all good",421.53
+270,416,177,2021-08-13,swapped out the old one for a new unit,584.04
+271,417,129,2021-10-08,"fixed the issue, test drove it",697.04
+272,418,96,2020-09-21,"minor fix, just needed an adjustment",198.48
+273,419,91,2025-01-03,"minor fix, just needed an adjustment",509.03
+274,420,82,2022-07-02,"welded the crack, structurally sound now",449.79
+275,421,19,2020-01-18,"minor fix, just needed an adjustment",547.09
+276,422,242,2021-09-13,"patched it up, recommend replacing soon",659.42
+277,425,52,2025-01-29,topped off fluids and tightened everything,674.22
+278,426,50,2025-09-22,"full replacement done, runs smooth",380.25
+279,427,33,2020-12-27,flushed the system and refilled,373.64
+280,428,42,2023-10-14,"electrical issue fixed, tested all circuits",382.13
+281,429,81,2023-03-31,"full replacement done, runs smooth",308.51
+282,434,110,2021-03-29,"replaced worn components, all good",310.27
+283,436,178,2020-08-01,"replaced worn components, all good",542.53
+284,439,75,2023-12-03,"diagnosed and repaired, no further issues",288.99
+285,442,87,2023-07-03,"replaced worn components, all good",312.41
+286,443,94,2020-07-23,"welded the crack, structurally sound now",290.52
+287,445,229,2025-01-16,swapped out the old one for a new unit,558.45
+288,446,99,2022-12-12,"replaced worn components, all good",575.31
+289,447,21,2021-10-02,"fixed the issue, test drove it",257.78
+290,448,93,2025-12-13,"welded the crack, structurally sound now",766.73
+291,452,73,2025-04-23,"fixed the issue, test drove it",458.34
+292,453,159,2025-11-10,"cleaned and adjusted, should be fine now",559.5
+293,455,33,2023-08-18,"filter and fluid change, should last a while",538.67
+294,456,93,2022-05-01,"electrical issue fixed, tested all circuits",748.1
+295,457,241,2020-10-08,"welded the crack, structurally sound now",543.27
+296,459,135,2022-10-18,"minor fix, just needed an adjustment",152.12
+297,461,194,2024-06-28,"full replacement done, runs smooth",528.84
+298,462,24,2025-06-10,"fixed the issue, test drove it",497.95
+299,465,181,2022-04-11,"fixed the issue, test drove it",257.01
+300,466,232,2022-04-22,"diagnosed and repaired, no further issues",253.93
+301,467,75,2024-04-27,"cleaned and adjusted, should be fine now",71.53
+302,468,52,2023-07-21,"electrical issue fixed, tested all circuits",650.3
+303,469,34,2020-09-14,flushed the system and refilled,323.93
+304,470,159,2025-11-05,topped off fluids and tightened everything,384.0
+305,472,6,2022-02-27,"realigned and balanced, drives straight now",625.32
+306,473,36,2025-04-20,"replaced the part, good to go",171.13
+307,474,186,2022-07-10,flushed the system and refilled,690.14
+308,475,44,2025-05-11,"welded the crack, structurally sound now",95.96
+309,476,43,2025-08-26,topped off fluids and tightened everything,705.49
+310,477,73,2025-05-23,"realigned and balanced, drives straight now",569.23
+311,478,149,2020-01-08,"electrical issue fixed, tested all circuits",363.29
+312,481,74,2022-03-13,"filter and fluid change, should last a while",640.58
+313,482,5,2022-06-15,topped off fluids and tightened everything,94.95
+314,486,204,2024-11-25,"fixed the issue, test drove it",662.62
+315,488,230,2024-03-26,"patched it up, recommend replacing soon",581.78
+316,489,168,2022-12-27,"patched it up, recommend replacing soon",395.6
+317,490,81,2021-11-01,"replaced worn components, all good",72.38
+318,492,6,2025-02-26,"welded the crack, structurally sound now",658.41
+319,493,155,2021-01-10,topped off fluids and tightened everything,93.62
+320,494,204,2020-03-09,flushed the system and refilled,208.42
+321,496,39,2020-07-29,topped off fluids and tightened everything,340.14
+322,497,22,2021-04-21,"welded the crack, structurally sound now",485.62
+323,498,244,2021-02-09,"fixed the issue, test drove it",183.06
+324,499,77,2021-09-23,"realigned and balanced, drives straight now",782.48
+325,500,67,2020-05-25,"minor fix, just needed an adjustment",575.29
+326,501,121,2022-05-06,swapped out the old one for a new unit,191.11
+327,503,196,2023-08-08,"replaced worn components, all good",360.11
+328,507,45,2025-09-14,"diagnosed and repaired, no further issues",356.33
+329,508,106,2023-03-08,"cleaned and adjusted, should be fine now",407.52
+330,509,74,2022-05-13,"cleaned and adjusted, should be fine now",114.88
+331,510,29,2024-07-29,"replaced the part, good to go",624.29
+332,513,158,2025-08-03,"welded the crack, structurally sound now",564.25
+333,515,52,2024-05-29,"fixed the issue, test drove it",795.3
+334,516,10,2024-03-25,topped off fluids and tightened everything,483.85
+335,517,78,2020-04-16,"replaced the part, good to go",151.14
+336,518,134,2021-08-18,"replaced the part, good to go",455.94
+337,519,165,2022-04-19,"realigned and balanced, drives straight now",79.43
+338,520,97,2023-08-14,"full replacement done, runs smooth",259.06
+339,521,92,2022-04-04,swapped out the old one for a new unit,115.69
+340,524,146,2021-04-12,flushed the system and refilled,471.18
+341,525,151,2025-12-17,"minor fix, just needed an adjustment",144.41
+342,526,171,2022-08-05,swapped out the old one for a new unit,273.72
+343,527,246,2022-01-14,"realigned and balanced, drives straight now",657.9
+344,528,52,2022-08-01,"diagnosed and repaired, no further issues",768.3
+345,531,59,2020-12-15,"full replacement done, runs smooth",707.78
+346,532,160,2020-10-06,"diagnosed and repaired, no further issues",66.72
+347,533,76,2025-03-08,"realigned and balanced, drives straight now",707.0
+348,534,17,2020-01-30,"diagnosed and repaired, no further issues",90.93
+349,536,219,2022-10-08,swapped out the old one for a new unit,560.36
+350,537,230,2022-04-19,"fixed the issue, test drove it",504.25
+351,538,227,2021-01-30,"electrical issue fixed, tested all circuits",616.11
+352,540,74,2022-08-11,"patched it up, recommend replacing soon",655.18
+353,543,7,2025-07-22,swapped out the old one for a new unit,584.69
+354,544,200,2025-12-16,"replaced the part, good to go",616.67
+355,545,63,2022-08-29,"electrical issue fixed, tested all circuits",229.21
+356,546,94,2020-12-31,"replaced the part, good to go",767.57
+357,547,19,2021-10-27,"welded the crack, structurally sound now",427.41
+358,549,197,2024-12-29,"patched it up, recommend replacing soon",69.97
+359,551,183,2024-06-13,"diagnosed and repaired, no further issues",293.73
+360,553,180,2023-07-28,"patched it up, recommend replacing soon",573.3
+361,556,167,2025-07-31,"cleaned and adjusted, should be fine now",200.22
+362,559,211,2020-10-29,"electrical issue fixed, tested all circuits",603.45
+363,560,30,2024-12-16,"replaced the part, good to go",672.32
+364,561,169,2022-02-17,flushed the system and refilled,415.47
+365,562,19,2023-12-15,flushed the system and refilled,778.63
+366,565,171,2020-08-28,"electrical issue fixed, tested all circuits",67.52
+367,567,197,2023-01-23,"realigned and balanced, drives straight now",610.16
+368,570,249,2020-03-22,"replaced the part, good to go",764.43
+369,574,194,2020-04-17,"replaced worn components, all good",499.34
+370,577,220,2021-12-01,swapped out the old one for a new unit,71.83
+371,581,102,2022-09-19,"diagnosed and repaired, no further issues",42.6
+372,582,88,2023-09-08,"replaced worn components, all good",242.72
+373,583,233,2024-05-29,"filter and fluid change, should last a while",673.91
+374,584,101,2024-08-04,flushed the system and refilled,493.56
+375,585,220,2024-04-18,"cleaned and adjusted, should be fine now",789.78
+376,586,63,2023-06-01,"realigned and balanced, drives straight now",382.44
+377,588,7,2024-10-30,"fixed the issue, test drove it",600.2
+378,589,81,2025-10-14,"filter and fluid change, should last a while",31.9
+379,591,6,2023-12-26,"diagnosed and repaired, no further issues",696.65
+380,593,16,2024-11-17,flushed the system and refilled,62.63
+381,594,107,2022-09-14,swapped out the old one for a new unit,166.52
+382,595,76,2025-03-05,"filter and fluid change, should last a while",48.73
+383,596,192,2025-09-17,"patched it up, recommend replacing soon",714.4
+384,597,199,2021-10-20,topped off fluids and tightened everything,246.12
+385,600,178,2020-05-17,"realigned and balanced, drives straight now",432.75
+386,601,49,2020-09-10,"welded the crack, structurally sound now",529.6
+387,604,62,2021-12-13,"patched it up, recommend replacing soon",489.83
+388,606,1,2025-07-13,"replaced worn components, all good",406.99
+389,607,36,2023-11-23,"filter and fluid change, should last a while",714.24
+390,608,233,2022-09-24,"filter and fluid change, should last a while",561.65
+391,609,175,2021-07-23,"minor fix, just needed an adjustment",757.8
+392,610,190,2023-12-26,"patched it up, recommend replacing soon",270.18
+393,612,222,2022-01-28,swapped out the old one for a new unit,505.66
+394,613,29,2023-11-21,"replaced worn components, all good",764.98
+395,617,200,2022-09-05,swapped out the old one for a new unit,737.49
+396,618,132,2023-02-12,"cleaned and adjusted, should be fine now",628.17
+397,619,60,2022-02-01,"diagnosed and repaired, no further issues",445.56
+398,620,232,2024-11-16,"minor fix, just needed an adjustment",575.59
+399,621,50,2022-01-26,"welded the crack, structurally sound now",461.01
+400,623,162,2025-12-07,"cleaned and adjusted, should be fine now",763.46
+401,624,136,2023-12-04,"replaced the part, good to go",225.03
+402,625,60,2022-12-05,topped off fluids and tightened everything,365.21
+403,626,132,2020-12-01,"full replacement done, runs smooth",351.35
+404,629,204,2025-02-05,"minor fix, just needed an adjustment",358.81
+405,630,122,2025-05-06,topped off fluids and tightened everything,101.16
+406,632,59,2024-05-04,"electrical issue fixed, tested all circuits",93.46
+407,633,9,2023-07-30,swapped out the old one for a new unit,106.88
+408,635,85,2021-02-24,"welded the crack, structurally sound now",155.71
+409,636,113,2022-11-27,"full replacement done, runs smooth",53.92
+410,641,66,2023-10-11,"minor fix, just needed an adjustment",258.98
+411,643,131,2022-07-22,"fixed the issue, test drove it",605.7
+412,646,68,2021-09-19,"electrical issue fixed, tested all circuits",86.59
+413,647,112,2022-09-21,"minor fix, just needed an adjustment",112.37
+414,648,79,2021-08-26,swapped out the old one for a new unit,569.86
+415,649,228,2022-10-06,"fixed the issue, test drove it",345.91
+416,650,97,2024-02-29,"fixed the issue, test drove it",262.86
+417,651,234,2020-09-18,"filter and fluid change, should last a while",178.64
+418,652,96,2020-04-10,"fixed the issue, test drove it",425.21
+419,654,42,2022-10-21,"realigned and balanced, drives straight now",604.97
+420,655,200,2020-12-17,"patched it up, recommend replacing soon",288.33
+421,656,161,2025-06-08,"full replacement done, runs smooth",777.79
+422,657,232,2020-03-09,"cleaned and adjusted, should be fine now",599.68
+423,658,128,2021-04-17,"full replacement done, runs smooth",417.58
+424,659,65,2023-11-06,"filter and fluid change, should last a while",755.89
+425,660,248,2021-11-06,swapped out the old one for a new unit,412.37
+426,661,22,2020-12-11,"electrical issue fixed, tested all circuits",46.16
+427,663,74,2020-11-19,"electrical issue fixed, tested all circuits",549.41
+428,666,161,2020-01-15,"patched it up, recommend replacing soon",242.63
+429,667,86,2020-12-10,"replaced worn components, all good",299.48
+430,668,105,2023-02-08,"full replacement done, runs smooth",47.21
+431,669,59,2021-12-28,"filter and fluid change, should last a while",91.83
+432,670,153,2025-11-08,flushed the system and refilled,784.05
+433,671,38,2020-05-27,"electrical issue fixed, tested all circuits",141.12
+434,673,56,2023-07-27,"full replacement done, runs smooth",644.89
+435,674,120,2024-06-26,topped off fluids and tightened everything,557.42
+436,675,176,2020-02-05,flushed the system and refilled,689.36
+437,676,247,2025-03-08,"diagnosed and repaired, no further issues",601.4
+438,677,205,2020-10-11,"full replacement done, runs smooth",643.33
+439,679,59,2020-11-13,"patched it up, recommend replacing soon",535.04
+440,683,223,2020-01-12,"replaced worn components, all good",276.75
+441,684,173,2022-09-03,"diagnosed and repaired, no further issues",41.64
+442,686,202,2021-05-21,swapped out the old one for a new unit,225.44
+443,687,199,2024-09-08,"replaced worn components, all good",469.53
+444,692,104,2023-12-29,"welded the crack, structurally sound now",727.84
+445,693,8,2021-02-20,"fixed the issue, test drove it",78.97
+446,694,105,2020-02-18,"realigned and balanced, drives straight now",637.81
+447,696,219,2026-01-06,"electrical issue fixed, tested all circuits",624.57
+448,697,4,2022-01-11,topped off fluids and tightened everything,657.59
+449,698,160,2024-03-04,"minor fix, just needed an adjustment",235.81
+450,699,223,2022-12-31,"diagnosed and repaired, no further issues",655.04
+451,702,8,2023-10-18,"realigned and balanced, drives straight now",350.48
+452,703,207,2024-10-25,"welded the crack, structurally sound now",467.07
+453,704,182,2025-01-11,"replaced worn components, all good",284.92
+454,705,181,2025-08-15,topped off fluids and tightened everything,653.76
+455,706,152,2024-10-14,topped off fluids and tightened everything,245.94
+456,707,191,2021-03-18,"full replacement done, runs smooth",471.46
+457,708,75,2024-12-11,"filter and fluid change, should last a while",90.52
+458,709,189,2024-02-09,"realigned and balanced, drives straight now",393.88
+459,712,178,2021-08-06,"patched it up, recommend replacing soon",679.67
+460,713,33,2024-04-15,"patched it up, recommend replacing soon",155.63
+461,714,1,2024-05-20,"fixed the issue, test drove it",346.55
+462,716,238,2021-04-08,"welded the crack, structurally sound now",796.94
+463,719,238,2022-07-28,"filter and fluid change, should last a while",76.8
+464,721,114,2020-04-24,topped off fluids and tightened everything,262.18
+465,722,148,2024-04-03,"electrical issue fixed, tested all circuits",245.54
+466,723,192,2025-09-27,"replaced worn components, all good",167.7
+467,725,80,2020-05-05,"fixed the issue, test drove it",657.49
+468,726,182,2022-07-25,"minor fix, just needed an adjustment",201.66
+469,727,41,2023-11-18,topped off fluids and tightened everything,729.82
+470,729,131,2020-09-02,"diagnosed and repaired, no further issues",581.78
+471,730,175,2023-03-03,"filter and fluid change, should last a while",60.79
+472,733,23,2025-05-26,"replaced the part, good to go",385.47
+473,735,247,2024-06-29,"cleaned and adjusted, should be fine now",554.39
+474,736,159,2025-01-13,flushed the system and refilled,533.49
+475,738,114,2020-08-26,"fixed the issue, test drove it",596.69
+476,740,61,2024-08-03,"filter and fluid change, should last a while",234.7
+477,741,199,2025-10-26,topped off fluids and tightened everything,458.56
+478,743,23,2020-11-22,"welded the crack, structurally sound now",686.22
+479,744,44,2022-10-03,"realigned and balanced, drives straight now",715.55
+480,745,217,2021-02-03,"electrical issue fixed, tested all circuits",215.05
+481,746,182,2023-12-19,"electrical issue fixed, tested all circuits",141.06
+482,747,227,2024-09-23,"welded the crack, structurally sound now",444.91
+483,748,163,2025-06-24,"diagnosed and repaired, no further issues",155.96
+484,752,136,2024-10-22,"diagnosed and repaired, no further issues",577.53
+485,754,220,2022-03-13,flushed the system and refilled,406.26
+486,756,142,2020-05-31,flushed the system and refilled,186.29
+487,757,235,2020-08-20,"full replacement done, runs smooth",711.08
+488,759,96,2023-09-29,flushed the system and refilled,378.67
+489,760,182,2024-09-27,"fixed the issue, test drove it",666.65
+490,764,87,2022-02-01,"minor fix, just needed an adjustment",125.67
+491,765,186,2022-11-17,"fixed the issue, test drove it",672.74
+492,766,221,2022-01-12,"replaced the part, good to go",548.23
+493,767,133,2022-02-20,"replaced worn components, all good",240.14
+494,768,238,2024-06-17,"welded the crack, structurally sound now",26.57
+495,769,186,2022-12-02,"fixed the issue, test drove it",114.89
+496,770,106,2022-10-28,"fixed the issue, test drove it",258.04
+497,771,102,2024-05-18,topped off fluids and tightened everything,320.91
+498,773,166,2020-07-08,"fixed the issue, test drove it",799.5
+499,774,219,2023-06-14,swapped out the old one for a new unit,71.77
+500,776,147,2021-03-23,"patched it up, recommend replacing soon",645.19
+501,777,44,2021-01-26,"electrical issue fixed, tested all circuits",259.03
+502,778,235,2022-05-01,swapped out the old one for a new unit,768.7
+503,779,208,2024-11-03,flushed the system and refilled,425.04
+504,780,139,2021-07-24,flushed the system and refilled,618.18
+505,785,248,2023-06-28,"cleaned and adjusted, should be fine now",211.91
+506,786,184,2021-02-23,"diagnosed and repaired, no further issues",777.13
+507,787,143,2021-11-29,"filter and fluid change, should last a while",777.75
+508,789,126,2024-02-22,"replaced the part, good to go",68.79
+509,790,143,2024-08-19,"welded the crack, structurally sound now",118.77
+510,791,37,2025-10-14,swapped out the old one for a new unit,158.75
+511,792,238,2024-09-03,"cleaned and adjusted, should be fine now",92.07
+512,794,166,2022-03-10,"electrical issue fixed, tested all circuits",455.07
+513,795,7,2022-03-07,"cleaned and adjusted, should be fine now",610.09
+514,796,103,2021-07-10,"replaced worn components, all good",777.98
+515,797,15,2020-08-25,"full replacement done, runs smooth",541.03
+516,799,105,2022-04-08,"replaced the part, good to go",140.01
+517,800,110,2023-01-04,"welded the crack, structurally sound now",582.17
+518,801,52,2021-12-23,swapped out the old one for a new unit,667.43
+519,804,165,2022-08-12,"diagnosed and repaired, no further issues",73.96
+520,805,78,2022-10-27,"electrical issue fixed, tested all circuits",664.59
+521,807,135,2022-08-04,"fixed the issue, test drove it",620.62
+522,809,0,2022-01-10,"replaced the part, good to go",171.41
+523,810,190,2022-03-01,"replaced the part, good to go",669.77
+524,811,191,2022-08-09,"filter and fluid change, should last a while",787.49
+525,812,114,2024-02-28,"electrical issue fixed, tested all circuits",215.62
+526,814,133,2024-02-03,"replaced the part, good to go",433.99
+527,816,131,2021-07-13,"realigned and balanced, drives straight now",348.11
+528,818,182,2020-04-09,"electrical issue fixed, tested all circuits",361.85
+529,820,206,2023-01-28,swapped out the old one for a new unit,152.27
+530,821,127,2024-10-26,"filter and fluid change, should last a while",640.72
+531,822,180,2023-08-31,"replaced worn components, all good",772.02
+532,823,227,2025-04-18,swapped out the old one for a new unit,236.55
+533,825,69,2020-06-12,"cleaned and adjusted, should be fine now",546.1
+534,826,177,2021-07-18,"diagnosed and repaired, no further issues",584.97
+535,827,138,2023-02-06,"filter and fluid change, should last a while",342.26
+536,829,175,2022-11-25,"replaced worn components, all good",342.63
+537,830,15,2021-03-25,"diagnosed and repaired, no further issues",643.79
+538,832,172,2022-12-17,topped off fluids and tightened everything,654.36
+539,835,101,2024-01-13,"diagnosed and repaired, no further issues",128.25
+540,836,120,2020-01-07,"patched it up, recommend replacing soon",549.66
+541,837,22,2025-09-12,"replaced worn components, all good",420.12
+542,838,128,2025-07-06,"diagnosed and repaired, no further issues",798.4
+543,841,69,2023-02-20,"diagnosed and repaired, no further issues",472.48
+544,843,0,2023-11-19,"welded the crack, structurally sound now",650.01
+545,844,49,2022-12-22,"patched it up, recommend replacing soon",617.65
+546,845,193,2025-04-17,"replaced the part, good to go",169.07
+547,846,249,2023-09-20,"full replacement done, runs smooth",498.88
+548,847,57,2020-05-16,swapped out the old one for a new unit,121.88
+549,848,190,2022-09-18,flushed the system and refilled,762.83
+550,850,65,2023-05-22,"cleaned and adjusted, should be fine now",763.6
+551,851,95,2022-10-25,swapped out the old one for a new unit,212.18
+552,853,156,2020-08-14,"realigned and balanced, drives straight now",613.18
+553,854,118,2025-10-10,"electrical issue fixed, tested all circuits",660.51
+554,856,198,2024-04-06,"replaced the part, good to go",592.64
+555,857,58,2022-05-08,"fixed the issue, test drove it",360.33
+556,858,87,2025-06-30,flushed the system and refilled,140.08
+557,859,119,2025-05-04,"realigned and balanced, drives straight now",395.94
+558,864,31,2022-09-30,"patched it up, recommend replacing soon",573.77
+559,867,51,2022-06-26,"electrical issue fixed, tested all circuits",515.48
+560,868,151,2023-02-20,"replaced the part, good to go",583.09
+561,869,91,2024-11-01,"filter and fluid change, should last a while",706.8
+562,870,102,2021-07-21,"welded the crack, structurally sound now",619.48
+563,871,153,2023-07-20,swapped out the old one for a new unit,175.44
+564,872,126,2025-07-30,swapped out the old one for a new unit,193.25
+565,873,66,2023-01-23,"cleaned and adjusted, should be fine now",437.91
+566,874,90,2025-08-30,"full replacement done, runs smooth",148.49
+567,875,242,2024-01-02,"minor fix, just needed an adjustment",203.93
+568,878,35,2025-05-14,"electrical issue fixed, tested all circuits",670.5
+569,879,208,2021-09-10,"diagnosed and repaired, no further issues",547.48
+570,880,47,2023-12-28,"electrical issue fixed, tested all circuits",474.29
+571,881,26,2022-03-29,swapped out the old one for a new unit,652.68
+572,882,183,2025-04-20,"filter and fluid change, should last a while",619.29
+573,883,178,2022-05-12,"welded the crack, structurally sound now",66.24
+574,886,139,2024-01-13,"replaced worn components, all good",266.95
+575,889,167,2022-10-07,topped off fluids and tightened everything,750.09
+576,890,8,2021-06-20,"realigned and balanced, drives straight now",370.47
+577,891,68,2020-02-28,swapped out the old one for a new unit,205.75
+578,893,194,2020-09-05,flushed the system and refilled,120.94
+579,894,160,2024-01-29,"welded the crack, structurally sound now",653.29
+580,895,53,2025-08-25,topped off fluids and tightened everything,309.53
+581,896,162,2023-07-23,"fixed the issue, test drove it",124.11
+582,898,165,2023-02-14,"welded the crack, structurally sound now",449.25
+583,899,236,2023-06-09,topped off fluids and tightened everything,385.17
+584,901,112,2025-06-18,"replaced worn components, all good",430.92
+585,903,181,2024-04-29,flushed the system and refilled,313.06
+586,904,239,2020-03-15,flushed the system and refilled,113.1
+587,905,243,2024-07-19,"replaced worn components, all good",535.51
+588,907,138,2023-02-05,"welded the crack, structurally sound now",782.36
+589,908,160,2022-08-12,topped off fluids and tightened everything,311.39
+590,911,180,2022-09-23,topped off fluids and tightened everything,259.4
+591,912,212,2021-10-10,"cleaned and adjusted, should be fine now",99.29
+592,914,125,2020-05-22,"realigned and balanced, drives straight now",443.02
+593,915,56,2022-10-01,"replaced worn components, all good",543.26
+594,917,111,2022-12-09,"replaced the part, good to go",275.49
+595,919,182,2022-12-13,flushed the system and refilled,663.53
+596,920,50,2021-11-22,"replaced worn components, all good",357.22
+597,921,135,2022-07-18,"replaced worn components, all good",183.24
+598,922,185,2024-07-24,"minor fix, just needed an adjustment",793.83
+599,923,54,2023-06-02,"electrical issue fixed, tested all circuits",468.43
+600,924,56,2024-02-19,"diagnosed and repaired, no further issues",500.55
+601,925,155,2021-08-08,"welded the crack, structurally sound now",735.12
+602,928,172,2024-02-10,"filter and fluid change, should last a while",193.71
+603,929,54,2023-09-05,"realigned and balanced, drives straight now",313.53
+604,930,60,2025-11-12,"fixed the issue, test drove it",485.24
+605,931,95,2021-12-12,"replaced worn components, all good",663.81
+606,932,107,2025-10-31,"electrical issue fixed, tested all circuits",306.17
+607,933,20,2023-11-24,flushed the system and refilled,588.8
+608,934,32,2022-04-26,"replaced the part, good to go",331.99
+609,935,111,2026-01-04,"welded the crack, structurally sound now",595.74
+610,936,134,2020-06-23,flushed the system and refilled,545.1
+611,939,9,2021-10-11,flushed the system and refilled,379.75
+612,940,76,2025-03-19,"full replacement done, runs smooth",390.05
+613,941,222,2021-02-24,"filter and fluid change, should last a while",465.39
+614,942,173,2025-04-26,"full replacement done, runs smooth",216.13
+615,943,143,2020-12-31,"patched it up, recommend replacing soon",586.22
+616,944,22,2022-11-01,"realigned and balanced, drives straight now",25.75
+617,947,135,2023-06-17,"cleaned and adjusted, should be fine now",265.58
+618,948,219,2025-12-29,"full replacement done, runs smooth",155.89
+619,949,26,2020-07-18,"patched it up, recommend replacing soon",463.63
+620,951,102,2024-07-27,"welded the crack, structurally sound now",549.68
+621,952,75,2023-06-08,"replaced worn components, all good",549.41
+622,953,106,2022-01-25,"replaced worn components, all good",492.88
+623,954,157,2024-07-28,"welded the crack, structurally sound now",487.27
+624,955,1,2021-09-20,"minor fix, just needed an adjustment",461.23
+625,957,82,2024-09-25,"realigned and balanced, drives straight now",246.65
+626,958,92,2021-01-23,"electrical issue fixed, tested all circuits",538.45
+627,959,94,2022-10-24,"fixed the issue, test drove it",389.2
+628,960,131,2021-08-09,swapped out the old one for a new unit,49.27
+629,962,38,2024-07-16,"filter and fluid change, should last a while",95.56
+630,964,169,2023-01-16,"realigned and balanced, drives straight now",650.17
+631,965,119,2020-01-19,"full replacement done, runs smooth",545.4
+632,966,56,2023-12-21,"realigned and balanced, drives straight now",779.05
+633,968,89,2020-05-15,"full replacement done, runs smooth",534.03
+634,969,118,2023-01-02,"realigned and balanced, drives straight now",570.97
+635,970,47,2021-06-13,"realigned and balanced, drives straight now",183.49
+636,973,235,2025-10-05,"diagnosed and repaired, no further issues",232.62
+637,974,54,2021-09-04,"fixed the issue, test drove it",355.22
+638,975,100,2024-04-05,"electrical issue fixed, tested all circuits",99.43
+639,977,31,2024-01-08,"replaced worn components, all good",33.04
+640,978,140,2025-01-29,"full replacement done, runs smooth",332.16
+641,979,248,2020-04-16,"replaced the part, good to go",604.54
+642,980,53,2024-06-07,"realigned and balanced, drives straight now",144.55
+643,981,79,2021-01-23,"welded the crack, structurally sound now",610.48
+644,982,198,2024-01-03,"minor fix, just needed an adjustment",712.09
+645,984,160,2024-04-20,swapped out the old one for a new unit,539.97
+646,986,131,2021-06-13,"replaced worn components, all good",306.38
+647,988,240,2023-02-22,"fixed the issue, test drove it",400.37
+648,990,110,2025-09-27,"replaced the part, good to go",634.84
+649,993,157,2023-04-12,"replaced the part, good to go",489.59
+650,995,126,2022-08-14,"welded the crack, structurally sound now",346.5
+651,998,234,2023-10-01,"realigned and balanced, drives straight now",534.12
+652,999,93,2024-06-11,"minor fix, just needed an adjustment",108.27
+653,1000,73,2025-09-27,"electrical issue fixed, tested all circuits",405.4
+654,1001,63,2025-12-16,topped off fluids and tightened everything,349.31
+655,1002,246,2021-09-12,"filter and fluid change, should last a while",257.61
+656,1003,234,2026-01-06,"electrical issue fixed, tested all circuits",190.39
+657,1004,245,2021-11-08,"minor fix, just needed an adjustment",366.37
+658,1005,140,2021-04-12,"replaced the part, good to go",601.76
+659,1006,201,2024-03-23,"realigned and balanced, drives straight now",277.33
+660,1007,128,2025-09-28,"replaced the part, good to go",535.87
+661,1008,99,2023-05-11,"patched it up, recommend replacing soon",736.75
+662,1009,22,2024-08-12,swapped out the old one for a new unit,367.94
+663,1011,204,2025-06-01,topped off fluids and tightened everything,598.62
+664,1013,113,2024-01-04,"replaced worn components, all good",434.72
+665,1014,192,2023-08-21,"minor fix, just needed an adjustment",208.2
+666,1015,113,2021-10-15,swapped out the old one for a new unit,656.85
+667,1016,90,2025-02-16,"replaced worn components, all good",660.04
+668,1018,130,2024-12-27,"replaced worn components, all good",191.1
+669,1022,10,2024-01-13,"cleaned and adjusted, should be fine now",603.85
+670,1023,14,2021-04-04,swapped out the old one for a new unit,59.94
+671,1024,220,2024-10-23,flushed the system and refilled,483.56
+672,1025,172,2022-05-02,topped off fluids and tightened everything,329.79
+673,1026,155,2021-04-06,"cleaned and adjusted, should be fine now",230.54
+674,1027,56,2023-09-06,"electrical issue fixed, tested all circuits",703.02
+675,1028,91,2023-02-28,"minor fix, just needed an adjustment",339.42
+676,1029,84,2022-06-01,"fixed the issue, test drove it",169.67
+677,1033,26,2020-02-13,"patched it up, recommend replacing soon",326.38
+678,1035,210,2023-10-01,"minor fix, just needed an adjustment",375.2
+679,1036,1,2022-09-26,"minor fix, just needed an adjustment",59.88
+680,1037,84,2025-06-26,topped off fluids and tightened everything,350.2
+681,1038,74,2023-01-27,"full replacement done, runs smooth",25.54
+682,1039,76,2021-10-02,"electrical issue fixed, tested all circuits",70.41
+683,1040,122,2024-12-02,topped off fluids and tightened everything,367.0
+684,1041,117,2021-07-24,"realigned and balanced, drives straight now",733.35
+685,1042,31,2023-10-04,"realigned and balanced, drives straight now",708.04
+686,1043,109,2023-05-10,"cleaned and adjusted, should be fine now",162.5
+687,1045,207,2024-12-30,"replaced the part, good to go",788.39
+688,1046,60,2025-08-26,"replaced worn components, all good",657.51
+689,1047,103,2024-01-14,"patched it up, recommend replacing soon",783.75
+690,1048,141,2022-10-16,"full replacement done, runs smooth",575.37
+691,1051,182,2022-06-24,"realigned and balanced, drives straight now",79.35
+692,1053,144,2025-01-14,flushed the system and refilled,59.42
+693,1055,201,2021-02-26,topped off fluids and tightened everything,120.03
+694,1057,133,2023-02-18,swapped out the old one for a new unit,191.51
+695,1059,95,2024-10-27,"filter and fluid change, should last a while",446.45
+696,1060,182,2022-10-09,flushed the system and refilled,335.85
+697,1061,25,2025-05-16,swapped out the old one for a new unit,424.61
+698,1062,80,2023-12-17,"replaced the part, good to go",618.98
+699,1063,6,2020-03-19,"replaced worn components, all good",287.52
+700,1064,218,2022-12-21,swapped out the old one for a new unit,637.11
+701,1065,2,2023-06-08,"welded the crack, structurally sound now",710.32
+702,1067,17,2021-12-18,"filter and fluid change, should last a while",253.09
+703,1068,90,2020-08-21,"diagnosed and repaired, no further issues",98.37
+704,1069,138,2023-05-08,"welded the crack, structurally sound now",315.46
+705,1074,14,2020-10-26,"realigned and balanced, drives straight now",733.61
+706,1075,206,2025-06-05,"replaced worn components, all good",253.78
+707,1076,145,2025-04-14,"replaced worn components, all good",114.85
+708,1077,233,2021-03-07,flushed the system and refilled,632.92
+709,1079,95,2023-09-08,"welded the crack, structurally sound now",301.09
+710,1080,30,2022-06-04,"fixed the issue, test drove it",545.68
+711,1081,189,2022-09-12,"replaced worn components, all good",197.52
+712,1083,237,2023-11-19,"full replacement done, runs smooth",437.5
+713,1085,20,2024-08-09,"full replacement done, runs smooth",641.09
+714,1086,126,2025-12-15,"diagnosed and repaired, no further issues",31.03
+715,1087,2,2022-03-13,topped off fluids and tightened everything,498.0
+716,1088,37,2023-05-30,"filter and fluid change, should last a while",183.11
+717,1091,41,2025-07-23,"filter and fluid change, should last a while",759.49
+718,1092,217,2022-10-10,"welded the crack, structurally sound now",579.43
+719,1093,200,2023-08-14,"welded the crack, structurally sound now",791.65
+720,1095,4,2024-07-13,"welded the crack, structurally sound now",731.63
+721,1096,25,2022-03-02,"full replacement done, runs smooth",89.89
+722,1097,246,2020-11-23,swapped out the old one for a new unit,185.84
+723,1098,35,2020-06-11,"electrical issue fixed, tested all circuits",175.9
+724,1101,147,2022-01-04,"cleaned and adjusted, should be fine now",770.33
+725,1102,10,2021-02-13,"filter and fluid change, should last a while",755.06
+726,1104,197,2024-07-15,topped off fluids and tightened everything,57.05
+727,1105,13,2024-11-02,swapped out the old one for a new unit,395.45
+728,1106,173,2023-12-30,"welded the crack, structurally sound now",744.91
+729,1107,126,2025-07-01,"minor fix, just needed an adjustment",455.65
+730,1109,98,2020-12-17,"realigned and balanced, drives straight now",372.95
+731,1110,138,2021-03-12,"full replacement done, runs smooth",334.56
+732,1111,17,2023-01-30,"welded the crack, structurally sound now",719.63
+733,1112,46,2023-07-07,"full replacement done, runs smooth",636.47
+734,1113,189,2022-07-19,"realigned and balanced, drives straight now",50.44
+735,1114,58,2022-07-24,"replaced the part, good to go",795.87
+736,1115,151,2020-09-26,"patched it up, recommend replacing soon",755.97
+737,1117,109,2022-07-29,"diagnosed and repaired, no further issues",547.18
+738,1120,43,2024-08-28,"fixed the issue, test drove it",454.63
+739,1121,12,2020-10-19,flushed the system and refilled,74.19
+740,1122,20,2021-03-14,"fixed the issue, test drove it",542.1
+741,1125,33,2021-04-01,flushed the system and refilled,575.6
+742,1127,199,2023-07-31,"filter and fluid change, should last a while",551.65
+743,1129,216,2023-07-31,"welded the crack, structurally sound now",196.78
+744,1133,15,2022-04-26,"patched it up, recommend replacing soon",301.81
+745,1134,223,2022-06-16,"minor fix, just needed an adjustment",620.96
+746,1135,148,2021-02-23,"welded the crack, structurally sound now",130.13
+747,1136,109,2022-12-13,"cleaned and adjusted, should be fine now",196.4
+748,1137,202,2020-04-28,"filter and fluid change, should last a while",538.63
+749,1138,153,2022-09-28,"minor fix, just needed an adjustment",535.03
+750,1139,129,2021-02-14,"replaced worn components, all good",797.24
+751,1141,208,2020-01-08,"filter and fluid change, should last a while",40.63
+752,1145,149,2021-08-25,"full replacement done, runs smooth",515.78
+753,1146,146,2025-06-14,"full replacement done, runs smooth",691.64
+754,1147,12,2020-09-30,"patched it up, recommend replacing soon",48.9
+755,1148,41,2025-08-06,"fixed the issue, test drove it",134.26
+756,1149,12,2025-11-27,swapped out the old one for a new unit,639.27
+757,1150,1,2020-07-29,"fixed the issue, test drove it",338.83
+758,1155,70,2020-12-19,"fixed the issue, test drove it",754.6
+759,1156,227,2022-08-10,"electrical issue fixed, tested all circuits",35.33
+760,1157,65,2022-11-01,"electrical issue fixed, tested all circuits",650.64
+761,1159,214,2021-06-19,"welded the crack, structurally sound now",444.36
+762,1160,19,2025-01-30,"replaced worn components, all good",412.16
+763,1162,26,2021-02-16,"replaced the part, good to go",648.44
+764,1163,141,2024-06-03,swapped out the old one for a new unit,236.71
+765,1164,144,2021-12-23,topped off fluids and tightened everything,242.38
+766,1165,224,2022-10-21,"replaced the part, good to go",660.68
+767,1166,2,2023-11-06,flushed the system and refilled,653.96
+768,1169,189,2020-02-17,"filter and fluid change, should last a while",729.23
+769,1170,128,2024-02-16,"full replacement done, runs smooth",666.46
+770,1172,177,2022-09-14,topped off fluids and tightened everything,288.87
+771,1173,110,2023-07-08,"minor fix, just needed an adjustment",195.84
+772,1175,158,2021-11-08,"minor fix, just needed an adjustment",733.78
+773,1177,89,2020-12-30,flushed the system and refilled,56.48
+774,1178,66,2025-05-31,"replaced worn components, all good",786.67
+775,1179,20,2022-06-26,"cleaned and adjusted, should be fine now",540.5
+776,1180,168,2025-07-11,topped off fluids and tightened everything,505.73
+777,1181,116,2025-06-27,"filter and fluid change, should last a while",797.53
+778,1182,113,2023-11-29,"full replacement done, runs smooth",163.83
+779,1183,217,2020-08-24,flushed the system and refilled,614.85
+780,1185,136,2021-01-20,"diagnosed and repaired, no further issues",339.83
+781,1186,99,2023-08-15,"fixed the issue, test drove it",705.56
+782,1188,206,2024-07-16,swapped out the old one for a new unit,59.79
+783,1189,100,2020-09-18,topped off fluids and tightened everything,408.91
+784,1190,134,2023-07-04,"full replacement done, runs smooth",120.68
+785,1191,75,2022-08-23,"realigned and balanced, drives straight now",315.88
+786,1192,132,2022-08-31,"replaced worn components, all good",727.64
+787,1194,34,2025-08-21,flushed the system and refilled,325.25
+788,1197,155,2024-12-14,"diagnosed and repaired, no further issues",766.92
+789,1198,21,2021-01-15,"electrical issue fixed, tested all circuits",327.43
+790,1201,35,2023-05-21,"realigned and balanced, drives straight now",443.61
+791,1202,111,2021-04-25,"electrical issue fixed, tested all circuits",171.97
+792,1203,152,2025-04-28,"cleaned and adjusted, should be fine now",234.3
+793,1205,240,2025-03-10,"welded the crack, structurally sound now",450.0
+794,1206,234,2021-11-22,"electrical issue fixed, tested all circuits",548.22
+795,1207,123,2025-09-17,"replaced the part, good to go",121.83
+796,1208,94,2022-04-18,"cleaned and adjusted, should be fine now",675.37
+797,1210,190,2024-11-19,"filter and fluid change, should last a while",554.96
+798,1211,11,2024-07-30,"fixed the issue, test drove it",720.06
+799,1213,210,2025-01-01,"diagnosed and repaired, no further issues",762.68
+800,1214,52,2024-03-15,"realigned and balanced, drives straight now",751.8
+801,1216,82,2025-04-04,topped off fluids and tightened everything,163.97
+802,1217,51,2020-12-20,"cleaned and adjusted, should be fine now",289.72
+803,1218,190,2021-05-25,"filter and fluid change, should last a while",51.23
+804,1220,133,2021-11-23,"realigned and balanced, drives straight now",673.61
+805,1223,214,2023-03-01,topped off fluids and tightened everything,490.16
+806,1224,224,2020-04-23,"diagnosed and repaired, no further issues",164.31
+807,1225,92,2022-07-30,"replaced the part, good to go",288.1
+808,1227,38,2024-11-27,flushed the system and refilled,303.98
+809,1228,187,2021-08-12,swapped out the old one for a new unit,281.1
+810,1230,196,2020-07-18,swapped out the old one for a new unit,582.22
+811,1231,131,2025-12-19,"patched it up, recommend replacing soon",736.87
+812,1233,4,2021-04-26,"replaced worn components, all good",769.53
+813,1234,159,2021-11-16,topped off fluids and tightened everything,539.51
+814,1235,62,2021-08-11,"cleaned and adjusted, should be fine now",587.34
+815,1236,182,2024-12-24,"replaced the part, good to go",493.51
+816,1237,226,2023-09-28,"welded the crack, structurally sound now",705.59
+817,1239,69,2024-06-27,topped off fluids and tightened everything,714.06
+818,1240,57,2022-08-05,"fixed the issue, test drove it",639.44
+819,1241,70,2021-05-30,"realigned and balanced, drives straight now",521.52
+820,1242,19,2021-01-20,"filter and fluid change, should last a while",49.0
+821,1244,231,2021-07-01,"welded the crack, structurally sound now",637.26
+822,1245,131,2025-10-31,topped off fluids and tightened everything,563.37
+823,1246,204,2022-11-09,swapped out the old one for a new unit,552.71
+824,1247,162,2024-01-30,"welded the crack, structurally sound now",671.72
+825,1248,151,2021-04-20,"minor fix, just needed an adjustment",142.13
+826,1249,223,2023-05-19,"replaced the part, good to go",611.15
+827,1254,24,2021-09-08,"fixed the issue, test drove it",355.99
+828,1255,135,2025-06-28,swapped out the old one for a new unit,96.87
+829,1256,125,2020-10-09,"replaced worn components, all good",695.76
+830,1257,230,2021-07-28,"minor fix, just needed an adjustment",87.63
+831,1258,27,2023-01-17,"replaced the part, good to go",769.09
+832,1261,205,2025-01-16,"replaced worn components, all good",321.72
+833,1264,220,2022-02-15,"cleaned and adjusted, should be fine now",779.4
+834,1265,88,2025-07-21,"minor fix, just needed an adjustment",623.58
+835,1267,193,2020-07-31,"full replacement done, runs smooth",653.35
+836,1268,173,2025-01-03,"patched it up, recommend replacing soon",415.55
+837,1270,115,2025-12-21,"electrical issue fixed, tested all circuits",756.72
+838,1272,88,2021-03-26,"cleaned and adjusted, should be fine now",348.18
+839,1273,196,2025-06-13,topped off fluids and tightened everything,414.26
+840,1276,243,2023-12-24,"cleaned and adjusted, should be fine now",176.45
+841,1278,193,2023-01-12,"filter and fluid change, should last a while",510.51
+842,1279,80,2025-05-10,topped off fluids and tightened everything,604.59
+843,1280,32,2021-03-08,"patched it up, recommend replacing soon",182.01
+844,1281,29,2023-08-15,"welded the crack, structurally sound now",386.1
+845,1282,134,2022-05-24,"minor fix, just needed an adjustment",611.85
+846,1283,141,2023-03-02,"patched it up, recommend replacing soon",60.7
+847,1284,63,2025-03-30,"patched it up, recommend replacing soon",308.28
+848,1285,141,2021-04-09,"minor fix, just needed an adjustment",169.68
+849,1286,246,2025-04-06,"cleaned and adjusted, should be fine now",30.51
+850,1287,67,2024-05-04,"full replacement done, runs smooth",391.43
+851,1289,97,2025-04-22,"full replacement done, runs smooth",574.16
+852,1290,136,2024-11-15,"minor fix, just needed an adjustment",448.14
+853,1292,126,2023-11-08,"patched it up, recommend replacing soon",572.75
+854,1293,211,2025-03-17,"diagnosed and repaired, no further issues",86.25
+855,1296,170,2025-10-26,"replaced the part, good to go",509.97
+856,1299,80,2023-05-03,"fixed the issue, test drove it",555.11
+857,1302,210,2020-09-29,"realigned and balanced, drives straight now",731.26
+858,1304,142,2021-11-23,"replaced worn components, all good",171.93
+859,1307,95,2022-08-15,"electrical issue fixed, tested all circuits",574.74
+860,1309,101,2021-02-16,"fixed the issue, test drove it",533.92
+861,1310,8,2022-09-24,"filter and fluid change, should last a while",254.04
+862,1311,230,2022-01-17,topped off fluids and tightened everything,637.52
+863,1312,67,2025-07-08,"replaced the part, good to go",517.57
+864,1313,31,2020-02-22,"electrical issue fixed, tested all circuits",325.46
+865,1315,71,2023-09-27,topped off fluids and tightened everything,300.49
+866,1316,151,2025-01-22,"filter and fluid change, should last a while",488.06
+867,1318,238,2024-09-09,"patched it up, recommend replacing soon",573.57
+868,1319,79,2025-05-10,"welded the crack, structurally sound now",183.67
+869,1320,17,2020-03-31,"electrical issue fixed, tested all circuits",499.56
+870,1321,122,2021-11-01,"electrical issue fixed, tested all circuits",119.92
+871,1322,217,2022-08-30,swapped out the old one for a new unit,200.99
+872,1323,62,2022-04-24,topped off fluids and tightened everything,633.76
+873,1324,238,2020-06-11,"cleaned and adjusted, should be fine now",507.22
+874,1325,215,2023-05-25,"diagnosed and repaired, no further issues",47.08
+875,1326,6,2023-07-12,"replaced the part, good to go",603.39
+876,1327,202,2025-07-05,topped off fluids and tightened everything,200.37
+877,1328,77,2020-08-12,"replaced worn components, all good",409.66
+878,1332,189,2022-03-26,"minor fix, just needed an adjustment",568.29
+879,1333,208,2020-03-27,"realigned and balanced, drives straight now",345.35
+880,1334,17,2022-01-31,"minor fix, just needed an adjustment",430.71
+881,1335,23,2025-04-17,"welded the crack, structurally sound now",394.03
+882,1337,103,2022-06-25,"realigned and balanced, drives straight now",796.88
+883,1339,207,2022-01-24,"cleaned and adjusted, should be fine now",114.59
+884,1341,146,2022-11-13,"cleaned and adjusted, should be fine now",411.83
+885,1344,65,2020-07-19,"diagnosed and repaired, no further issues",363.76
+886,1346,235,2021-01-05,"minor fix, just needed an adjustment",123.86
+887,1347,231,2025-08-08,"replaced worn components, all good",697.3
+888,1348,243,2020-08-16,swapped out the old one for a new unit,191.15
+889,1349,41,2023-05-12,"cleaned and adjusted, should be fine now",202.56
+890,1350,154,2020-11-23,topped off fluids and tightened everything,456.48
+891,1351,237,2024-03-18,"diagnosed and repaired, no further issues",35.68
+892,1352,115,2022-08-13,flushed the system and refilled,116.19
+893,1353,79,2025-10-29,"welded the crack, structurally sound now",596.8
+894,1354,231,2022-10-26,swapped out the old one for a new unit,643.11
+895,1355,142,2022-07-10,topped off fluids and tightened everything,381.37
+896,1356,185,2020-10-20,"diagnosed and repaired, no further issues",223.27
+897,1357,117,2025-07-29,swapped out the old one for a new unit,337.08
+898,1358,105,2021-05-24,"electrical issue fixed, tested all circuits",298.77
+899,1359,3,2022-08-02,flushed the system and refilled,774.41
+900,1361,96,2024-08-19,"cleaned and adjusted, should be fine now",150.59
+901,1362,140,2024-11-19,"cleaned and adjusted, should be fine now",118.11
+902,1363,247,2020-01-06,"electrical issue fixed, tested all circuits",557.77
+903,1364,137,2020-06-21,"fixed the issue, test drove it",475.3
+904,1365,237,2024-04-30,"filter and fluid change, should last a while",688.71
+905,1366,106,2025-01-11,"minor fix, just needed an adjustment",152.9
+906,1367,142,2022-06-14,topped off fluids and tightened everything,615.98
+907,1368,34,2025-09-06,topped off fluids and tightened everything,573.94
+908,1370,55,2021-02-06,swapped out the old one for a new unit,178.11
+909,1371,2,2021-09-15,topped off fluids and tightened everything,584.49
+910,1372,92,2022-05-08,"replaced worn components, all good",798.68
+911,1377,110,2020-06-02,"cleaned and adjusted, should be fine now",538.25
+912,1378,9,2024-07-11,"full replacement done, runs smooth",335.69
+913,1379,247,2021-10-24,"replaced the part, good to go",712.77
+914,1385,139,2025-10-18,swapped out the old one for a new unit,98.24
+915,1386,51,2020-07-26,flushed the system and refilled,733.46
+916,1387,52,2025-11-06,"minor fix, just needed an adjustment",653.81
+917,1388,70,2024-03-09,"welded the crack, structurally sound now",799.74
+918,1389,23,2023-03-10,"minor fix, just needed an adjustment",534.81
+919,1390,220,2025-03-17,"full replacement done, runs smooth",297.4
+920,1392,39,2024-04-05,"cleaned and adjusted, should be fine now",116.72
+921,1393,223,2024-03-12,"realigned and balanced, drives straight now",207.16
+922,1394,142,2025-07-15,"fixed the issue, test drove it",392.23
+923,1396,181,2024-02-05,topped off fluids and tightened everything,458.31
+924,1398,185,2024-12-05,"electrical issue fixed, tested all circuits",316.61
+925,1400,160,2023-09-26,"fixed the issue, test drove it",89.45
+926,1402,105,2022-09-29,"patched it up, recommend replacing soon",474.02
+927,1403,236,2024-04-04,"realigned and balanced, drives straight now",788.27
+928,1405,141,2023-03-17,flushed the system and refilled,575.06
+929,1406,146,2021-03-13,topped off fluids and tightened everything,154.36
+930,1407,159,2024-03-18,"diagnosed and repaired, no further issues",469.7
+931,1408,50,2020-04-21,"fixed the issue, test drove it",186.64
+932,1409,218,2020-05-14,swapped out the old one for a new unit,729.93
+933,1410,100,2025-07-29,"replaced worn components, all good",409.82
+934,1411,125,2025-11-07,"diagnosed and repaired, no further issues",356.44
+935,1412,126,2024-04-02,"diagnosed and repaired, no further issues",308.73
+936,1413,53,2022-04-13,"electrical issue fixed, tested all circuits",458.22
+937,1414,18,2022-06-22,"filter and fluid change, should last a while",626.06
+938,1416,22,2023-07-12,topped off fluids and tightened everything,798.78
+939,1417,18,2022-07-23,"patched it up, recommend replacing soon",195.55
+940,1419,208,2023-01-24,"replaced the part, good to go",768.95
+941,1421,167,2025-11-15,"electrical issue fixed, tested all circuits",255.78
+942,1422,110,2023-10-23,"diagnosed and repaired, no further issues",687.6
+943,1424,49,2022-10-23,"replaced worn components, all good",495.37
+944,1425,173,2023-04-02,"diagnosed and repaired, no further issues",683.38
+945,1426,29,2025-04-06,"filter and fluid change, should last a while",46.37
+946,1427,24,2020-11-19,"fixed the issue, test drove it",198.56
+947,1428,27,2022-12-15,topped off fluids and tightened everything,432.41
+948,1429,0,2025-09-11,topped off fluids and tightened everything,167.16
+949,1430,50,2024-08-23,topped off fluids and tightened everything,412.03
+950,1431,40,2021-04-27,"fixed the issue, test drove it",227.7
+951,1433,149,2023-02-11,"replaced the part, good to go",92.45
+952,1434,221,2024-04-23,"minor fix, just needed an adjustment",761.84
+953,1435,24,2023-09-10,"welded the crack, structurally sound now",322.97
+954,1436,209,2023-08-29,"filter and fluid change, should last a while",218.82
+955,1437,117,2023-06-05,"replaced worn components, all good",39.37
+956,1438,214,2022-12-09,"electrical issue fixed, tested all circuits",535.47
+957,1439,146,2024-05-29,"patched it up, recommend replacing soon",785.46
+958,1443,123,2021-09-19,"minor fix, just needed an adjustment",537.65
+959,1445,6,2022-10-21,"diagnosed and repaired, no further issues",500.15
+960,1446,146,2024-04-24,"diagnosed and repaired, no further issues",541.39
+961,1450,99,2023-06-05,"cleaned and adjusted, should be fine now",782.8
+962,1451,149,2022-05-25,"full replacement done, runs smooth",116.58
+963,1452,205,2022-12-10,"electrical issue fixed, tested all circuits",175.1
+964,1453,46,2020-10-18,topped off fluids and tightened everything,198.38
+965,1454,44,2021-02-28,"patched it up, recommend replacing soon",419.41
+966,1455,99,2020-12-26,"replaced worn components, all good",365.09
+967,1456,40,2021-05-03,topped off fluids and tightened everything,731.16
+968,1457,158,2023-06-29,"fixed the issue, test drove it",540.04
+969,1459,192,2023-02-09,"patched it up, recommend replacing soon",305.48
+970,1460,174,2021-02-20,"replaced worn components, all good",176.49
+971,1461,196,2022-06-04,"diagnosed and repaired, no further issues",386.85
+972,1466,30,2022-05-30,flushed the system and refilled,285.12
+973,1468,173,2022-10-17,"fixed the issue, test drove it",670.99
+974,1469,119,2023-04-08,"diagnosed and repaired, no further issues",184.34
+975,1470,206,2020-10-19,"realigned and balanced, drives straight now",673.44
+976,1471,105,2021-11-18,"filter and fluid change, should last a while",773.97
+977,1472,108,2020-10-02,"patched it up, recommend replacing soon",339.88
+978,1473,141,2025-07-06,"minor fix, just needed an adjustment",697.3
+979,1474,175,2020-06-05,"full replacement done, runs smooth",609.6
+980,1475,8,2024-08-04,"electrical issue fixed, tested all circuits",430.9
+981,1476,172,2021-01-31,"diagnosed and repaired, no further issues",180.36
+982,1478,88,2023-03-04,"full replacement done, runs smooth",789.39
+983,1479,122,2025-03-28,"filter and fluid change, should last a while",658.84
+984,1480,212,2025-11-04,topped off fluids and tightened everything,667.69
+985,1481,242,2025-10-28,"welded the crack, structurally sound now",175.77
+986,1482,218,2022-10-12,topped off fluids and tightened everything,235.44
+987,1483,127,2025-02-10,"cleaned and adjusted, should be fine now",321.58
+988,1484,38,2020-10-28,"full replacement done, runs smooth",675.73
+989,1485,168,2025-05-28,"welded the crack, structurally sound now",646.49
+990,1487,223,2025-12-06,"replaced worn components, all good",330.12
+991,1488,223,2021-03-24,topped off fluids and tightened everything,594.9
+992,1489,132,2023-02-19,flushed the system and refilled,599.6
+993,1490,98,2021-01-24,topped off fluids and tightened everything,659.93
+994,1492,162,2023-02-22,"diagnosed and repaired, no further issues",602.05
+995,1494,89,2023-11-08,"filter and fluid change, should last a while",511.98
+996,1495,188,2021-03-25,topped off fluids and tightened everything,686.59
+997,1497,232,2020-01-10,"filter and fluid change, should last a while",272.78
+998,1498,9,2022-01-18,flushed the system and refilled,125.52
+999,1499,6,2022-06-09,"patched it up, recommend replacing soon",212.04

@@ -1,0 +1,1501 @@
+rid,customer_id,car_vin,date,odometer,complain
+0,319,LEUUCBL116CZ75T6,2020-07-05,22713,abs light is on
+1,98,F51Z58B4JWPGZ5RK,2022-05-19,20084,rough idle at stoplights
+2,2,NZHG8Q3GCG1J6OWW,2020-07-04,21361,suspension feels bouncy
+3,444,72NS8ERKD0RNGCT2,2022-07-03,45040,engine is making a weird noise
+4,89,O7PLR1X08K4L2LJZ,2022-05-20,14532,battery keeps dying overnight
+5,0,Z7X4IKY3UFN0DSG2,2024-11-09,48265,windshield wipers not working
+6,92,V5XWWC05SORHTMT1,2025-06-17,41771,ac is blowing warm air
+7,346,DAO13TB25ICCPKLV,2023-01-05,46388,car pulls to the left when braking
+8,87,3Q825Q30ZX815G5F,2025-11-27,27714,engine is making a weird noise
+9,1,I3X79955CF72GNNV,2022-04-18,40411,car overheating in traffic
+10,369,6CN8SIWMZAP4VKFT,2020-02-28,43386,grinding noise from rear wheels
+11,48,XLE0BCT324ZBL5KZ,2022-10-25,24599,door lock is stuck
+12,187,BHB7ZHEZR4E5IZB1,2020-07-03,45946,ac is blowing warm air
+13,0,940VTKRRVWY3RZTP,2022-10-24,21048,battery keeps dying overnight
+14,1,27F8LWVV59HOTGDU,2021-01-03,25287,car overheating in traffic
+15,16,Z0KDN3TN60TLXOUN,2023-02-22,44117,fuel efficiency dropped a lot
+16,237,1ZQUA1QRDLFWDUH7,2021-09-21,30458,check engine light came on
+17,480,LM576M2YVP6MPB4D,2025-02-26,38837,car wont start in the morning
+18,316,WBNWJ6PVOC7501OE,2024-02-05,33761,car pulls to the left when braking
+19,2,YIR02M77RXZDNVZ5,2024-10-08,43651,radio cuts in and out
+20,462,L4J4X0LY66G9ZNAX,2025-08-13,10242,rough idle at stoplights
+21,31,1PW26RQH7O0ZBO70,2024-06-11,44078,trunk wont open
+22,4,FOP8QZJULI7JDN80,2024-09-17,47391,transmission slipping between gears
+23,54,Q8R4HC7JVLCG1J5E,2020-05-07,38138,radio cuts in and out
+24,58,4XAIC0DHNHWEKQDV,2024-03-23,45955,trunk wont open
+25,259,91KUBJJJX1ALX44P,2024-09-16,40097,clutch pedal feels loose
+26,63,MCCYC3T13HLOZESJ,2021-02-08,23748,smoke coming from under hood
+27,17,EJTUIN748AV3G609,2024-04-21,10163,power windows stopped working
+28,68,RWDWF1TQV0R095UH,2024-03-01,15665,brakes feel spongy
+29,456,LSOGWIBJB6M9NWYU,2025-08-12,45447,ac is blowing warm air
+30,169,KBQNXPVMSR75RMG7,2023-10-24,33711,grinding noise from rear wheels
+31,80,VR40DM9IF826BHYZ,2020-04-05,45963,tire pressure warning keeps coming back
+32,362,Y6RKVNDXJN7DE0L1,2025-02-27,18750,radio cuts in and out
+33,84,0MQA1CCYY4JUFN24,2021-05-02,41048,headlights are dim
+34,417,F5SIDASO7KRGI4JW,2022-07-22,21223,car wont start in the morning
+35,1,QHR133NO3AAMTFPW,2023-07-19,38076,clutch pedal feels loose
+36,444,72NS8ERKD0RNGCT2,2020-08-15,39361,door lock is stuck
+37,456,LSOGWIBJB6M9NWYU,2023-08-15,39270,trunk wont open
+38,55,6XTF52BWHNYBJK8J,2024-09-19,39174,car wont start in the morning
+39,462,L4J4X0LY66G9ZNAX,2025-11-19,48885,brakes feel spongy
+40,161,EKT292MI560TOHXW,2025-03-10,23771,rough idle at stoplights
+41,187,BHB7ZHEZR4E5IZB1,2023-08-05,14246,car wont start in the morning
+42,439,MC8FU0AB76LBWLA9,2023-05-24,48078,car overheating in traffic
+43,259,91KUBJJJX1ALX44P,2022-05-10,36541,rough idle at stoplights
+44,183,07IRJG107R925DSI,2025-11-20,23458,engine is making a weird noise
+45,46,B9V1T4JXA2YMPYI4,2024-06-20,41390,brakes feel spongy
+46,380,ZJFY4W8TR98W07FI,2021-03-21,36158,transmission slipping between gears
+47,13,D3IIA38K0HF36C0O,2020-12-27,31871,coolant warning light on
+48,346,DAO13TB25ICCPKLV,2025-11-12,47163,windshield wipers not working
+49,462,M2Q22YOKBVPX4NTZ,2020-04-18,18769,windshield wipers not working
+50,431,QDE7M7H6OQ7QH96Y,2024-07-03,244968,power windows stopped working
+51,160,89QSNVYF2ZQOYGWO,2021-04-30,233871,check engine light came on
+52,318,BMQIMI8ACUEOBQT0,2025-05-24,62526,smell of burning rubber
+53,486,ZV3IU6L5NFLTQ680,2021-08-12,150447,power windows stopped working
+54,71,D0I2V4B2RCYBRXOD,2022-08-04,239216,oil leak under the car
+55,267,FB2FLURMW3UQHWTE,2023-05-29,178369,fuel efficiency dropped a lot
+56,318,BMQIMI8ACUEOBQT0,2023-07-19,68598,check engine light came on
+57,243,5I67ZSOOUKIW8X17,2025-02-28,90957,rough idle at stoplights
+58,59,5KKS1B4QSX88GXWD,2025-10-25,231034,suspension feels bouncy
+59,178,JKS4I2NR1P02JYV6,2023-12-22,93688,trunk wont open
+60,474,76IMG7ZD3Q0E03YI,2025-06-17,214811,headlights are dim
+61,337,YPIGQX2456IZC0YO,2021-11-30,205787,clutch pedal feels loose
+62,43,6N1RWU1ESEVGC0QT,2023-08-15,31253,exhaust is louder than usual
+63,345,WV9NJS96ALGXZJ9M,2023-07-27,183610,headlights are dim
+64,57,NIA2Y7VFHPD6VQ81,2021-06-04,98710,windshield wipers not working
+65,285,7ZQPPOAU8P1WKISE,2022-06-30,166970,rough idle at stoplights
+66,267,FB2FLURMW3UQHWTE,2020-07-02,74050,steering wheel shakes when braking
+67,22,9K4CI248F3VKOG10,2020-11-08,32438,steering wheel shakes when braking
+68,180,K4O67BXCD20J1OUL,2025-06-02,237721,check engine light came on
+69,84,VC4GTJS1A5UGXBRY,2021-09-16,202274,tire pressure warning keeps coming back
+70,361,FVB9EKTR1T05QXS2,2020-07-20,228040,weird vibration at highway speeds
+71,497,2YGYZTHQSE0KIVWM,2023-08-21,34840,windshield wipers not working
+72,306,E9VAR2PZ6NTPBPZC,2020-06-02,199944,grinding noise from rear wheels
+73,11,5S517DXJ17X6XDA7,2025-01-18,235251,fuel efficiency dropped a lot
+74,474,76IMG7ZD3Q0E03YI,2021-08-05,234037,oil leak under the car
+75,11,L0TA8RD05N9HCZDQ,2022-12-29,215841,car overheating in traffic
+76,184,3I9LLIFFCVEDQFC1,2024-08-14,74049,car wont start in the morning
+77,406,7U9SSBU7GE3AI6AY,2022-08-07,11485,clutch pedal feels loose
+78,9,96GORCPACQ5AH9OG,2020-03-29,83161,brakes feel spongy
+79,216,JJTB8QOP82J3TPS8,2023-07-31,40314,car wont start in the morning
+80,396,8EGP15CA8ZJSW5PQ,2022-05-03,137653,smoke coming from under hood
+81,91,7YZ5ND2OEUT4IEC1,2025-08-02,157644,car overheating in traffic
+82,291,PHWHM54XR8PJPF24,2021-08-26,162658,door lock is stuck
+83,441,90MWB4LL3K4BK8EJ,2025-09-16,32383,power windows stopped working
+84,63,IOFU2NCU22KB8OHL,2020-06-03,191297,ac is blowing warm air
+85,172,E5GV7P2A2Q9OJF3C,2024-02-17,91881,tire pressure warning keeps coming back
+86,33,Q7KA8OBM5RY6Q2M8,2021-11-01,173436,clutch pedal feels loose
+87,361,AH2XJQ2WDIZHW0VQ,2023-05-14,50888,brakes feel spongy
+88,21,SB053AKZXFP5KE09,2020-10-09,102739,coolant warning light on
+89,157,FPPWC1QY9MBAAXA3,2022-10-10,145913,grinding noise from rear wheels
+90,216,Y6D1HFDI3JSTY876,2025-03-26,11282,tire pressure warning keeps coming back
+91,399,FH70M9OHDSRS8ANP,2024-04-23,81450,smoke coming from under hood
+92,154,2ZNTGG50YQL25S8T,2021-12-24,106915,radio cuts in and out
+93,86,7AQ2ANY1YC1L2QJZ,2024-01-01,199775,coolant warning light on
+94,98,F51Z58B4JWPGZ5RK,2025-06-17,246586,battery keeps dying overnight
+95,382,RGSL55X9E0RAGHKE,2020-09-17,116331,headlights are dim
+96,1,VTFQVK8SXFI3UBM9,2021-10-23,8441,abs light is on
+97,322,XMOE545VYBJH4OUL,2021-01-20,139642,power windows stopped working
+98,172,E5GV7P2A2Q9OJF3C,2023-03-20,174221,abs light is on
+99,417,F5SIDASO7KRGI4JW,2023-05-13,211500,clutch pedal feels loose
+100,267,FB2FLURMW3UQHWTE,2020-08-27,106345,trunk wont open
+101,147,C60CJBMUVHGQK820,2022-04-13,219249,trunk wont open
+102,316,WBNWJ6PVOC7501OE,2020-04-15,80445,radio cuts in and out
+103,323,XQERBKN3DKVR5NBH,2024-07-17,145512,steering wheel shakes when braking
+104,7,1TCFI4PLMVK5SGCS,2020-04-27,57764,suspension feels bouncy
+105,297,HYLGOGFXLSRVP0IJ,2023-11-25,228541,tire pressure warning keeps coming back
+106,414,QSA11PTKFTUWFV2T,2024-04-23,195318,trunk wont open
+107,247,7UXHVDHGUESXNU4V,2022-02-11,151231,squealing noise when turning
+108,16,Z0KDN3TN60TLXOUN,2021-05-19,125502,fuel efficiency dropped a lot
+109,16,Z0KDN3TN60TLXOUN,2024-11-18,113491,brakes feel spongy
+110,0,50OP7XMR8FHYDRGF,2024-06-02,87168,tire pressure warning keeps coming back
+111,185,4RPU9GGSOU6NJ2N2,2020-05-11,50585,ac is blowing warm air
+112,323,XQERBKN3DKVR5NBH,2022-06-20,183270,battery keeps dying overnight
+113,59,P5OOA9CZV7PQOVVI,2022-05-05,23971,radio cuts in and out
+114,441,FG79KT10R709Q6OH,2022-06-23,150156,abs light is on
+115,243,5I67ZSOOUKIW8X17,2020-03-07,98869,car pulls to the left when braking
+116,386,NUSG9L9Q3CYBYC4I,2020-10-22,166026,exhaust is louder than usual
+117,108,NLZTWXOL4BKUU5CZ,2023-02-04,84804,clutch pedal feels loose
+118,230,SPJ9WRDPLFE19BCD,2023-04-18,76918,engine is making a weird noise
+119,109,UMKVGG4NP4D8J2X7,2022-10-01,60388,smell of burning rubber
+120,234,1PY6Q9YL16ZV8U0L,2023-05-30,125041,smoke coming from under hood
+121,383,RSI7EADGHXTUR8XU,2023-06-12,118844,ac is blowing warm air
+122,21,85ZZHJY8GY39BU4U,2024-04-20,33847,oil leak under the car
+123,431,QDE7M7H6OQ7QH96Y,2022-06-12,104512,brakes feel spongy
+124,159,SOTH4MVKQE4DWZ79,2024-04-11,197692,abs light is on
+125,187,X0RTMG7C0Q6ULH3X,2021-10-08,98327,windshield wipers not working
+126,493,L9YSU51EPXU7B6NB,2024-12-01,184649,power windows stopped working
+127,163,GQQLYZJ0AEOORBT6,2020-07-03,83284,engine is making a weird noise
+128,350,XRUTT247O0GXAPLI,2022-01-02,5650,radio cuts in and out
+129,242,IRJUTFVJ839AG77Q,2022-05-03,21658,clutch pedal feels loose
+130,101,8YJMYVMNEDYL7U4G,2022-11-13,247577,abs light is on
+131,394,2BE4N2524GPZBOMV,2021-07-30,131120,transmission slipping between gears
+132,347,IEKX6MJ53YXHZKIE,2020-01-04,155120,steering wheel shakes when braking
+133,487,N1TCJFCZWKGUY0OF,2020-09-27,66191,battery keeps dying overnight
+134,202,IFEZAC2EXVA5E742,2020-12-08,104082,car overheating in traffic
+135,464,YQZDUBB9MIT3VHTN,2022-03-21,157111,ac is blowing warm air
+136,422,Q6FWTV1DJJZQFE8E,2022-12-03,35004,trunk wont open
+137,26,W429KJPQ8SEUTLPF,2025-10-18,142883,headlights are dim
+138,26,72I2F8RPJX0WUZLL,2020-09-17,61008,ac is blowing warm air
+139,4,8F1N2OJGFHZ52QZS,2023-08-12,8660,steering wheel shakes when braking
+140,126,ZYF2EV4JI4UFANS5,2024-11-18,134904,squealing noise when turning
+141,259,F225AA35WFW5Q52D,2020-07-31,55939,trunk wont open
+142,375,MTXQ531D1KDK2YWF,2020-07-30,136608,check engine light came on
+143,99,7UG44C937RUPL5H2,2025-05-21,187638,oil leak under the car
+144,113,BSMWPQ82K8RYQF8W,2020-12-11,59035,exhaust is louder than usual
+145,285,7ZQPPOAU8P1WKISE,2022-07-26,70580,squealing noise when turning
+146,464,YQZDUBB9MIT3VHTN,2021-03-01,49782,suspension feels bouncy
+147,409,918SLOMEYL6SS1A2,2020-11-13,214304,coolant warning light on
+148,206,PE0HDJ7O9X66D7WD,2024-07-18,16884,windshield wipers not working
+149,70,3UMGTHKTGYLEYO3H,2023-05-18,115951,ac is blowing warm air
+150,76,DDVXKKXO0SSW74WQ,2020-08-04,224925,squealing noise when turning
+151,78,O1LPPJ1N5T844QH2,2020-01-10,175838,ac is blowing warm air
+152,87,3Q825Q30ZX815G5F,2020-10-22,69065,car overheating in traffic
+153,163,BHON4WBABQ0FOT10,2022-03-14,190264,engine is making a weird noise
+154,230,SPJ9WRDPLFE19BCD,2022-01-26,18839,weird vibration at highway speeds
+155,44,BEDYEJHDZXQ3P87J,2024-11-03,136649,smoke coming from under hood
+156,242,IRJUTFVJ839AG77Q,2020-03-18,243538,door lock is stuck
+157,369,6CN8SIWMZAP4VKFT,2023-03-26,49092,radio cuts in and out
+158,259,B4EYQ1S4DJ9DV3UY,2021-09-20,80831,engine is making a weird noise
+159,230,SPJ9WRDPLFE19BCD,2020-05-30,130933,car pulls to the left when braking
+160,332,DUVL911ZSB8LV6TX,2023-08-02,72133,radio cuts in and out
+161,26,7GVLHWXPBRRNTYLV,2021-01-25,10005,smoke coming from under hood
+162,497,2YGYZTHQSE0KIVWM,2022-10-20,239051,weird vibration at highway speeds
+163,92,V06DDG680IUGA4FE,2021-07-09,38744,smoke coming from under hood
+164,74,X9DY39CK5B8U8H7B,2020-05-09,14793,exhaust is louder than usual
+165,276,EV4DH9UGF10OO1PV,2021-12-22,53284,check engine light came on
+166,444,72NS8ERKD0RNGCT2,2020-04-22,41657,car pulls to the left when braking
+167,90,MQADW9UFZDEPCGWL,2020-11-05,227910,car pulls to the left when braking
+168,399,FH70M9OHDSRS8ANP,2023-06-10,145033,weird vibration at highway speeds
+169,496,9W5N9C70PA8JX54P,2022-07-22,55447,windshield wipers not working
+170,336,SAJHJXQKD8UR6TIA,2025-10-18,52588,power windows stopped working
+171,134,ZC58CU47SOCZDQ7J,2022-09-23,46503,radio cuts in and out
+172,37,JS18L9GJ4ANLIOBL,2024-08-13,92958,door lock is stuck
+173,98,Q0S5RMJPCZA3SFGH,2022-06-06,38093,steering wheel shakes when braking
+174,247,7UXHVDHGUESXNU4V,2023-05-05,83224,fuel efficiency dropped a lot
+175,319,LEUUCBL116CZ75T6,2020-01-21,212893,transmission slipping between gears
+176,64,3J5SFMZQRSJZO98I,2022-03-02,117564,battery keeps dying overnight
+177,336,SAJHJXQKD8UR6TIA,2023-12-31,196281,oil leak under the car
+178,125,31OGWRVZ90472UQL,2025-04-23,171895,windshield wipers not working
+179,126,ZYF2EV4JI4UFANS5,2024-01-16,178505,transmission slipping between gears
+180,175,OZZ9Z76MH8PU9JN0,2022-08-08,222678,car overheating in traffic
+181,61,TLH33HW8D09JRD4H,2021-12-28,92715,power windows stopped working
+182,230,SPJ9WRDPLFE19BCD,2023-09-23,218404,grinding noise from rear wheels
+183,173,SFQBVH0KW3PGSF3Y,2024-05-16,132906,transmission slipping between gears
+184,136,DABBAJAQ08DNX80N,2025-09-23,233678,check engine light came on
+185,447,VI673KLLZCUH1I8Y,2023-05-14,114180,car pulls to the left when braking
+186,327,PVSF5YC9LUERJQEN,2024-02-22,210194,oil leak under the car
+187,111,JJ0076EKHI1RD5B2,2024-02-28,227559,transmission slipping between gears
+188,68,8FMW4V1FJ2AOY2XD,2023-01-14,208805,tire pressure warning keeps coming back
+189,306,3D3513LM7E41OFV1,2023-07-25,193659,door lock is stuck
+190,278,XYWWSTIO1K7F5OA3,2024-07-28,59625,ac is blowing warm air
+191,31,1PW26RQH7O0ZBO70,2022-10-20,201067,ac is blowing warm air
+192,79,XGGMQJ9UJEFUBFD3,2024-05-09,235012,car wont start in the morning
+193,226,T8LI72W4OEBMQPJB,2021-02-26,83069,exhaust is louder than usual
+194,118,GSV5E033DZQQ5EB9,2025-02-17,46065,smoke coming from under hood
+195,83,A70TGO5AWLGITIZ7,2022-07-08,56515,exhaust is louder than usual
+196,101,72TH1FPHMZOIM2CA,2023-03-19,177844,squealing noise when turning
+197,58,JS08RWQ1CGEDBT8B,2024-10-23,136127,oil leak under the car
+198,38,Z8FTMJN8B3UMAM00,2024-08-18,11850,suspension feels bouncy
+199,99,KHG4G7NIE3FKP96A,2021-08-25,196556,steering wheel shakes when braking
+200,172,E5GV7P2A2Q9OJF3C,2022-08-26,159727,fuel efficiency dropped a lot
+201,77,C6SEURANDDEPTLT0,2021-01-28,113863,car overheating in traffic
+202,496,9W5N9C70PA8JX54P,2024-05-31,31609,abs light is on
+203,433,W0PN524KSKWECY9A,2025-03-06,187095,brakes feel spongy
+204,42,W165AEJT70EBPY9E,2025-07-29,11061,suspension feels bouncy
+205,399,FH70M9OHDSRS8ANP,2024-04-03,39288,check engine light came on
+206,154,2ZNTGG50YQL25S8T,2020-01-17,208165,car pulls to the left when braking
+207,267,FB2FLURMW3UQHWTE,2025-05-28,218521,coolant warning light on
+208,28,0JRX2N75WLN2OTG5,2021-07-27,239943,power windows stopped working
+209,267,FB2FLURMW3UQHWTE,2021-06-23,35887,car pulls to the left when braking
+210,124,9VVN5X48PW5K0JJS,2022-03-15,210456,grinding noise from rear wheels
+211,436,67LM8E49ITE92SRL,2022-01-23,109034,exhaust is louder than usual
+212,78,0P5RUKCASSSLSLV3,2021-08-13,224762,radio cuts in and out
+213,246,JC6ON5ZZ679AQLO3,2023-04-29,106869,car overheating in traffic
+214,61,TLH33HW8D09JRD4H,2022-02-22,245428,fuel efficiency dropped a lot
+215,5,TA3RUNYN6IRJ9WR6,2023-05-16,41357,engine is making a weird noise
+216,350,XRUTT247O0GXAPLI,2022-12-10,220130,rough idle at stoplights
+217,7,1TCFI4PLMVK5SGCS,2021-03-25,180051,transmission slipping between gears
+218,78,GKHVLUCNJ0HYL77V,2024-04-18,189160,trunk wont open
+219,66,0T51LC8A4OC1CQB7,2024-08-06,28181,headlights are dim
+220,65,6GSKBOJAXNHRC4HM,2022-07-07,112923,weird vibration at highway speeds
+221,30,YOTWG7NFDINU31EI,2021-03-30,162307,check engine light came on
+222,249,ND6BWBEM0TPI70HK,2021-11-26,33163,car overheating in traffic
+223,103,PSSCP9KJYMJBT35Y,2024-07-01,34776,smell of burning rubber
+224,331,VC1FRF899OFPVIMI,2020-05-18,196727,smell of burning rubber
+225,197,KMSX54RJSXFOH9MB,2022-08-06,64355,battery keeps dying overnight
+226,20,8YDR3UES2FX0ZKWI,2024-09-13,129842,clutch pedal feels loose
+227,464,81JMBPTPDWR1XFHS,2023-01-25,184739,coolant warning light on
+228,99,5O5CVHJOBEIFDD56,2022-12-22,16951,brakes feel spongy
+229,349,YP3HBRBJEQVVIAA2,2024-11-13,231748,car wont start in the morning
+230,80,EJEBHBW9KCKWDHX5,2020-10-29,14882,battery keeps dying overnight
+231,132,80TW87S34876KE1Q,2024-06-28,32192,engine is making a weird noise
+232,176,E07FPY1AELDWQXKE,2020-04-12,207285,check engine light came on
+233,149,7TNQETMNI3GOM673,2020-06-07,239260,ac is blowing warm air
+234,483,ONDHKBRJIGLG08YV,2024-09-04,228665,tire pressure warning keeps coming back
+235,91,7YZ5ND2OEUT4IEC1,2020-05-15,245118,radio cuts in and out
+236,348,GJVSDBIDE6UITJ5Z,2023-04-10,69604,ac is blowing warm air
+237,86,ZW1FU5X012GRDMT2,2025-08-17,72585,abs light is on
+238,30,B20UC87NXP0JF6DN,2022-12-05,150101,abs light is on
+239,389,THR3NK8PQEQ7Z7E5,2023-07-31,59926,weird vibration at highway speeds
+240,51,1HGAV42T8LLIHKPJ,2025-05-12,21091,grinding noise from rear wheels
+241,34,1FS324ERTL15E166,2021-02-12,132313,weird vibration at highway speeds
+242,132,80TW87S34876KE1Q,2020-11-23,20403,exhaust is louder than usual
+243,464,81JMBPTPDWR1XFHS,2020-12-19,229188,suspension feels bouncy
+244,137,IP35T54GYLBI18A2,2021-07-07,58288,suspension feels bouncy
+245,417,F5SIDASO7KRGI4JW,2020-03-07,247803,ac is blowing warm air
+246,183,07IRJG107R925DSI,2020-01-18,180376,transmission slipping between gears
+247,29,GF86HOGDPL4CKTF6,2021-01-11,80845,car pulls to the left when braking
+248,338,CR0VHV1NM3V16XEG,2023-05-10,228106,exhaust is louder than usual
+249,74,X9DY39CK5B8U8H7B,2020-11-03,249812,smell of burning rubber
+250,77,RLCRE8UA2HQG2XGD,2025-05-05,119331,smoke coming from under hood
+251,393,QW8EVRC0ERJE4S4M,2024-04-07,133675,steering wheel shakes when braking
+252,87,3Q825Q30ZX815G5F,2020-10-20,163648,oil leak under the car
+253,71,2Z6M81RJWPX5ZJ2O,2025-08-07,14832,steering wheel shakes when braking
+254,59,P5OOA9CZV7PQOVVI,2024-04-01,177391,car pulls to the left when braking
+255,177,YWGD4X4PZJ42RL1E,2022-10-18,49386,windshield wipers not working
+256,297,MU6U4PLLGF309HSU,2023-03-09,96318,abs light is on
+257,373,KTI221XJ7WWUDQVD,2022-08-30,191118,brakes feel spongy
+258,242,GPYNYJ0UFO2HOQ5E,2020-07-29,91899,squealing noise when turning
+259,160,89QSNVYF2ZQOYGWO,2022-01-29,178510,power windows stopped working
+260,144,3QW752E77DYVGDGF,2022-11-03,148620,clutch pedal feels loose
+261,210,H0CD8A2IBCLTRH9V,2023-08-16,48835,transmission slipping between gears
+262,55,VPIG3YVR2EU4KB57,2023-07-01,198880,abs light is on
+263,51,D05JH2MKV0DSZRK6,2024-01-28,41419,steering wheel shakes when braking
+264,316,WBNWJ6PVOC7501OE,2025-03-25,249904,grinding noise from rear wheels
+265,56,ZD43W95CH4FODMJM,2023-02-04,189755,rough idle at stoplights
+266,314,G770XDHJ5SC36U9C,2024-05-18,116652,fuel efficiency dropped a lot
+267,176,E07FPY1AELDWQXKE,2020-05-05,20297,car overheating in traffic
+268,416,8VGZSXJZVUV3CB0I,2025-01-23,118426,car overheating in traffic
+269,90,MQADW9UFZDEPCGWL,2024-02-06,59580,car overheating in traffic
+270,214,O8G8HZMVYD47DZNA,2021-08-19,237393,smoke coming from under hood
+271,272,IE4ACJOD8WACEQRQ,2020-12-19,172287,headlights are dim
+272,389,THR3NK8PQEQ7Z7E5,2021-06-29,110960,smell of burning rubber
+273,97,THETKCAKDP3CA4BD,2024-02-12,111192,engine is making a weird noise
+274,362,J8PMOZKNHPVRWBRB,2020-02-02,234104,car wont start in the morning
+275,168,NKOWYPSWLDOQ59B9,2023-04-19,26758,smoke coming from under hood
+276,97,THETKCAKDP3CA4BD,2022-06-30,34158,engine is making a weird noise
+277,16,Z0KDN3TN60TLXOUN,2022-01-07,230744,battery keeps dying overnight
+278,39,XXCX9KNBZ9H0UNL0,2021-02-24,208955,abs light is on
+279,2,9EP0O6H5L3XFULHZ,2024-08-13,172292,squealing noise when turning
+280,56,ZD43W95CH4FODMJM,2023-01-18,20465,suspension feels bouncy
+281,99,KHG4G7NIE3FKP96A,2021-07-30,40540,engine is making a weird noise
+282,154,2ZNTGG50YQL25S8T,2022-02-26,49171,rough idle at stoplights
+283,420,V47LZN9UHJPKHF33,2021-10-22,97058,ac is blowing warm air
+284,498,C0TK1QQFVWUO11K0,2021-08-29,149759,transmission slipping between gears
+285,336,SAJHJXQKD8UR6TIA,2020-02-23,79424,coolant warning light on
+286,407,DKITMAF9H3FHVFIJ,2021-09-29,90653,rough idle at stoplights
+287,223,VK1PBCD6FXNOQ37K,2023-05-02,163858,check engine light came on
+288,0,4RKGJZOWI1T2EP76,2020-06-08,29187,radio cuts in and out
+289,71,TGV46Q71T6JLDJ7P,2021-04-19,123586,oil leak under the car
+290,444,KBEFQ796EW8257GE,2021-04-17,189688,tire pressure warning keeps coming back
+291,331,VC1FRF899OFPVIMI,2020-05-01,179853,clutch pedal feels loose
+292,293,4DX6UZS1XKE1KWON,2024-12-19,88541,tire pressure warning keeps coming back
+293,162,I2I397I6YXV2MEOS,2025-12-13,205839,grinding noise from rear wheels
+294,338,T87K9TPZ1J8Q9I6K,2024-11-23,212498,steering wheel shakes when braking
+295,91,7YZ5ND2OEUT4IEC1,2020-06-16,133286,fuel efficiency dropped a lot
+296,139,PAVAJIMMNSTOUIFJ,2021-06-06,12657,tire pressure warning keeps coming back
+297,303,0JI1T3UZZZULYZLG,2020-10-25,228212,engine is making a weird noise
+298,17,ZXT9QUBWRP8GUUCM,2023-03-24,168069,tire pressure warning keeps coming back
+299,30,YOTWG7NFDINU31EI,2020-11-12,83979,fuel efficiency dropped a lot
+300,292,T1OXHFDXK31WBHTF,2025-09-22,211213,smell of burning rubber
+301,259,F225AA35WFW5Q52D,2023-03-25,73848,car wont start in the morning
+302,36,0UT100WNT0K9875T,2025-02-03,214680,steering wheel shakes when braking
+303,102,XUWRIENW34Y6FFY3,2020-05-29,149337,transmission slipping between gears
+304,113,BSMWPQ82K8RYQF8W,2024-04-28,10917,oil leak under the car
+305,210,H0CD8A2IBCLTRH9V,2020-04-12,244265,door lock is stuck
+306,361,FVB9EKTR1T05QXS2,2021-04-17,151357,door lock is stuck
+307,162,I2I397I6YXV2MEOS,2024-12-26,63174,battery keeps dying overnight
+308,220,1R3YQS5PYYZ5YMIT,2020-02-26,110512,exhaust is louder than usual
+309,76,F27E6L8XCGMIURPV,2023-11-11,89715,tire pressure warning keeps coming back
+310,488,5LFOS9DJ9IHJDQDF,2023-06-07,160282,trunk wont open
+311,190,DL7FKNDG1JRJ5XFE,2020-01-03,53908,clutch pedal feels loose
+312,194,KLI7V12J21TELO9L,2020-07-19,153488,trunk wont open
+313,436,67LM8E49ITE92SRL,2021-09-19,239320,rough idle at stoplights
+314,77,VWTKCNL384XG08GS,2024-03-25,8872,brakes feel spongy
+315,373,3FRB7EI5R8VO4KVF,2024-09-17,91916,headlights are dim
+316,185,1MYLQJJBFSA5UZLZ,2023-01-24,123580,car overheating in traffic
+317,153,61B7PXJBC8VDRQNT,2024-06-22,26756,exhaust is louder than usual
+318,81,WWNQA4P3PRNO5GTX,2021-01-16,113625,tire pressure warning keeps coming back
+319,496,9W5N9C70PA8JX54P,2020-10-10,179032,steering wheel shakes when braking
+320,10,EF2IBNAJFH71UZN4,2021-07-27,20358,car overheating in traffic
+321,19,QBVNPY1AJKPQKBE0,2023-02-22,139225,weird vibration at highway speeds
+322,410,EE2ABG9SHO5D5AFQ,2021-10-20,166471,windshield wipers not working
+323,187,X0RTMG7C0Q6ULH3X,2023-01-08,82531,steering wheel shakes when braking
+324,131,SV5ITMTJLEGP4H2H,2022-01-08,230360,exhaust is louder than usual
+325,4,M7DBFPMGP6YWK5JR,2022-01-24,78920,oil leak under the car
+326,50,12JF4CIWL3RFJL9V,2022-05-20,50641,steering wheel shakes when braking
+327,351,U61O85VO1TK5EZS9,2020-05-10,206010,battery keeps dying overnight
+328,374,BAYKIS11D2MRMTXJ,2021-05-31,190974,steering wheel shakes when braking
+329,420,V47LZN9UHJPKHF33,2022-10-07,94655,smoke coming from under hood
+330,320,74QR14VUYV2EMY9T,2025-12-29,90885,exhaust is louder than usual
+331,332,DUVL911ZSB8LV6TX,2020-04-27,78869,power windows stopped working
+332,336,SAJHJXQKD8UR6TIA,2024-03-31,152613,engine is making a weird noise
+333,489,45YRWVTKH861PQIP,2024-02-20,48133,headlights are dim
+334,349,YP3HBRBJEQVVIAA2,2022-05-22,204986,oil leak under the car
+335,43,6N1RWU1ESEVGC0QT,2023-10-16,167682,door lock is stuck
+336,80,VR40DM9IF826BHYZ,2022-01-12,99066,tire pressure warning keeps coming back
+337,240,GTEFR6MQW7673UBL,2021-07-24,89451,rough idle at stoplights
+338,245,0Z7Q0I9BL14HOAE5,2023-02-18,17082,engine is making a weird noise
+339,343,7KBNKFVDHLZ02Z7N,2022-01-22,107841,abs light is on
+340,380,ZJFY4W8TR98W07FI,2021-10-08,121030,car pulls to the left when braking
+341,480,LM576M2YVP6MPB4D,2021-07-22,46149,clutch pedal feels loose
+342,338,T87K9TPZ1J8Q9I6K,2020-12-22,84176,squealing noise when turning
+343,139,PAVAJIMMNSTOUIFJ,2021-05-03,242285,car overheating in traffic
+344,62,5J1VRKF4HT69A143,2021-12-22,159754,abs light is on
+345,61,IRO7YY0KZ6XNOMB4,2022-05-09,163367,car wont start in the morning
+346,2,CGWFHDV37IC0LZIG,2021-05-31,63010,clutch pedal feels loose
+347,458,CQPHLI5L692TULGE,2021-05-11,61478,clutch pedal feels loose
+348,276,EV4DH9UGF10OO1PV,2020-07-03,136101,steering wheel shakes when braking
+349,116,VEZRAD8EJPMLNL7H,2022-01-27,6989,ac is blowing warm air
+350,224,975J2D8CLW3JGEQE,2020-07-18,29961,car pulls to the left when braking
+351,177,A09Q16A3KL0N4L6B,2022-09-24,173555,weird vibration at highway speeds
+352,174,GSVANRY632IIPS8Q,2025-06-27,64164,fuel efficiency dropped a lot
+353,316,WBNWJ6PVOC7501OE,2020-09-10,163257,engine is making a weird noise
+354,397,GBSVK3X8MBGL2MCX,2023-10-31,53183,squealing noise when turning
+355,417,F5SIDASO7KRGI4JW,2022-01-24,43331,clutch pedal feels loose
+356,345,WV9NJS96ALGXZJ9M,2023-02-24,192575,trunk wont open
+357,488,5LFOS9DJ9IHJDQDF,2024-02-18,139774,car overheating in traffic
+358,80,VR40DM9IF826BHYZ,2025-01-15,5644,grinding noise from rear wheels
+359,175,OZZ9Z76MH8PU9JN0,2020-01-02,64481,steering wheel shakes when braking
+360,210,H0CD8A2IBCLTRH9V,2022-08-17,40839,brakes feel spongy
+361,117,JR211PV58Y9N81DJ,2025-12-29,127021,smell of burning rubber
+362,51,1HGAV42T8LLIHKPJ,2024-03-23,91900,steering wheel shakes when braking
+363,165,MOCTCLKA9LZ57V4N,2022-09-30,224641,headlights are dim
+364,146,IFDHA6GH7IDUB9RB,2023-04-26,166202,smell of burning rubber
+365,477,RF34JGVRP4RXMD8Z,2021-03-03,182649,tire pressure warning keeps coming back
+366,197,KMSX54RJSXFOH9MB,2024-10-18,135797,squealing noise when turning
+367,87,HLX0ST69WWP82QZT,2023-11-12,20312,transmission slipping between gears
+368,48,9MZ99ZJUK9QS57WC,2024-09-08,174896,brakes feel spongy
+369,12,VRECJTR0M6HZ72KX,2021-10-17,210456,coolant warning light on
+370,307,RCKQH3ERAM4BE52S,2020-08-13,129987,squealing noise when turning
+371,90,MQADW9UFZDEPCGWL,2020-09-02,213969,ac is blowing warm air
+372,338,T87K9TPZ1J8Q9I6K,2021-04-11,23152,power windows stopped working
+373,368,T8ZGEHUIQSI2FEXT,2024-05-01,11302,windshield wipers not working
+374,368,T8ZGEHUIQSI2FEXT,2023-10-05,58607,oil leak under the car
+375,74,5XIXGSPLTI899A44,2025-06-14,57015,car pulls to the left when braking
+376,303,9BGV2ESF4NDRFDX8,2021-09-28,158557,brakes feel spongy
+377,378,IDSECHU3YCPKAVM9,2025-10-17,219626,radio cuts in and out
+378,98,Q0S5RMJPCZA3SFGH,2022-06-22,113549,tire pressure warning keeps coming back
+379,120,S81BXD7ITQRT8G7Q,2023-03-17,26791,smoke coming from under hood
+380,297,OZIBP9OF9SVCA3DC,2022-02-27,86675,engine is making a weird noise
+381,39,H1TE48M2Q6X2O72S,2022-09-29,200679,headlights are dim
+382,207,7W05Y2DA5B4L6HFH,2021-08-31,154369,smoke coming from under hood
+383,126,ZYF2EV4JI4UFANS5,2021-08-09,59310,battery keeps dying overnight
+384,125,31OGWRVZ90472UQL,2025-08-19,162139,smoke coming from under hood
+385,213,31RTMPV5LMQ15FBS,2022-05-04,165590,ac is blowing warm air
+386,410,EE2ABG9SHO5D5AFQ,2025-07-03,32074,door lock is stuck
+387,71,2Z6M81RJWPX5ZJ2O,2025-07-28,215094,squealing noise when turning
+388,395,XLB57AUKHQNZJNNS,2023-10-28,236311,abs light is on
+389,72,38ZKRG6WMZ0ZCSSF,2020-06-17,41558,car pulls to the left when braking
+390,417,F5SIDASO7KRGI4JW,2020-05-04,179928,clutch pedal feels loose
+391,245,0Z7Q0I9BL14HOAE5,2024-10-18,47904,power windows stopped working
+392,66,G21CQTP3174GU65S,2024-12-28,118005,smoke coming from under hood
+393,19,H0Y05ML51AATN209,2021-08-14,21675,car wont start in the morning
+394,493,L9YSU51EPXU7B6NB,2023-11-15,87817,oil leak under the car
+395,111,JJ0076EKHI1RD5B2,2024-02-05,223738,door lock is stuck
+396,24,GGAYBFJH9KRS51ZE,2024-04-29,248886,fuel efficiency dropped a lot
+397,487,N1TCJFCZWKGUY0OF,2025-12-06,73204,headlights are dim
+398,393,QW8EVRC0ERJE4S4M,2024-10-10,159319,transmission slipping between gears
+399,322,JVAEV0YU3U8IZIIB,2023-03-25,218423,trunk wont open
+400,22,AA34H8NL9VFRUK94,2023-06-10,10683,squealing noise when turning
+401,205,YE71TWD96HHWMF1G,2020-01-24,87549,squealing noise when turning
+402,246,JC6ON5ZZ679AQLO3,2024-09-11,153762,exhaust is louder than usual
+403,166,682R6ZL1KHW8GAKH,2021-03-25,230115,ac is blowing warm air
+404,65,6GSKBOJAXNHRC4HM,2024-09-23,232113,smell of burning rubber
+405,12,3OV9JYDFZDTC5PAY,2024-09-07,234589,trunk wont open
+406,488,5LFOS9DJ9IHJDQDF,2022-08-05,161572,radio cuts in and out
+407,476,FVWJ7YZ6L7X6OA3N,2024-12-10,165927,grinding noise from rear wheels
+408,350,XRUTT247O0GXAPLI,2023-01-08,184520,smoke coming from under hood
+409,378,IDSECHU3YCPKAVM9,2021-03-27,39338,steering wheel shakes when braking
+410,125,31OGWRVZ90472UQL,2020-01-18,241200,transmission slipping between gears
+411,486,MOUZE66VW9B0MQOQ,2025-07-14,81731,headlights are dim
+412,394,JSFPFMNF7UIWJTA8,2023-11-13,80202,car wont start in the morning
+413,159,SOTH4MVKQE4DWZ79,2021-07-14,229911,car overheating in traffic
+414,134,ZC58CU47SOCZDQ7J,2020-07-31,188006,headlights are dim
+415,133,ZUFDNU4I5YMQT3DG,2025-12-09,65339,ac is blowing warm air
+416,285,7ZQPPOAU8P1WKISE,2021-08-12,123694,smell of burning rubber
+417,126,ZYF2EV4JI4UFANS5,2021-10-01,121577,trunk wont open
+418,294,3O1BLOG0NQ4I6R8S,2020-09-19,88009,trunk wont open
+419,383,RSI7EADGHXTUR8XU,2024-12-28,109910,engine is making a weird noise
+420,383,RSI7EADGHXTUR8XU,2022-06-18,111691,door lock is stuck
+421,343,7KBNKFVDHLZ02Z7N,2020-01-18,57549,car pulls to the left when braking
+422,144,WYSIRRK1RD1ZM4IX,2021-09-12,236546,engine is making a weird noise
+423,142,DRN4ORAC8CYNL63G,2023-01-04,136957,ac is blowing warm air
+424,245,0Z7Q0I9BL14HOAE5,2022-04-13,207698,weird vibration at highway speeds
+425,229,TOHRNQI7NL7OLKY5,2025-01-22,227590,door lock is stuck
+426,177,YWGD4X4PZJ42RL1E,2025-09-17,11013,transmission slipping between gears
+427,303,9BGV2ESF4NDRFDX8,2020-12-17,135748,trunk wont open
+428,313,KWOALF4V1TXH376Z,2023-10-06,7287,windshield wipers not working
+429,57,6O6U9179B9NT5DXI,2023-03-17,164013,abs light is on
+430,158,TJA622DCFF3TR7WB,2024-02-26,11298,tire pressure warning keeps coming back
+431,194,KLI7V12J21TELO9L,2020-07-31,153965,car pulls to the left when braking
+432,115,HAIH7WFRAC8E3PQK,2024-02-22,73564,smell of burning rubber
+433,285,7ZQPPOAU8P1WKISE,2020-07-23,103094,clutch pedal feels loose
+434,97,52MH68NDJU39X6KQ,2021-03-19,25301,abs light is on
+435,76,DDVXKKXO0SSW74WQ,2021-03-25,107630,car wont start in the morning
+436,210,H0CD8A2IBCLTRH9V,2020-07-18,146791,weird vibration at highway speeds
+437,70,K6JOPZDTJXAF16YF,2020-05-26,138581,steering wheel shakes when braking
+438,465,L03LLU1A7BOXFQJ3,2023-02-28,21056,check engine light came on
+439,20,8YDR3UES2FX0ZKWI,2023-11-28,21744,power windows stopped working
+440,117,JR211PV58Y9N81DJ,2022-05-24,24883,clutch pedal feels loose
+441,76,IK08NJF0PKBO549E,2021-02-26,141954,battery keeps dying overnight
+442,433,W0PN524KSKWECY9A,2023-06-24,130124,headlights are dim
+443,476,FVWJ7YZ6L7X6OA3N,2020-07-23,137562,weird vibration at highway speeds
+444,193,L66YA6BA24S0LGUP,2024-07-09,32029,rough idle at stoplights
+445,238,B8NMT3YPS4SYBHQG,2025-01-06,78880,car pulls to the left when braking
+446,316,WBNWJ6PVOC7501OE,2022-12-10,148894,check engine light came on
+447,235,LOQVBV1JPVKTAF6B,2021-09-25,14752,abs light is on
+448,390,X1JD3VURR6CG1S2L,2025-11-29,111115,trunk wont open
+449,63,IOFU2NCU22KB8OHL,2021-02-25,131807,squealing noise when turning
+450,285,7ZQPPOAU8P1WKISE,2025-10-14,100895,tire pressure warning keeps coming back
+451,106,CGJU2T0JESGQ4BVP,2025-10-20,214409,squealing noise when turning
+452,75,A8DBFA1U5MY80TGH,2025-04-09,154094,clutch pedal feels loose
+453,117,JR211PV58Y9N81DJ,2025-11-05,98388,weird vibration at highway speeds
+454,90,MQADW9UFZDEPCGWL,2024-08-22,46898,brakes feel spongy
+455,118,GSV5E033DZQQ5EB9,2023-08-07,193590,smoke coming from under hood
+456,42,O1ZM4LCVHFWJFPPZ,2022-04-29,145590,car overheating in traffic
+457,89,4PN8QIX43IRGM5DK,2020-10-01,98464,grinding noise from rear wheels
+458,298,WVVSKP30TX8J1CCM,2024-12-06,90760,trunk wont open
+459,108,NLZTWXOL4BKUU5CZ,2022-10-08,101893,car overheating in traffic
+460,220,PEFJ31EGOM62HDXC,2025-09-16,156650,transmission slipping between gears
+461,176,E07FPY1AELDWQXKE,2024-06-27,106684,door lock is stuck
+462,50,N9CC7ISUTP04SBRS,2025-05-28,127716,exhaust is louder than usual
+463,63,MCCYC3T13HLOZESJ,2023-09-14,22441,coolant warning light on
+464,200,L7J7Y96YG626M8A4,2025-06-09,117133,fuel efficiency dropped a lot
+465,399,6LQGA3QUPO4JNMYK,2022-04-09,218591,engine is making a weird noise
+466,297,OZIBP9OF9SVCA3DC,2022-04-17,94383,transmission slipping between gears
+467,390,X1JD3VURR6CG1S2L,2024-04-22,130564,squealing noise when turning
+468,226,T8LI72W4OEBMQPJB,2023-07-21,71858,brakes feel spongy
+469,52,HCG7FD143XRV8DF2,2020-09-07,217600,transmission slipping between gears
+470,476,FVWJ7YZ6L7X6OA3N,2025-10-22,234320,car overheating in traffic
+471,17,76QWVGFRI7FZ5XBI,2022-09-04,32917,engine is making a weird noise
+472,132,80TW87S34876KE1Q,2022-02-19,219482,tire pressure warning keeps coming back
+473,3,92SJP753K48OLDC0,2025-04-16,245149,ac is blowing warm air
+474,4,ZIA9AU87CM453KF4,2022-07-05,124715,coolant warning light on
+475,211,OPO6J0M3LOUFHW8W,2025-04-30,212974,car wont start in the morning
+476,206,PE0HDJ7O9X66D7WD,2025-08-15,36685,steering wheel shakes when braking
+477,343,7KBNKFVDHLZ02Z7N,2025-05-23,38625,windshield wipers not working
+478,214,O8G8HZMVYD47DZNA,2020-01-05,57014,smell of burning rubber
+479,317,TZRBZIRJYZ8XUKU8,2024-12-17,7259,tire pressure warning keeps coming back
+480,308,R1L9GVBMQQ749Q6Q,2020-07-15,24184,clutch pedal feels loose
+481,50,12JF4CIWL3RFJL9V,2022-03-03,41913,steering wheel shakes when braking
+482,104,PEVHTZ4VOYBJ7SOY,2022-06-06,133151,abs light is on
+483,88,79OKQBBWBX54QOTV,2025-06-03,96435,smoke coming from under hood
+484,90,MQADW9UFZDEPCGWL,2021-01-19,128116,smell of burning rubber
+485,380,ZJFY4W8TR98W07FI,2025-04-28,36538,car pulls to the left when braking
+486,21,8WYAQTFLVM8NYZHH,2024-11-14,191063,car overheating in traffic
+487,100,AK1VPANGW3PAJVF9,2025-02-07,206763,squealing noise when turning
+488,40,W8LI3IF9AIZH5P3F,2024-03-26,164188,rough idle at stoplights
+489,337,YPIGQX2456IZC0YO,2022-12-25,80385,engine is making a weird noise
+490,248,05XT54FN5G77LK6H,2021-10-23,44934,tire pressure warning keeps coming back
+491,176,E07FPY1AELDWQXKE,2024-04-04,181806,door lock is stuck
+492,182,A1RYZTBVHUAZUN6F,2025-02-22,209559,fuel efficiency dropped a lot
+493,123,7D7GDLWAGAWQ57LY,2020-12-27,38340,grinding noise from rear wheels
+494,51,1HGAV42T8LLIHKPJ,2020-02-24,68930,headlights are dim
+495,190,DL7FKNDG1JRJ5XFE,2023-03-11,186739,car wont start in the morning
+496,34,1FS324ERTL15E166,2020-07-24,115450,smell of burning rubber
+497,14,ESIRQ4TP1NA6KSNJ,2021-04-13,134195,brakes feel spongy
+498,30,YOTWG7NFDINU31EI,2021-01-28,200355,check engine light came on
+499,13,RBSZUJB4HLLQLLD0,2021-09-12,190817,squealing noise when turning
+500,4,ERFXIOKPG3DP4FMP,2020-05-13,137099,ac is blowing warm air
+501,497,2YGYZTHQSE0KIVWM,2022-05-05,151938,door lock is stuck
+502,359,VUUPLTXU3YF15Z08,2023-10-09,243481,fuel efficiency dropped a lot
+503,206,PE0HDJ7O9X66D7WD,2023-07-29,62843,steering wheel shakes when braking
+504,140,JN4LV11KJALW563C,2025-07-08,98888,abs light is on
+505,169,ZF0P7KB7IYNO667V,2023-03-07,33258,grinding noise from rear wheels
+506,230,SPJ9WRDPLFE19BCD,2021-01-08,154457,clutch pedal feels loose
+507,355,RG1YD5MY3GDILK1Q,2025-08-31,68561,tire pressure warning keeps coming back
+508,119,ARN4FLHW3CHNJ6GD,2023-03-07,106538,door lock is stuck
+509,220,PEFJ31EGOM62HDXC,2022-04-30,11015,brakes feel spongy
+510,137,IP35T54GYLBI18A2,2024-07-27,219246,squealing noise when turning
+511,182,A1RYZTBVHUAZUN6F,2025-10-24,209126,ac is blowing warm air
+512,198,A6U48GWGHM56VU6Z,2023-09-26,146223,battery keeps dying overnight
+513,226,T8LI72W4OEBMQPJB,2025-08-02,193902,door lock is stuck
+514,323,NX9OWWEW9V08LIUQ,2020-06-10,5685,suspension feels bouncy
+515,484,XUB0GZ1VHHGY8NNK,2024-05-21,10450,door lock is stuck
+516,142,DRN4ORAC8CYNL63G,2024-03-24,84742,suspension feels bouncy
+517,248,05XT54FN5G77LK6H,2020-04-08,27548,coolant warning light on
+518,161,EKT292MI560TOHXW,2021-08-09,59649,car wont start in the morning
+519,14,ESIRQ4TP1NA6KSNJ,2022-04-11,175839,radio cuts in and out
+520,397,GBSVK3X8MBGL2MCX,2023-08-04,66465,abs light is on
+521,243,5I67ZSOOUKIW8X17,2022-04-02,104978,suspension feels bouncy
+522,146,IFDHA6GH7IDUB9RB,2020-08-26,242784,check engine light came on
+523,342,Z76DD4DA7D0WTWS3,2022-08-19,142972,brakes feel spongy
+524,71,TGV46Q71T6JLDJ7P,2021-04-11,141587,radio cuts in and out
+525,1,DAZV46ESMRWGEBEV,2025-12-17,228768,check engine light came on
+526,295,UWXU2HHLDA2UX64B,2022-08-02,173741,exhaust is louder than usual
+527,407,S2UTBTTY9GFYW4I7,2022-01-06,92845,fuel efficiency dropped a lot
+528,95,CUJVXHSHV1Y04Z4V,2022-07-31,167958,check engine light came on
+529,163,BHON4WBABQ0FOT10,2024-12-21,171030,squealing noise when turning
+530,96,DFLD9CBA7263RJK4,2024-09-06,68554,power windows stopped working
+531,277,LH07BA7DORFKI1IJ,2020-12-03,139177,ac is blowing warm air
+532,378,IDSECHU3YCPKAVM9,2020-09-30,141292,car overheating in traffic
+533,103,POZ4XV87UGT47S15,2025-02-22,209422,abs light is on
+534,473,KNL2LUHHS4DILRZQ,2020-01-16,226984,smoke coming from under hood
+535,157,0V4PSC9J5UGE1G41,2020-12-27,24306,check engine light came on
+536,298,WVVSKP30TX8J1CCM,2022-09-28,181775,engine is making a weird noise
+537,187,X0RTMG7C0Q6ULH3X,2022-04-10,135336,fuel efficiency dropped a lot
+538,273,5U04RIPWN3KE9OUJ,2021-01-22,41571,coolant warning light on
+539,69,3MKR4L2E4F4N3ZA0,2023-06-17,200820,ac is blowing warm air
+540,46,B9V1T4JXA2YMPYI4,2022-08-11,163965,car wont start in the morning
+541,456,BEAHY5HO37PJPO3C,2023-12-29,231365,windshield wipers not working
+542,42,HHA1PJGFJC5QPH6G,2025-06-12,111308,squealing noise when turning
+543,410,EE2ABG9SHO5D5AFQ,2025-07-21,138454,car wont start in the morning
+544,320,74QR14VUYV2EMY9T,2025-12-14,177543,coolant warning light on
+545,350,XRUTT247O0GXAPLI,2022-08-25,247964,squealing noise when turning
+546,132,80TW87S34876KE1Q,2020-12-25,11442,radio cuts in and out
+547,55,VPIG3YVR2EU4KB57,2021-10-23,235450,headlights are dim
+548,497,2YGYZTHQSE0KIVWM,2021-10-12,160221,transmission slipping between gears
+549,96,NXI5P2QFS7GLB82M,2024-12-23,119027,rough idle at stoplights
+550,433,W0PN524KSKWECY9A,2022-03-08,154389,headlights are dim
+551,73,78ZWGDQBLUPPH3NW,2024-06-06,27446,clutch pedal feels loose
+552,8,KG3FYE4HQGOXAIQU,2020-01-03,54089,headlights are dim
+553,66,G21CQTP3174GU65S,2023-07-26,216923,grinding noise from rear wheels
+554,423,8U1QP2WNV2MK48J4,2023-08-17,40541,exhaust is louder than usual
+555,175,OZZ9Z76MH8PU9JN0,2025-03-19,130900,ac is blowing warm air
+556,158,TJA622DCFF3TR7WB,2025-07-24,163141,power windows stopped working
+557,40,W8LI3IF9AIZH5P3F,2022-02-08,148928,tire pressure warning keeps coming back
+558,93,JHB0C148MO64E51O,2025-12-19,199524,engine is making a weird noise
+559,238,B8NMT3YPS4SYBHQG,2020-10-23,247293,tire pressure warning keeps coming back
+560,79,4XDD8IUZV3ZBXPQ5,2024-12-10,207691,car pulls to the left when braking
+561,245,0Z7Q0I9BL14HOAE5,2022-02-10,131575,grinding noise from rear wheels
+562,13,CRHYQNRM31SL7ZX4,2023-12-14,159725,smoke coming from under hood
+563,383,RSI7EADGHXTUR8XU,2021-01-15,215090,coolant warning light on
+564,116,VEZRAD8EJPMLNL7H,2021-04-12,26044,clutch pedal feels loose
+565,418,JHMXCQDJ5CUYDA9A,2020-08-17,15322,smoke coming from under hood
+566,84,BEOKFCRAHB73SJ2K,2020-06-27,207864,engine is making a weird noise
+567,317,TZRBZIRJYZ8XUKU8,2023-01-09,73652,fuel efficiency dropped a lot
+568,52,BJ72BTQ82327AQFF,2025-01-05,142062,coolant warning light on
+569,366,6QEPYOHAKC37WMFP,2025-03-11,172628,check engine light came on
+570,205,YE71TWD96HHWMF1G,2020-03-09,173443,smell of burning rubber
+571,50,N9CC7ISUTP04SBRS,2021-05-20,9723,car pulls to the left when braking
+572,108,U985LTKMCCDUEFS4,2020-02-24,171099,brakes feel spongy
+573,73,78ZWGDQBLUPPH3NW,2020-05-27,224050,car wont start in the morning
+574,267,FB2FLURMW3UQHWTE,2020-04-04,154846,power windows stopped working
+575,33,Q7KA8OBM5RY6Q2M8,2022-01-12,44121,transmission slipping between gears
+576,361,AH2XJQ2WDIZHW0VQ,2022-05-13,111974,clutch pedal feels loose
+577,91,PH5CH3L16CR3UV43,2021-11-19,105779,abs light is on
+578,193,L66YA6BA24S0LGUP,2025-08-03,210116,windshield wipers not working
+579,462,L4J4X0LY66G9ZNAX,2022-12-07,40678,suspension feels bouncy
+580,295,13M7PC59P0QVHZJK,2024-09-30,175710,ac is blowing warm air
+581,362,J8PMOZKNHPVRWBRB,2022-09-06,100284,car wont start in the morning
+582,6,SF2AALUDHAAHOP0E,2023-08-30,11522,car wont start in the morning
+583,285,7ZQPPOAU8P1WKISE,2024-05-20,84973,door lock is stuck
+584,160,89QSNVYF2ZQOYGWO,2024-07-29,241268,door lock is stuck
+585,137,IP35T54GYLBI18A2,2024-04-07,18028,coolant warning light on
+586,488,5LFOS9DJ9IHJDQDF,2023-05-29,99866,battery keeps dying overnight
+587,444,GGAFDR3TGWJ7PUM3,2023-09-14,71685,radio cuts in and out
+588,173,SFQBVH0KW3PGSF3Y,2024-10-23,104828,abs light is on
+589,394,2BE4N2524GPZBOMV,2025-10-06,97782,weird vibration at highway speeds
+590,46,B9V1T4JXA2YMPYI4,2022-03-23,137822,suspension feels bouncy
+591,40,W8LI3IF9AIZH5P3F,2023-12-17,178369,windshield wipers not working
+592,58,JS08RWQ1CGEDBT8B,2021-10-17,170145,smoke coming from under hood
+593,360,BAEPG25PU9H9FB02,2024-11-13,61579,power windows stopped working
+594,17,5PNEDL60YOKR78L1,2022-09-11,87100,ac is blowing warm air
+595,414,QSA11PTKFTUWFV2T,2025-03-02,217704,car wont start in the morning
+596,182,A1RYZTBVHUAZUN6F,2025-09-11,6199,abs light is on
+597,77,M27O19QTG15XD82I,2021-10-13,68885,smell of burning rubber
+598,84,GXLOARRXC9MIDUX8,2022-06-13,207231,door lock is stuck
+599,82,8V16SHQXMS0HKRAJ,2022-09-25,83844,smoke coming from under hood
+600,275,6SQJY6REG857YYOM,2020-05-09,232153,car overheating in traffic
+601,133,ZUFDNU4I5YMQT3DG,2020-09-01,88657,car overheating in traffic
+602,94,FX3030A67RL2YJ09,2023-01-07,144463,power windows stopped working
+603,139,PAVAJIMMNSTOUIFJ,2020-02-03,197103,check engine light came on
+604,341,F9TU8PV2KJH01AON,2021-12-06,78495,tire pressure warning keeps coming back
+605,317,TZRBZIRJYZ8XUKU8,2020-07-06,153673,trunk wont open
+606,466,EC275JT660J08XTR,2025-06-30,64579,tire pressure warning keeps coming back
+607,50,12JF4CIWL3RFJL9V,2023-11-15,75684,door lock is stuck
+608,102,C3BAK73I1RD31TB0,2022-09-16,6254,coolant warning light on
+609,42,HHA1PJGFJC5QPH6G,2021-07-18,115548,exhaust is louder than usual
+610,63,BS5XRGA3L71029DG,2023-12-22,33819,check engine light came on
+611,57,NIA2Y7VFHPD6VQ81,2020-01-20,185650,steering wheel shakes when braking
+612,395,XLB57AUKHQNZJNNS,2022-01-27,177473,coolant warning light on
+613,259,91KUBJJJX1ALX44P,2023-11-07,59976,oil leak under the car
+614,173,K9RX647DI3E950ID,2025-03-15,243251,fuel efficiency dropped a lot
+615,64,TQXC72BM2O2ZCMOT,2022-07-05,221102,smell of burning rubber
+616,366,6QEPYOHAKC37WMFP,2020-11-18,54306,suspension feels bouncy
+617,99,PWG3XG0TRKY8RYOZ,2022-09-05,42286,door lock is stuck
+618,477,N0THL2C53K9OM115,2023-01-30,12652,smoke coming from under hood
+619,211,OPO6J0M3LOUFHW8W,2022-01-26,98839,abs light is on
+620,131,SV5ITMTJLEGP4H2H,2024-11-13,44056,clutch pedal feels loose
+621,104,PEVHTZ4VOYBJ7SOY,2022-01-20,242531,suspension feels bouncy
+622,46,B9V1T4JXA2YMPYI4,2020-07-28,34100,rough idle at stoplights
+623,182,A1RYZTBVHUAZUN6F,2025-12-04,63574,weird vibration at highway speeds
+624,71,D0I2V4B2RCYBRXOD,2023-12-04,182444,car overheating in traffic
+625,66,UV2VXO3PEOJ3M48N,2022-11-29,26036,windshield wipers not working
+626,275,R9F5IV86ZP1WZ2NA,2020-11-27,214239,grinding noise from rear wheels
+627,276,EV4DH9UGF10OO1PV,2020-11-17,29580,car wont start in the morning
+628,7,ZX8J5MS20T3T9LP2,2024-01-04,95182,exhaust is louder than usual
+629,62,5J1VRKF4HT69A143,2025-02-01,185522,trunk wont open
+630,94,FX3030A67RL2YJ09,2025-04-25,40576,transmission slipping between gears
+631,132,80TW87S34876KE1Q,2025-02-09,113981,weird vibration at highway speeds
+632,331,VC1FRF899OFPVIMI,2024-04-27,70583,car pulls to the left when braking
+633,343,7KBNKFVDHLZ02Z7N,2023-07-24,180059,clutch pedal feels loose
+634,118,GSV5E033DZQQ5EB9,2021-11-14,115933,smell of burning rubber
+635,96,NXI5P2QFS7GLB82M,2021-02-19,236465,transmission slipping between gears
+636,96,DFLD9CBA7263RJK4,2022-11-20,139662,rough idle at stoplights
+637,91,7YZ5ND2OEUT4IEC1,2021-10-16,107827,engine is making a weird noise
+638,26,HBCPLA8JZ9DS2ULK,2022-08-16,116121,brakes feel spongy
+639,317,TZRBZIRJYZ8XUKU8,2020-03-23,68045,suspension feels bouncy
+640,337,6DJIN9RG4XV349N1,2024-11-20,24334,radio cuts in and out
+641,488,5LFOS9DJ9IHJDQDF,2023-10-06,86465,check engine light came on
+642,30,RRLOA8O34LPQK5FP,2021-08-08,166361,tire pressure warning keeps coming back
+643,12,3OV9JYDFZDTC5PAY,2022-07-21,120530,door lock is stuck
+644,99,P18OBS7587H91EL8,2022-05-31,204383,battery keeps dying overnight
+645,498,C0TK1QQFVWUO11K0,2025-08-18,85891,car overheating in traffic
+646,235,LOQVBV1JPVKTAF6B,2021-09-15,81481,check engine light came on
+647,162,WHHOLI54087WS1LO,2022-09-19,164332,power windows stopped working
+648,436,67LM8E49ITE92SRL,2021-08-15,17110,coolant warning light on
+649,336,SAJHJXQKD8UR6TIA,2022-10-05,33066,battery keeps dying overnight
+650,338,CR0VHV1NM3V16XEG,2024-02-28,99846,headlights are dim
+651,16,Z0KDN3TN60TLXOUN,2020-09-18,53445,car pulls to the left when braking
+652,76,DDVXKKXO0SSW74WQ,2020-04-09,159788,radio cuts in and out
+653,124,9VVN5X48PW5K0JJS,2020-12-14,55877,rough idle at stoplights
+654,45,BGUAXNM0ALQEDS1V,2022-10-15,83421,squealing noise when turning
+655,59,CAG1JDHQW2VGQZDN,2020-12-12,63988,abs light is on
+656,342,Z76DD4DA7D0WTWS3,2025-06-04,179187,car wont start in the morning
+657,91,PH5CH3L16CR3UV43,2020-03-05,89067,squealing noise when turning
+658,486,ZV3IU6L5NFLTQ680,2021-04-14,158235,door lock is stuck
+659,466,EC275JT660J08XTR,2023-10-23,107190,suspension feels bouncy
+660,180,K4O67BXCD20J1OUL,2021-10-24,61001,rough idle at stoplights
+661,75,T76I3HZCD3GEQ10F,2020-12-07,42029,radio cuts in and out
+662,44,L0Q4EJHXPTUEDN3J,2021-09-29,64922,transmission slipping between gears
+663,417,F5SIDASO7KRGI4JW,2020-11-05,109089,suspension feels bouncy
+664,150,YI4PZZJ8XKV4VTCD,2025-03-01,62103,squealing noise when turning
+665,67,7PW35X3X10Y14DSF,2020-04-20,207604,car overheating in traffic
+666,378,IDSECHU3YCPKAVM9,2020-01-05,132749,headlights are dim
+667,73,78ZWGDQBLUPPH3NW,2020-11-27,95769,car overheating in traffic
+668,462,L4J4X0LY66G9ZNAX,2023-01-27,71662,exhaust is louder than usual
+669,41,W4EMM9VASJEVTS1H,2021-12-28,217038,engine is making a weird noise
+670,338,CR0VHV1NM3V16XEG,2025-11-02,199616,oil leak under the car
+671,63,WAS1UDJOAU4DU0FI,2020-05-20,150477,abs light is on
+672,204,DNGFLYRJ8GOSD3M0,2023-11-19,172235,abs light is on
+673,294,RWSF5PAE9Z5JL6UF,2023-07-19,160830,rough idle at stoplights
+674,100,AK1VPANGW3PAJVF9,2024-06-12,204552,check engine light came on
+675,283,CPJZE1XTAR0KO31N,2020-02-04,76355,fuel efficiency dropped a lot
+676,313,KWOALF4V1TXH376Z,2025-02-24,111977,door lock is stuck
+677,298,WVVSKP30TX8J1CCM,2020-10-08,168953,coolant warning light on
+678,162,I2I397I6YXV2MEOS,2024-10-02,211781,coolant warning light on
+679,214,O8G8HZMVYD47DZNA,2020-11-05,16705,abs light is on
+680,126,ZYF2EV4JI4UFANS5,2021-12-07,122022,brakes feel spongy
+681,373,3FRB7EI5R8VO4KVF,2022-09-25,31248,oil leak under the car
+682,301,WLF9YXAM97YOFCX7,2021-02-15,20756,coolant warning light on
+683,198,A6U48GWGHM56VU6Z,2020-01-12,44032,car pulls to the left when braking
+684,337,YPIGQX2456IZC0YO,2022-08-24,99807,transmission slipping between gears
+685,94,FX3030A67RL2YJ09,2020-11-10,184605,abs light is on
+686,65,UBNBWGSKWD3X2KB6,2021-05-12,142093,radio cuts in and out
+687,52,HCG7FD143XRV8DF2,2024-08-28,63265,clutch pedal feels loose
+688,4,Z7CTM09HZBGTJ546,2020-12-18,145894,windshield wipers not working
+689,410,EE2ABG9SHO5D5AFQ,2024-04-07,198535,fuel efficiency dropped a lot
+690,146,O7ERC4R6S34A1NFX,2025-09-21,201368,grinding noise from rear wheels
+691,253,XRED8U8NOZEMDMZ5,2025-05-28,117305,transmission slipping between gears
+692,224,FLDAA1FWT9UA09W1,2023-12-19,11064,ac is blowing warm air
+693,197,KMSX54RJSXFOH9MB,2021-02-12,188172,smell of burning rubber
+694,142,DRN4ORAC8CYNL63G,2020-02-06,244422,headlights are dim
+695,14,ESIRQ4TP1NA6KSNJ,2023-01-06,68293,coolant warning light on
+696,182,A1RYZTBVHUAZUN6F,2025-12-23,213261,clutch pedal feels loose
+697,426,Q44DVVPGB8IY525F,2022-01-08,32315,weird vibration at highway speeds
+698,341,F9TU8PV2KJH01AON,2024-02-29,143696,brakes feel spongy
+699,420,V47LZN9UHJPKHF33,2022-12-20,168110,suspension feels bouncy
+700,73,78ZWGDQBLUPPH3NW,2022-11-29,99845,tire pressure warning keeps coming back
+701,182,A1RYZTBVHUAZUN6F,2025-04-19,163730,ac is blowing warm air
+702,109,UMKVGG4NP4D8J2X7,2023-10-18,95208,power windows stopped working
+703,14,M642PW5UESDRBTA3,2024-10-18,123887,car wont start in the morning
+704,374,BAYKIS11D2MRMTXJ,2025-01-01,120131,radio cuts in and out
+705,62,5J1VRKF4HT69A143,2025-08-14,185380,rough idle at stoplights
+706,110,FZJAHSAO2QWKBSEP,2024-10-09,226893,oil leak under the car
+707,69,NXPWNUA6TDXJ1WQQ,2021-03-12,110065,ac is blowing warm air
+708,497,2YGYZTHQSE0KIVWM,2024-12-09,247133,coolant warning light on
+709,19,QBVNPY1AJKPQKBE0,2024-01-28,102584,car wont start in the morning
+710,399,FH70M9OHDSRS8ANP,2022-03-12,30806,coolant warning light on
+711,70,3UMGTHKTGYLEYO3H,2023-03-19,200936,clutch pedal feels loose
+712,224,FLDAA1FWT9UA09W1,2021-07-26,196217,weird vibration at highway speeds
+713,55,VPIG3YVR2EU4KB57,2024-04-08,179906,brakes feel spongy
+714,401,YCZU80ZRZ79HQTYL,2024-05-20,211427,abs light is on
+715,130,MW04U923O359TSUJ,2024-10-03,134561,weird vibration at highway speeds
+716,396,8EGP15CA8ZJSW5PQ,2021-03-28,82819,brakes feel spongy
+717,341,FLXV5CIX39ELLHLR,2021-01-31,209245,door lock is stuck
+718,436,67LM8E49ITE92SRL,2021-02-22,169157,car overheating in traffic
+719,247,7UXHVDHGUESXNU4V,2022-07-17,139049,car pulls to the left when braking
+720,80,VR40DM9IF826BHYZ,2024-09-22,144425,weird vibration at highway speeds
+721,110,E0JXYO6HFD7LTTC9,2020-04-21,130618,clutch pedal feels loose
+722,328,VRGSS8K5IJULP98R,2024-03-24,87101,coolant warning light on
+723,172,E5GV7P2A2Q9OJF3C,2025-09-22,160492,abs light is on
+724,67,7PW35X3X10Y14DSF,2024-03-25,61741,coolant warning light on
+725,63,IOFU2NCU22KB8OHL,2020-04-25,5783,battery keeps dying overnight
+726,56,WXJ46T9DNZWSS9V6,2022-07-22,132512,power windows stopped working
+727,361,AH2XJQ2WDIZHW0VQ,2023-11-12,205673,grinding noise from rear wheels
+728,23,L9T15KCK4ZYNFGJ1,2021-04-10,43002,door lock is stuck
+729,73,T4ZF3D4D32NKX5ZT,2020-08-24,131498,power windows stopped working
+730,30,RRLOA8O34LPQK5FP,2023-02-21,63472,brakes feel spongy
+731,49,4JM8C9TFLDY3YGQA,2024-03-24,18075,radio cuts in and out
+732,162,I2I397I6YXV2MEOS,2025-01-24,26484,transmission slipping between gears
+733,323,XQERBKN3DKVR5NBH,2025-05-19,78601,car pulls to the left when braking
+734,92,V06DDG680IUGA4FE,2020-12-24,10353,coolant warning light on
+735,14,ESIRQ4TP1NA6KSNJ,2024-06-28,187589,windshield wipers not working
+736,44,L0Q4EJHXPTUEDN3J,2025-01-09,92730,rough idle at stoplights
+737,187,X0RTMG7C0Q6ULH3X,2025-05-08,223269,abs light is on
+738,98,2NGQEUA73ABZGS9W,2020-08-20,168651,exhaust is louder than usual
+739,468,EWDS0HPRWZBYWWIM,2025-07-01,32906,car pulls to the left when braking
+740,420,V47LZN9UHJPKHF33,2024-08-03,148205,suspension feels bouncy
+741,242,IRJUTFVJ839AG77Q,2025-10-17,98309,radio cuts in and out
+742,259,F225AA35WFW5Q52D,2025-12-29,167479,door lock is stuck
+743,35,3FKEOUBXXQ6MF5QA,2020-11-11,118421,car wont start in the morning
+744,229,TOHRNQI7NL7OLKY5,2022-09-23,111530,car pulls to the left when braking
+745,456,67KAYP44QI4OPF54,2021-01-20,222341,transmission slipping between gears
+746,160,89QSNVYF2ZQOYGWO,2023-12-14,101081,headlights are dim
+747,212,FWR0UI1JLMFLUOAY,2024-09-10,32094,fuel efficiency dropped a lot
+748,253,XRED8U8NOZEMDMZ5,2025-06-21,62126,tire pressure warning keeps coming back
+749,445,NAAXU3K8JB79YJ65,2022-05-15,28246,rough idle at stoplights
+750,147,C60CJBMUVHGQK820,2025-12-12,107750,transmission slipping between gears
+751,373,KTI221XJ7WWUDQVD,2022-04-28,205175,windshield wipers not working
+752,146,O7ERC4R6S34A1NFX,2024-10-10,25148,car wont start in the morning
+753,298,WVVSKP30TX8J1CCM,2021-12-04,213494,car pulls to the left when braking
+754,106,CGJU2T0JESGQ4BVP,2022-03-07,215364,squealing noise when turning
+755,227,VWCT8JBBSXPK48AB,2025-04-09,25154,fuel efficiency dropped a lot
+756,314,G770XDHJ5SC36U9C,2020-05-30,75191,smell of burning rubber
+757,224,975J2D8CLW3JGEQE,2020-08-18,185681,oil leak under the car
+758,118,GSV5E033DZQQ5EB9,2024-01-03,162647,radio cuts in and out
+759,40,J2ONVEOX3AKV62ZL,2023-09-25,140237,rough idle at stoplights
+760,178,JKS4I2NR1P02JYV6,2024-09-20,187149,abs light is on
+761,337,YPIGQX2456IZC0YO,2025-05-27,45146,smoke coming from under hood
+762,407,S2UTBTTY9GFYW4I7,2021-09-23,163271,ac is blowing warm air
+763,150,YI4PZZJ8XKV4VTCD,2024-11-28,32745,suspension feels bouncy
+764,20,8YDR3UES2FX0ZKWI,2022-01-24,223530,exhaust is louder than usual
+765,93,NL6DMJLXDW0YCYRN,2022-11-06,169980,clutch pedal feels loose
+766,488,5LFOS9DJ9IHJDQDF,2022-01-05,240413,abs light is on
+767,416,8VGZSXJZVUV3CB0I,2022-02-08,190248,power windows stopped working
+768,342,Z76DD4DA7D0WTWS3,2024-06-06,187508,oil leak under the car
+769,103,POZ4XV87UGT47S15,2022-11-23,98849,car pulls to the left when braking
+770,399,3K88RHOEHAPM4YQZ,2022-10-27,207522,exhaust is louder than usual
+771,278,XYWWSTIO1K7F5OA3,2024-05-14,87300,weird vibration at highway speeds
+772,41,ZSB6ZWKHE9I0HN3F,2025-04-10,7274,fuel efficiency dropped a lot
+773,100,UQJJ1GJPMH3UQ1AM,2020-07-07,208206,windshield wipers not working
+774,10,9AFPP7SDWYQTUV27,2023-06-06,187390,car overheating in traffic
+775,246,JC6ON5ZZ679AQLO3,2023-02-10,40549,tire pressure warning keeps coming back
+776,94,FX3030A67RL2YJ09,2021-03-16,189187,headlights are dim
+777,67,BD9Q8WHT37OJ98BY,2021-01-15,91146,squealing noise when turning
+778,497,2YGYZTHQSE0KIVWM,2022-04-24,22443,weird vibration at highway speeds
+779,175,OZZ9Z76MH8PU9JN0,2024-10-22,55360,headlights are dim
+780,42,D7Z4KSO03W2MROP2,2021-07-11,186511,car pulls to the left when braking
+781,410,EE2ABG9SHO5D5AFQ,2023-04-18,190234,engine is making a weird noise
+782,23,SILL0NO8OL0V0HXE,2021-12-04,39761,windshield wipers not working
+783,277,PDT12SBA62TDO1DF,2025-11-21,29656,abs light is on
+784,498,C0TK1QQFVWUO11K0,2022-10-03,112949,transmission slipping between gears
+785,337,6DJIN9RG4XV349N1,2023-06-17,86964,abs light is on
+786,409,918SLOMEYL6SS1A2,2021-02-13,238717,windshield wipers not working
+787,198,A6U48GWGHM56VU6Z,2021-11-19,75373,steering wheel shakes when braking
+788,71,TGV46Q71T6JLDJ7P,2020-05-06,45711,transmission slipping between gears
+789,301,7V4K88K686QE7AJU,2024-02-15,216946,engine is making a weird noise
+790,80,VR40DM9IF826BHYZ,2024-08-11,120138,car overheating in traffic
+791,235,YLUYHETKDUWTN5PE,2025-10-09,180192,squealing noise when turning
+792,43,6N1RWU1ESEVGC0QT,2024-09-02,93175,battery keeps dying overnight
+793,4,RR9VWE77NTTRTIDZ,2023-03-13,215424,car pulls to the left when braking
+794,198,A6U48GWGHM56VU6Z,2022-02-27,97157,fuel efficiency dropped a lot
+795,303,0JI1T3UZZZULYZLG,2022-02-27,240209,headlights are dim
+796,342,Z76DD4DA7D0WTWS3,2021-07-03,86538,steering wheel shakes when braking
+797,8,IWPFVB71GHLU8M87,2020-08-16,184405,rough idle at stoplights
+798,212,FWR0UI1JLMFLUOAY,2020-11-07,230464,door lock is stuck
+799,482,BXQJ7DPFSSBJDX0P,2022-03-28,173559,exhaust is louder than usual
+800,166,682R6ZL1KHW8GAKH,2022-12-30,166612,transmission slipping between gears
+801,177,A09Q16A3KL0N4L6B,2021-12-15,14236,oil leak under the car
+802,410,EE2ABG9SHO5D5AFQ,2024-04-12,191417,squealing noise when turning
+803,403,3CNFU2HERSNUN446,2021-12-10,162272,smell of burning rubber
+804,211,OPO6J0M3LOUFHW8W,2022-08-07,66270,coolant warning light on
+805,166,682R6ZL1KHW8GAKH,2022-10-21,154076,brakes feel spongy
+806,173,W0GQ34PGGCBI6QSR,2022-02-24,220671,fuel efficiency dropped a lot
+807,57,NIA2Y7VFHPD6VQ81,2022-08-02,224093,suspension feels bouncy
+808,253,XRED8U8NOZEMDMZ5,2021-09-01,78516,steering wheel shakes when braking
+809,1,QHR133NO3AAMTFPW,2021-12-28,116316,rough idle at stoplights
+810,115,HAIH7WFRAC8E3PQK,2022-02-22,112508,weird vibration at highway speeds
+811,17,5PNEDL60YOKR78L1,2022-07-31,146242,oil leak under the car
+812,473,KNL2LUHHS4DILRZQ,2024-02-28,128899,car pulls to the left when braking
+813,314,G770XDHJ5SC36U9C,2022-11-08,119341,radio cuts in and out
+814,342,Z76DD4DA7D0WTWS3,2024-01-22,208435,suspension feels bouncy
+815,68,HIVDTS8MG00CRZ17,2022-10-17,79521,radio cuts in and out
+816,445,NAAXU3K8JB79YJ65,2021-07-01,105589,coolant warning light on
+817,30,B20UC87NXP0JF6DN,2025-01-16,10458,battery keeps dying overnight
+818,413,B4NTHZM32HZS32D1,2020-03-29,220270,grinding noise from rear wheels
+819,157,0V4PSC9J5UGE1G41,2025-11-12,203998,suspension feels bouncy
+820,175,OZZ9Z76MH8PU9JN0,2023-01-19,164587,abs light is on
+821,410,EE2ABG9SHO5D5AFQ,2024-10-14,70205,suspension feels bouncy
+822,32,WAPCQ7VG6N968XF6,2023-08-31,79286,weird vibration at highway speeds
+823,250,K9D643J2X9A6TDV9,2025-04-10,30198,power windows stopped working
+824,30,YOTWG7NFDINU31EI,2025-02-18,72794,car pulls to the left when braking
+825,394,JSFPFMNF7UIWJTA8,2020-06-03,6187,smell of burning rubber
+826,226,T8LI72W4OEBMQPJB,2021-07-12,76819,coolant warning light on
+827,274,3R4SIP4B8J4ZXD82,2023-01-30,60644,steering wheel shakes when braking
+828,382,RGSL55X9E0RAGHKE,2024-03-25,179840,rough idle at stoplights
+829,158,TJA622DCFF3TR7WB,2022-11-23,122957,headlights are dim
+830,248,05XT54FN5G77LK6H,2021-03-12,188709,headlights are dim
+831,78,30X8BNMJSXTDHDX1,2024-11-09,233637,grinding noise from rear wheels
+832,41,W4EMM9VASJEVTS1H,2022-12-04,226847,fuel efficiency dropped a lot
+833,165,MOCTCLKA9LZ57V4N,2020-04-17,26179,smell of burning rubber
+834,350,XRUTT247O0GXAPLI,2025-01-09,213697,car pulls to the left when braking
+835,207,WUFUK15U2486D43I,2024-01-08,130943,squealing noise when turning
+836,216,NBB4V57YZET3GNDC,2020-01-01,90404,windshield wipers not working
+837,161,6V3RZKDU6FOTWFTQ,2025-08-31,147296,squealing noise when turning
+838,190,DL7FKNDG1JRJ5XFE,2025-07-05,105757,door lock is stuck
+839,66,UV2VXO3PEOJ3M48N,2022-01-10,152580,weird vibration at highway speeds
+840,98,I3UDUURWUDKBU0T3,2024-11-16,101452,grinding noise from rear wheels
+841,363,TGDK4SNV9RR49HQW,2023-02-13,9888,exhaust is louder than usual
+842,248,05XT54FN5G77LK6H,2024-08-02,209875,squealing noise when turning
+843,177,A09Q16A3KL0N4L6B,2023-11-06,132001,steering wheel shakes when braking
+844,224,FLDAA1FWT9UA09W1,2022-12-18,221222,abs light is on
+845,212,FWR0UI1JLMFLUOAY,2025-04-15,23900,clutch pedal feels loose
+846,423,8U1QP2WNV2MK48J4,2023-09-18,240800,suspension feels bouncy
+847,474,76IMG7ZD3Q0E03YI,2020-05-16,83816,smoke coming from under hood
+848,448,TXB1761M3J1HA0W5,2022-09-12,19600,coolant warning light on
+849,250,K9D643J2X9A6TDV9,2024-10-18,133582,radio cuts in and out
+850,295,13M7PC59P0QVHZJK,2023-05-17,234256,rough idle at stoplights
+851,482,BXQJ7DPFSSBJDX0P,2022-10-18,204384,rough idle at stoplights
+852,25,JFUPMVL5VECF8OCQ,2022-09-28,155200,smell of burning rubber
+853,456,BEAHY5HO37PJPO3C,2020-07-31,232586,door lock is stuck
+854,117,JR211PV58Y9N81DJ,2025-09-28,89692,car overheating in traffic
+855,240,GTEFR6MQW7673UBL,2020-12-12,193767,engine is making a weird noise
+856,374,BAYKIS11D2MRMTXJ,2024-03-25,120153,fuel efficiency dropped a lot
+857,292,T1OXHFDXK31WBHTF,2022-05-03,216422,engine is making a weird noise
+858,305,ZU1TOZHDV5OJZTO7,2025-06-28,43647,headlights are dim
+859,234,1PY6Q9YL16ZV8U0L,2025-04-28,203963,check engine light came on
+860,350,XRUTT247O0GXAPLI,2024-08-26,90864,ac is blowing warm air
+861,41,ZSB6ZWKHE9I0HN3F,2024-09-26,200915,weird vibration at highway speeds
+862,355,RG1YD5MY3GDILK1Q,2023-02-26,183258,weird vibration at highway speeds
+863,102,C3BAK73I1RD31TB0,2024-07-08,72676,rough idle at stoplights
+864,37,JS18L9GJ4ANLIOBL,2022-09-28,200876,oil leak under the car
+865,249,4SMZOCXMZMZ2K1KO,2021-09-08,181754,weird vibration at highway speeds
+866,240,GTEFR6MQW7673UBL,2024-09-23,120276,brakes feel spongy
+867,368,2ZSA6HA3VMOT4SAY,2022-06-19,122569,clutch pedal feels loose
+868,346,DAO13TB25ICCPKLV,2023-02-20,84024,smoke coming from under hood
+869,219,8VE00H2K2P3AJFAX,2024-10-19,125992,transmission slipping between gears
+870,104,PEVHTZ4VOYBJ7SOY,2021-07-10,238358,power windows stopped working
+871,435,KO5FKPA2TVMXQYJR,2023-07-06,121522,trunk wont open
+872,193,EQ4F1SRIKOMFRQ8L,2025-07-24,218311,battery keeps dying overnight
+873,137,IP35T54GYLBI18A2,2023-01-21,165766,door lock is stuck
+874,124,9VVN5X48PW5K0JJS,2025-08-19,79779,trunk wont open
+875,242,GPYNYJ0UFO2HOQ5E,2023-12-21,158992,smoke coming from under hood
+876,89,O7PLR1X08K4L2LJZ,2025-02-25,201582,suspension feels bouncy
+877,355,RG1YD5MY3GDILK1Q,2022-09-10,202456,car wont start in the morning
+878,106,CGJU2T0JESGQ4BVP,2025-04-30,115072,steering wheel shakes when braking
+879,133,ZUFDNU4I5YMQT3DG,2021-09-07,233620,engine is making a weird noise
+880,410,EE2ABG9SHO5D5AFQ,2023-12-23,127485,brakes feel spongy
+881,418,JHMXCQDJ5CUYDA9A,2022-03-29,96942,steering wheel shakes when braking
+882,169,ZF0P7KB7IYNO667V,2025-04-13,88123,smell of burning rubber
+883,399,3K88RHOEHAPM4YQZ,2022-05-01,208674,check engine light came on
+884,175,OZZ9Z76MH8PU9JN0,2020-05-12,211770,windshield wipers not working
+885,224,975J2D8CLW3JGEQE,2020-05-17,198586,suspension feels bouncy
+886,330,1HYP5MASNPHFC4YG,2024-01-02,109445,radio cuts in and out
+887,140,JN4LV11KJALW563C,2023-04-04,68482,radio cuts in and out
+888,163,9XFQ1ENNGAY37VG6,2025-11-21,69006,suspension feels bouncy
+889,292,FANS0GNH8S2GT30G,2022-10-04,100802,exhaust is louder than usual
+890,23,R8IQRT007PCEASEH,2021-06-17,231733,squealing noise when turning
+891,275,R9F5IV86ZP1WZ2NA,2020-02-25,170490,smoke coming from under hood
+892,325,ZXQOMTS1EGPGVTN4,2020-04-28,127267,smoke coming from under hood
+893,103,PSSCP9KJYMJBT35Y,2020-09-02,23386,radio cuts in and out
+894,435,KO5FKPA2TVMXQYJR,2024-01-21,158331,clutch pedal feels loose
+895,243,5I67ZSOOUKIW8X17,2025-08-17,25621,grinding noise from rear wheels
+896,147,C60CJBMUVHGQK820,2023-07-11,223509,brakes feel spongy
+897,307,RCKQH3ERAM4BE52S,2023-07-27,184004,rough idle at stoplights
+898,350,XRUTT247O0GXAPLI,2023-02-07,211452,power windows stopped working
+899,184,3I9LLIFFCVEDQFC1,2023-06-09,86778,car wont start in the morning
+900,273,5U04RIPWN3KE9OUJ,2021-01-15,247041,rough idle at stoplights
+901,73,78ZWGDQBLUPPH3NW,2025-06-17,138987,door lock is stuck
+902,0,4RKGJZOWI1T2EP76,2025-03-05,193887,radio cuts in and out
+903,403,3CNFU2HERSNUN446,2024-04-19,109830,coolant warning light on
+904,486,ZV3IU6L5NFLTQ680,2020-03-05,165985,radio cuts in and out
+905,444,GGAFDR3TGWJ7PUM3,2024-07-13,101694,exhaust is louder than usual
+906,80,L3OBOPAB05DWJATE,2020-03-09,103284,rough idle at stoplights
+907,78,O1LPPJ1N5T844QH2,2023-02-05,22773,trunk wont open
+908,322,XMOE545VYBJH4OUL,2022-08-06,186313,engine is making a weird noise
+909,23,L9T15KCK4ZYNFGJ1,2022-01-31,189646,car wont start in the morning
+910,9,A67MSWPATOM287C4,2020-03-12,229228,exhaust is louder than usual
+911,407,DKITMAF9H3FHVFIJ,2022-09-18,183365,fuel efficiency dropped a lot
+912,347,IEKX6MJ53YXHZKIE,2021-09-29,50805,brakes feel spongy
+913,355,RG1YD5MY3GDILK1Q,2020-10-02,97944,weird vibration at highway speeds
+914,169,KBQNXPVMSR75RMG7,2020-05-12,103591,steering wheel shakes when braking
+915,480,LM576M2YVP6MPB4D,2022-09-24,123244,weird vibration at highway speeds
+916,233,M1V395ZDHZ6M9BJU,2025-02-01,71409,radio cuts in and out
+917,143,9QAZ6FP9XAQS3TGD,2022-12-05,48950,headlights are dim
+918,17,LTR9UQRVN2AEJGS5,2021-06-09,221953,engine is making a weird noise
+919,115,HAIH7WFRAC8E3PQK,2022-12-11,163782,steering wheel shakes when braking
+920,35,3FKEOUBXXQ6MF5QA,2021-11-12,248799,tire pressure warning keeps coming back
+921,178,JKS4I2NR1P02JYV6,2022-07-13,174119,clutch pedal feels loose
+922,219,8VE00H2K2P3AJFAX,2024-07-22,145842,squealing noise when turning
+923,198,A6U48GWGHM56VU6Z,2023-05-23,130584,car pulls to the left when braking
+924,413,B4NTHZM32HZS32D1,2024-02-10,58360,brakes feel spongy
+925,214,O8G8HZMVYD47DZNA,2021-08-01,7270,car overheating in traffic
+926,433,W0PN524KSKWECY9A,2022-12-31,56274,abs light is on
+927,194,KLI7V12J21TELO9L,2020-11-17,145119,car overheating in traffic
+928,72,38ZKRG6WMZ0ZCSSF,2024-02-02,143209,windshield wipers not working
+929,211,OPO6J0M3LOUFHW8W,2023-09-04,133177,exhaust is louder than usual
+930,175,OZZ9Z76MH8PU9JN0,2025-11-10,217034,steering wheel shakes when braking
+931,57,NIA2Y7VFHPD6VQ81,2021-11-30,245300,coolant warning light on
+932,21,8WYAQTFLVM8NYZHH,2025-10-26,99635,clutch pedal feels loose
+933,420,V47LZN9UHJPKHF33,2023-11-14,125773,smell of burning rubber
+934,447,XUNHU25Z8KQ86YNI,2022-04-21,61395,smoke coming from under hood
+935,188,Y0BHF0RIY4KL9ARY,2025-12-21,86539,smell of burning rubber
+936,103,PSSCP9KJYMJBT35Y,2020-06-17,148584,radio cuts in and out
+937,294,RWSF5PAE9Z5JL6UF,2020-09-23,144688,clutch pedal feels loose
+938,362,J8PMOZKNHPVRWBRB,2022-11-27,54565,ac is blowing warm air
+939,426,Q44DVVPGB8IY525F,2021-10-05,86725,car pulls to the left when braking
+940,77,M27O19QTG15XD82I,2025-03-12,155531,radio cuts in and out
+941,185,1MYLQJJBFSA5UZLZ,2021-02-20,225310,transmission slipping between gears
+942,180,K4O67BXCD20J1OUL,2025-04-18,45563,abs light is on
+943,223,VK1PBCD6FXNOQ37K,2020-12-22,28770,steering wheel shakes when braking
+944,497,2YGYZTHQSE0KIVWM,2022-10-18,56548,brakes feel spongy
+945,292,FANS0GNH8S2GT30G,2022-03-12,100012,smoke coming from under hood
+946,44,BEDYEJHDZXQ3P87J,2022-07-04,89076,check engine light came on
+947,89,UPMANQY0HU97NG0A,2023-06-12,216934,steering wheel shakes when braking
+948,379,HG0U43QLX3F2XHDC,2025-12-22,120592,brakes feel spongy
+949,34,1FS324ERTL15E166,2020-07-13,239278,fuel efficiency dropped a lot
+950,456,LSOGWIBJB6M9NWYU,2023-05-26,165933,door lock is stuck
+951,293,4DX6UZS1XKE1KWON,2024-07-24,124699,radio cuts in and out
+952,216,JJTB8QOP82J3TPS8,2023-06-05,201427,exhaust is louder than usual
+953,183,FTYLAVZME9WT00IV,2022-01-22,210281,fuel efficiency dropped a lot
+954,147,C60CJBMUVHGQK820,2024-07-23,42056,fuel efficiency dropped a lot
+955,37,JS18L9GJ4ANLIOBL,2021-09-17,94454,check engine light came on
+956,360,BAEPG25PU9H9FB02,2020-12-02,184420,tire pressure warning keeps coming back
+957,380,ZJFY4W8TR98W07FI,2024-09-13,11005,car pulls to the left when braking
+958,130,S83GYZIEPO772NRC,2021-01-17,104755,engine is making a weird noise
+959,475,ELALQ26UNVSDKV54,2022-10-21,46952,ac is blowing warm air
+960,346,DAO13TB25ICCPKLV,2021-08-02,145390,squealing noise when turning
+961,454,423H7T6UDOJY6G10,2020-12-08,44831,windshield wipers not working
+962,299,52A97PNFIRCVCZ8P,2024-07-05,248235,transmission slipping between gears
+963,82,EHDM6K6HGQ6SRP7B,2024-04-11,224062,ac is blowing warm air
+964,414,QSA11PTKFTUWFV2T,2023-01-14,55738,car wont start in the morning
+965,151,HZTAY12YIVFQSX50,2020-01-16,200495,engine is making a weird noise
+966,210,H0CD8A2IBCLTRH9V,2023-12-11,41477,car wont start in the morning
+967,448,TXB1761M3J1HA0W5,2025-02-10,149511,check engine light came on
+968,45,LNKKUO4JH9JPDMN1,2020-05-04,43212,check engine light came on
+969,83,A70TGO5AWLGITIZ7,2022-12-30,244303,coolant warning light on
+970,161,EKT292MI560TOHXW,2021-06-11,197680,battery keeps dying overnight
+971,89,O7PLR1X08K4L2LJZ,2021-08-15,37006,fuel efficiency dropped a lot
+972,234,1PY6Q9YL16ZV8U0L,2023-10-02,82395,transmission slipping between gears
+973,49,4JM8C9TFLDY3YGQA,2025-09-27,182443,abs light is on
+974,78,30X8BNMJSXTDHDX1,2021-08-26,190203,tire pressure warning keeps coming back
+975,434,DIRL481XLAXHNOC2,2024-04-05,9177,check engine light came on
+976,68,CD3IRVXD2ZU4NS7N,2022-01-15,50482,battery keeps dying overnight
+977,146,O7ERC4R6S34A1NFX,2024-01-08,210304,smoke coming from under hood
+978,17,76QWVGFRI7FZ5XBI,2025-01-21,74072,suspension feels bouncy
+979,100,UQJJ1GJPMH3UQ1AM,2020-04-05,15920,battery keeps dying overnight
+980,308,Y32I3PJ7K99BV2J3,2024-05-25,119203,trunk wont open
+981,362,Y6RKVNDXJN7DE0L1,2021-01-19,14247,abs light is on
+982,106,CGJU2T0JESGQ4BVP,2023-12-22,169365,squealing noise when turning
+983,54,Q8R4HC7JVLCG1J5E,2025-07-08,139957,rough idle at stoplights
+984,274,3R4SIP4B8J4ZXD82,2024-04-09,195842,car overheating in traffic
+985,96,DFLD9CBA7263RJK4,2022-04-23,24416,power windows stopped working
+986,48,XLE0BCT324ZBL5KZ,2021-06-08,114232,abs light is on
+987,378,IDSECHU3YCPKAVM9,2020-12-27,236924,car pulls to the left when braking
+988,256,9WRR513BB6F05EP4,2023-02-18,7391,car wont start in the morning
+989,26,72I2F8RPJX0WUZLL,2025-01-05,179433,abs light is on
+990,374,BAYKIS11D2MRMTXJ,2025-09-15,61182,engine is making a weird noise
+991,399,FH70M9OHDSRS8ANP,2022-11-16,36785,smoke coming from under hood
+992,29,QJ4PZC5YPOH41OF7,2022-10-04,196326,coolant warning light on
+993,241,8BYCZNYRB9J52OYY,2023-04-02,154300,steering wheel shakes when braking
+994,348,GJVSDBIDE6UITJ5Z,2025-02-25,73056,suspension feels bouncy
+995,27,ZYFGGK82P5YRO1WO,2022-08-13,99814,steering wheel shakes when braking
+996,165,MOCTCLKA9LZ57V4N,2022-09-07,152008,grinding noise from rear wheels
+997,422,Q6FWTV1DJJZQFE8E,2024-08-01,197785,car wont start in the morning
+998,350,FESYAXYPBP0E36S2,2023-09-19,219977,radio cuts in and out
+999,240,GTEFR6MQW7673UBL,2024-06-01,177361,car wont start in the morning
+1000,4,M7DBFPMGP6YWK5JR,2025-09-22,72068,smell of burning rubber
+1001,363,TGDK4SNV9RR49HQW,2025-12-05,218566,radio cuts in and out
+1002,119,6T0OTGPEQCYH207X,2021-09-03,104614,grinding noise from rear wheels
+1003,211,OPO6J0M3LOUFHW8W,2025-12-30,207977,door lock is stuck
+1004,247,7UXHVDHGUESXNU4V,2021-11-05,142766,trunk wont open
+1005,423,8U1QP2WNV2MK48J4,2021-03-29,204265,rough idle at stoplights
+1006,396,8EGP15CA8ZJSW5PQ,2024-03-09,69348,weird vibration at highway speeds
+1007,193,EQ4F1SRIKOMFRQ8L,2025-09-19,240478,rough idle at stoplights
+1008,395,AU5IK31YUW2TGRTF,2023-05-05,145293,door lock is stuck
+1009,9,96GORCPACQ5AH9OG,2024-08-04,242672,windshield wipers not working
+1010,137,IP35T54GYLBI18A2,2024-06-23,165120,battery keeps dying overnight
+1011,250,K9D643J2X9A6TDV9,2025-05-18,62359,battery keeps dying overnight
+1012,301,WLF9YXAM97YOFCX7,2025-04-29,222828,exhaust is louder than usual
+1013,486,MOUZE66VW9B0MQOQ,2024-01-03,65568,windshield wipers not working
+1014,123,7D7GDLWAGAWQ57LY,2023-08-13,130193,abs light is on
+1015,210,H0CD8A2IBCLTRH9V,2021-10-11,162207,tire pressure warning keeps coming back
+1016,454,423H7T6UDOJY6G10,2025-02-16,76968,battery keeps dying overnight
+1017,307,RCKQH3ERAM4BE52S,2023-04-07,190009,rough idle at stoplights
+1018,117,JR211PV58Y9N81DJ,2024-12-22,117339,exhaust is louder than usual
+1019,227,5EZ6IZ8ER6U0ESTI,2021-04-27,175895,suspension feels bouncy
+1020,109,UMKVGG4NP4D8J2X7,2022-11-19,116254,exhaust is louder than usual
+1021,496,9W5N9C70PA8JX54P,2024-07-22,165727,car overheating in traffic
+1022,238,B8NMT3YPS4SYBHQG,2024-01-07,206196,smell of burning rubber
+1023,78,GKHVLUCNJ0HYL77V,2021-04-02,86443,fuel efficiency dropped a lot
+1024,230,SPJ9WRDPLFE19BCD,2024-10-14,143775,oil leak under the car
+1025,4,GBO06FHRXJPT2ZL1,2022-04-26,153301,car overheating in traffic
+1026,214,O8G8HZMVYD47DZNA,2021-03-27,20997,power windows stopped working
+1027,223,HVL66SAJXXO9ZJCU,2023-09-02,27508,grinding noise from rear wheels
+1028,118,GSV5E033DZQQ5EB9,2023-02-24,50233,ac is blowing warm air
+1029,12,3OV9JYDFZDTC5PAY,2022-05-30,204052,steering wheel shakes when braking
+1030,90,MQADW9UFZDEPCGWL,2024-04-11,130723,squealing noise when turning
+1031,71,2Z6M81RJWPX5ZJ2O,2025-10-30,153825,smell of burning rubber
+1032,465,EYZILJ29JB8JXKQ0,2020-07-20,176679,brakes feel spongy
+1033,31,QA78CUHCZTGZOHC7,2020-02-03,76983,suspension feels bouncy
+1034,413,B4NTHZM32HZS32D1,2023-05-13,243548,coolant warning light on
+1035,2,34OGWPNXZDZB5F5T,2023-09-28,224809,smoke coming from under hood
+1036,19,TZA7UY4SAEQ1ZQ8D,2022-09-18,201018,car overheating in traffic
+1037,314,G770XDHJ5SC36U9C,2025-06-13,109921,car pulls to the left when braking
+1038,157,FPPWC1QY9MBAAXA3,2023-01-21,73475,squealing noise when turning
+1039,248,05XT54FN5G77LK6H,2021-09-23,69237,abs light is on
+1040,306,E9VAR2PZ6NTPBPZC,2024-11-26,166232,car wont start in the morning
+1041,327,PVSF5YC9LUERJQEN,2021-07-18,170935,car wont start in the morning
+1042,74,5XIXGSPLTI899A44,2023-09-24,169921,radio cuts in and out
+1043,313,KWOALF4V1TXH376Z,2023-05-09,247530,fuel efficiency dropped a lot
+1044,151,HZTAY12YIVFQSX50,2021-09-19,33071,trunk wont open
+1045,483,ONDHKBRJIGLG08YV,2024-12-25,112156,radio cuts in and out
+1046,205,YE71TWD96HHWMF1G,2025-08-15,215506,car overheating in traffic
+1047,193,L66YA6BA24S0LGUP,2024-01-03,27411,exhaust is louder than usual
+1048,82,Q1WMFPT00E2QMK3U,2022-10-04,151035,smoke coming from under hood
+1049,190,DL7FKNDG1JRJ5XFE,2023-10-25,124010,smoke coming from under hood
+1050,476,FVWJ7YZ6L7X6OA3N,2021-10-12,28420,power windows stopped working
+1051,493,L9YSU51EPXU7B6NB,2022-06-10,73110,fuel efficiency dropped a lot
+1052,136,JK9E0OAWHN2ECLCE,2025-09-28,130224,battery keeps dying overnight
+1053,68,8FMW4V1FJ2AOY2XD,2024-12-31,5662,coolant warning light on
+1054,382,RGSL55X9E0RAGHKE,2025-05-22,222891,clutch pedal feels loose
+1055,395,XLB57AUKHQNZJNNS,2021-02-13,179667,fuel efficiency dropped a lot
+1056,214,O8G8HZMVYD47DZNA,2025-06-02,124559,car overheating in traffic
+1057,136,DABBAJAQ08DNX80N,2023-02-09,45154,steering wheel shakes when braking
+1058,188,DZBC7QK4K6ILSIDB,2021-11-07,163338,exhaust is louder than usual
+1059,313,VMT4FVMYPJ2NNOC3,2024-10-25,31295,tire pressure warning keeps coming back
+1060,376,EZEMQT788G35SFY1,2022-09-28,141318,rough idle at stoplights
+1061,73,78ZWGDQBLUPPH3NW,2025-05-03,178791,battery keeps dying overnight
+1062,165,MOCTCLKA9LZ57V4N,2023-12-06,118868,power windows stopped working
+1063,476,FVWJ7YZ6L7X6OA3N,2020-03-17,131198,car overheating in traffic
+1064,8,XF50OJQRLG6UACOT,2022-12-14,195128,windshield wipers not working
+1065,72,38ZKRG6WMZ0ZCSSF,2023-06-07,223980,oil leak under the car
+1066,216,NBB4V57YZET3GNDC,2025-07-10,128404,car pulls to the left when braking
+1067,207,WUFUK15U2486D43I,2021-12-16,214899,ac is blowing warm air
+1068,1,LNGIXMC4SX27DCBH,2020-08-08,74633,car wont start in the morning
+1069,61,0V0VSGQG034L4KV2,2023-05-07,68174,smoke coming from under hood
+1070,75,T76I3HZCD3GEQ10F,2024-01-14,60183,grinding noise from rear wheels
+1071,139,PAVAJIMMNSTOUIFJ,2020-07-27,37765,door lock is stuck
+1072,373,KTI221XJ7WWUDQVD,2023-09-26,37261,windshield wipers not working
+1073,355,RG1YD5MY3GDILK1Q,2022-07-25,124237,smell of burning rubber
+1074,68,RWDWF1TQV0R095UH,2020-10-20,68017,clutch pedal feels loose
+1075,48,9MZ99ZJUK9QS57WC,2025-06-04,186989,ac is blowing warm air
+1076,295,13M7PC59P0QVHZJK,2025-04-02,100756,rough idle at stoplights
+1077,207,WUFUK15U2486D43I,2021-03-01,71731,oil leak under the car
+1078,395,AU5IK31YUW2TGRTF,2025-06-21,174910,steering wheel shakes when braking
+1079,259,91KUBJJJX1ALX44P,2023-09-08,144976,abs light is on
+1080,82,8V16SHQXMS0HKRAJ,2022-05-26,127576,fuel efficiency dropped a lot
+1081,7,ZX8J5MS20T3T9LP2,2022-08-31,44753,smoke coming from under hood
+1082,162,WHHOLI54087WS1LO,2023-12-02,102748,coolant warning light on
+1083,28,4YEO6PPYWH8EA329,2023-11-10,208226,car wont start in the morning
+1084,37,JS18L9GJ4ANLIOBL,2025-06-21,223330,car overheating in traffic
+1085,143,G6G04JGSQOF3WGI8,2024-08-01,176342,power windows stopped working
+1086,49,WOB7P7O0OLFIZEEU,2025-12-14,211416,smell of burning rubber
+1087,163,GQQLYZJ0AEOORBT6,2022-03-03,208605,squealing noise when turning
+1088,211,OPO6J0M3LOUFHW8W,2023-05-21,60942,headlights are dim
+1089,0,P1ZSCMO1POB7FU99,2025-03-19,9782,car pulls to the left when braking
+1090,328,VRGSS8K5IJULP98R,2024-12-26,216514,windshield wipers not working
+1091,188,DZBC7QK4K6ILSIDB,2025-07-11,196242,door lock is stuck
+1092,147,C60CJBMUVHGQK820,2022-10-02,193839,steering wheel shakes when braking
+1093,346,DAO13TB25ICCPKLV,2023-08-01,192077,grinding noise from rear wheels
+1094,345,WV9NJS96ALGXZJ9M,2022-06-06,140843,car wont start in the morning
+1095,98,Q0S5RMJPCZA3SFGH,2024-07-06,192140,check engine light came on
+1096,86,RO6DUTJTO914YBNU,2022-02-21,11658,fuel efficiency dropped a lot
+1097,245,0Z7Q0I9BL14HOAE5,2020-11-14,10058,headlights are dim
+1098,298,WVVSKP30TX8J1CCM,2020-06-10,177766,smell of burning rubber
+1099,249,ND6BWBEM0TPI70HK,2020-05-24,201530,power windows stopped working
+1100,131,SV5ITMTJLEGP4H2H,2020-05-16,155634,car wont start in the morning
+1101,132,80TW87S34876KE1Q,2021-12-30,188691,rough idle at stoplights
+1102,293,4DX6UZS1XKE1KWON,2021-02-04,183232,power windows stopped working
+1103,389,THR3NK8PQEQ7Z7E5,2024-02-04,201414,grinding noise from rear wheels
+1104,283,595CEKOF92Y8LZ8C,2024-07-03,121698,door lock is stuck
+1105,111,JJ0076EKHI1RD5B2,2024-10-20,56889,car wont start in the morning
+1106,220,7PP0PNNLO0HHGH5X,2023-12-29,235474,trunk wont open
+1107,314,G770XDHJ5SC36U9C,2025-06-26,16921,check engine light came on
+1108,318,BMQIMI8ACUEOBQT0,2025-12-27,39823,coolant warning light on
+1109,204,DNGFLYRJ8GOSD3M0,2020-12-15,209233,weird vibration at highway speeds
+1110,276,EV4DH9UGF10OO1PV,2021-03-12,220029,smell of burning rubber
+1111,256,9WRR513BB6F05EP4,2023-01-19,24506,weird vibration at highway speeds
+1112,373,3FRB7EI5R8VO4KVF,2023-06-23,243754,transmission slipping between gears
+1113,488,5LFOS9DJ9IHJDQDF,2022-07-17,166083,squealing noise when turning
+1114,61,0V0VSGQG034L4KV2,2022-07-10,246928,exhaust is louder than usual
+1115,410,EE2ABG9SHO5D5AFQ,2020-09-13,120770,trunk wont open
+1116,200,84P4K9DXOQ8JXLFI,2020-02-15,56384,door lock is stuck
+1117,41,KWBJPCLMSP94RWGK,2022-07-24,181565,suspension feels bouncy
+1118,182,A1RYZTBVHUAZUN6F,2024-02-03,226113,coolant warning light on
+1119,129,TD503779U7C1A7YJ,2020-04-13,221101,rough idle at stoplights
+1120,336,SAJHJXQKD8UR6TIA,2024-08-27,52572,oil leak under the car
+1121,154,2ZNTGG50YQL25S8T,2020-10-06,190477,ac is blowing warm air
+1122,140,JN4LV11KJALW563C,2021-02-28,117502,brakes feel spongy
+1123,12,VRECJTR0M6HZ72KX,2021-11-11,56412,brakes feel spongy
+1124,64,TQXC72BM2O2ZCMOT,2021-10-13,89481,suspension feels bouncy
+1125,16,Z0KDN3TN60TLXOUN,2021-03-19,247030,grinding noise from rear wheels
+1126,431,QDE7M7H6OQ7QH96Y,2023-09-26,225961,suspension feels bouncy
+1127,380,ZJFY4W8TR98W07FI,2023-07-28,108367,headlights are dim
+1128,64,7A1RBRNU851V9PD5,2024-03-04,103970,trunk wont open
+1129,204,DNGFLYRJ8GOSD3M0,2023-07-22,103247,battery keeps dying overnight
+1130,124,9VVN5X48PW5K0JJS,2025-11-03,33672,car pulls to the left when braking
+1131,116,VEZRAD8EJPMLNL7H,2022-05-25,27368,power windows stopped working
+1132,440,EH8UXZ3ADHF025LO,2020-03-15,139010,door lock is stuck
+1133,161,6V3RZKDU6FOTWFTQ,2022-04-24,20188,coolant warning light on
+1134,25,O0SW58611GQIT8D9,2022-06-05,185883,headlights are dim
+1135,87,HLX0ST69WWP82QZT,2021-02-12,209556,coolant warning light on
+1136,301,WLF9YXAM97YOFCX7,2022-12-01,26042,power windows stopped working
+1137,34,1FS324ERTL15E166,2020-04-24,48466,brakes feel spongy
+1138,359,VUUPLTXU3YF15Z08,2022-09-22,56990,exhaust is louder than usual
+1139,327,E6P4NP00NQOHN3DG,2021-02-03,240772,car pulls to the left when braking
+1140,272,IE4ACJOD8WACEQRQ,2022-04-28,49298,tire pressure warning keeps coming back
+1141,106,CGJU2T0JESGQ4BVP,2020-01-07,56274,rough idle at stoplights
+1142,464,YQZDUBB9MIT3VHTN,2023-04-07,246207,headlights are dim
+1143,67,7PW35X3X10Y14DSF,2020-02-13,196971,squealing noise when turning
+1144,33,Q7KA8OBM5RY6Q2M8,2021-03-20,119161,coolant warning light on
+1145,283,595CEKOF92Y8LZ8C,2021-08-14,103885,radio cuts in and out
+1146,32,WAPCQ7VG6N968XF6,2025-06-02,5677,squealing noise when turning
+1147,97,IXEXB92YFAI6YR8N,2020-09-26,185628,windshield wipers not working
+1148,360,BAEPG25PU9H9FB02,2025-08-05,29591,ac is blowing warm air
+1149,193,EQ4F1SRIKOMFRQ8L,2025-11-14,148025,smoke coming from under hood
+1150,363,TGDK4SNV9RR49HQW,2020-07-21,152040,door lock is stuck
+1151,17,ZXT9QUBWRP8GUUCM,2024-05-16,136335,clutch pedal feels loose
+1152,406,7U9SSBU7GE3AI6AY,2022-07-15,16722,abs light is on
+1153,34,1FS324ERTL15E166,2023-05-03,106481,windshield wipers not working
+1154,30,B20UC87NXP0JF6DN,2024-10-24,72293,headlights are dim
+1155,436,67LM8E49ITE92SRL,2020-12-07,159356,power windows stopped working
+1156,325,ZXQOMTS1EGPGVTN4,2022-08-02,193199,fuel efficiency dropped a lot
+1157,95,CUJVXHSHV1Y04Z4V,2022-10-21,106424,suspension feels bouncy
+1158,270,RB5TNGCRZXC4VNIB,2025-06-15,152995,windshield wipers not working
+1159,409,918SLOMEYL6SS1A2,2021-06-19,83215,exhaust is louder than usual
+1160,33,Q7KA8OBM5RY6Q2M8,2025-01-19,189855,door lock is stuck
+1161,44,BEDYEJHDZXQ3P87J,2020-10-10,149785,radio cuts in and out
+1162,174,GSVANRY632IIPS8Q,2021-02-12,155436,weird vibration at highway speeds
+1163,320,74QR14VUYV2EMY9T,2024-05-21,156932,headlights are dim
+1164,379,HG0U43QLX3F2XHDC,2021-12-18,77685,car pulls to the left when braking
+1165,292,T1OXHFDXK31WBHTF,2022-10-16,22559,windshield wipers not working
+1166,320,74QR14VUYV2EMY9T,2023-10-28,209723,transmission slipping between gears
+1167,497,2YGYZTHQSE0KIVWM,2021-12-14,41856,car pulls to the left when braking
+1168,9,V4DC0FP672ZFBQBK,2025-09-20,149284,headlights are dim
+1169,358,S924W7W8TWT2I9OW,2020-02-12,139846,ac is blowing warm air
+1170,317,TZRBZIRJYZ8XUKU8,2024-02-16,57163,coolant warning light on
+1171,276,EV4DH9UGF10OO1PV,2020-12-04,55364,engine is making a weird noise
+1172,330,1HYP5MASNPHFC4YG,2022-09-07,122606,abs light is on
+1173,369,6CN8SIWMZAP4VKFT,2023-06-29,130833,exhaust is louder than usual
+1174,355,RG1YD5MY3GDILK1Q,2022-06-10,155447,smell of burning rubber
+1175,210,H0CD8A2IBCLTRH9V,2021-10-29,11815,radio cuts in and out
+1176,197,KMSX54RJSXFOH9MB,2020-12-28,17343,ac is blowing warm air
+1177,132,80TW87S34876KE1Q,2020-12-21,54649,grinding noise from rear wheels
+1178,76,DDVXKKXO0SSW74WQ,2025-05-29,139539,grinding noise from rear wheels
+1179,246,JC6ON5ZZ679AQLO3,2022-06-22,249247,exhaust is louder than usual
+1180,317,TZRBZIRJYZ8XUKU8,2025-07-11,31205,tire pressure warning keeps coming back
+1181,488,5LFOS9DJ9IHJDQDF,2025-06-13,229662,trunk wont open
+1182,296,7NQWHOCPY8UDQDDA,2023-11-15,13561,squealing noise when turning
+1183,143,9QAZ6FP9XAQS3TGD,2020-08-21,242910,abs light is on
+1184,151,HZTAY12YIVFQSX50,2021-06-14,24323,battery keeps dying overnight
+1185,130,MW04U923O359TSUJ,2021-01-16,91496,power windows stopped working
+1186,355,RG1YD5MY3GDILK1Q,2023-08-06,204430,weird vibration at highway speeds
+1187,220,7PP0PNNLO0HHGH5X,2022-11-26,105973,car pulls to the left when braking
+1188,93,OK3ZY5SRO0L9LAYK,2024-07-11,205268,headlights are dim
+1189,139,PAVAJIMMNSTOUIFJ,2020-09-05,229843,engine is making a weird noise
+1190,245,0Z7Q0I9BL14HOAE5,2023-06-24,63835,exhaust is louder than usual
+1191,55,VPIG3YVR2EU4KB57,2022-08-13,182293,clutch pedal feels loose
+1192,374,BAYKIS11D2MRMTXJ,2022-08-26,204309,check engine light came on
+1193,361,AH2XJQ2WDIZHW0VQ,2022-12-18,51411,grinding noise from rear wheels
+1194,243,5I67ZSOOUKIW8X17,2025-08-09,92380,abs light is on
+1195,64,7A1RBRNU851V9PD5,2020-01-02,35490,steering wheel shakes when braking
+1196,56,7KNE1YBMZPSCTPN7,2025-12-24,240118,smoke coming from under hood
+1197,49,4JM8C9TFLDY3YGQA,2024-12-02,188739,radio cuts in and out
+1198,396,8EGP15CA8ZJSW5PQ,2021-01-14,146925,car overheating in traffic
+1199,245,0Z7Q0I9BL14HOAE5,2023-10-28,229512,smoke coming from under hood
+1200,79,XGGMQJ9UJEFUBFD3,2020-07-29,131785,headlights are dim
+1201,439,MC8FU0AB76LBWLA9,2023-05-09,219336,suspension feels bouncy
+1202,368,T8ZGEHUIQSI2FEXT,2021-04-25,223092,car pulls to the left when braking
+1203,5,7R1930I6G61PCWE4,2025-04-20,131908,power windows stopped working
+1204,418,JHMXCQDJ5CUYDA9A,2023-04-02,99911,door lock is stuck
+1205,234,1PY6Q9YL16ZV8U0L,2025-03-04,94501,ac is blowing warm air
+1206,351,CG59MNBO3WZ5I4EB,2021-11-12,44767,power windows stopped working
+1207,95,CUJVXHSHV1Y04Z4V,2025-09-07,82605,exhaust is louder than usual
+1208,200,84P4K9DXOQ8JXLFI,2022-04-12,203760,grinding noise from rear wheels
+1209,379,HG0U43QLX3F2XHDC,2024-04-06,184642,rough idle at stoplights
+1210,298,WVVSKP30TX8J1CCM,2024-11-12,7990,power windows stopped working
+1211,147,C60CJBMUVHGQK820,2024-07-28,246741,brakes feel spongy
+1212,396,8EGP15CA8ZJSW5PQ,2024-08-05,249183,suspension feels bouncy
+1213,58,JS08RWQ1CGEDBT8B,2024-12-18,13852,abs light is on
+1214,165,MOCTCLKA9LZ57V4N,2024-03-14,120089,headlights are dim
+1215,39,YMZLO9LNDCMB4BLD,2024-07-22,154291,ac is blowing warm air
+1216,21,XNOAD78QIG6UO3ZI,2025-04-02,135286,grinding noise from rear wheels
+1217,272,IE4ACJOD8WACEQRQ,2020-12-15,23286,check engine light came on
+1218,441,90MWB4LL3K4BK8EJ,2021-05-19,98740,ac is blowing warm air
+1219,71,D0I2V4B2RCYBRXOD,2021-12-07,114954,transmission slipping between gears
+1220,33,Q7KA8OBM5RY6Q2M8,2021-11-18,111657,steering wheel shakes when braking
+1221,45,LNKKUO4JH9JPDMN1,2022-02-27,65772,door lock is stuck
+1222,185,1MYLQJJBFSA5UZLZ,2021-08-09,211515,weird vibration at highway speeds
+1223,109,UMKVGG4NP4D8J2X7,2023-02-20,71120,power windows stopped working
+1224,168,NKOWYPSWLDOQ59B9,2020-04-22,218488,clutch pedal feels loose
+1225,16,Z0KDN3TN60TLXOUN,2022-07-17,190524,door lock is stuck
+1226,1,QHR133NO3AAMTFPW,2023-11-09,165424,windshield wipers not working
+1227,448,TXB1761M3J1HA0W5,2024-11-27,94397,coolant warning light on
+1228,24,GGAYBFJH9KRS51ZE,2021-07-29,209086,fuel efficiency dropped a lot
+1229,253,XRED8U8NOZEMDMZ5,2025-09-02,40793,exhaust is louder than usual
+1230,126,ZYF2EV4JI4UFANS5,2020-07-17,192538,check engine light came on
+1231,130,43F1AYSV6O9E9NHC,2025-12-15,71534,abs light is on
+1232,36,0UT100WNT0K9875T,2025-12-17,80305,car wont start in the morning
+1233,345,WV9NJS96ALGXZJ9M,2021-04-21,32953,grinding noise from rear wheels
+1234,434,DIRL481XLAXHNOC2,2021-11-13,72089,car overheating in traffic
+1235,234,1PY6Q9YL16ZV8U0L,2021-08-09,242112,rough idle at stoplights
+1236,3,86GVGT2EEHFU4B9S,2024-12-23,69901,squealing noise when turning
+1237,401,YCZU80ZRZ79HQTYL,2023-09-26,100725,suspension feels bouncy
+1238,414,CHHXA7HY7AI33993,2024-10-03,151048,coolant warning light on
+1239,483,ONDHKBRJIGLG08YV,2024-06-13,147699,engine is making a weird noise
+1240,88,79OKQBBWBX54QOTV,2022-07-25,16021,radio cuts in and out
+1241,147,C60CJBMUVHGQK820,2021-05-16,49245,oil leak under the car
+1242,51,1HGAV42T8LLIHKPJ,2021-01-16,13960,fuel efficiency dropped a lot
+1243,8,YQTAYBGI0RR0TIAX,2024-08-25,110194,tire pressure warning keeps coming back
+1244,399,3K88RHOEHAPM4YQZ,2021-06-23,208341,coolant warning light on
+1245,154,2ZNTGG50YQL25S8T,2025-10-28,46806,car wont start in the morning
+1246,45,BGUAXNM0ALQEDS1V,2022-10-27,24998,suspension feels bouncy
+1247,371,590EMC20LSJWS1ZL,2024-01-23,153736,suspension feels bouncy
+1248,330,1HYP5MASNPHFC4YG,2021-04-08,156067,car wont start in the morning
+1249,46,B9V1T4JXA2YMPYI4,2023-05-15,86188,car pulls to the left when braking
+1250,184,3I9LLIFFCVEDQFC1,2022-03-08,66460,smell of burning rubber
+1251,493,28NVQHL097FZRLGQ,2020-01-19,128471,engine is making a weird noise
+1252,250,TKUDE358TRE9QDI3,2020-06-18,188915,transmission slipping between gears
+1253,314,G770XDHJ5SC36U9C,2023-10-18,86846,door lock is stuck
+1254,374,BAYKIS11D2MRMTXJ,2021-08-25,10558,door lock is stuck
+1255,225,72L4X5BWAEN7YJF3,2025-06-26,26566,car overheating in traffic
+1256,436,67LM8E49ITE92SRL,2020-09-30,76195,power windows stopped working
+1257,376,EZEMQT788G35SFY1,2021-07-17,167401,door lock is stuck
+1258,144,WYSIRRK1RD1ZM4IX,2023-01-07,232657,power windows stopped working
+1259,110,FZJAHSAO2QWKBSEP,2025-03-25,234230,exhaust is louder than usual
+1260,82,G5UDLHWV6FLVYWAP,2021-02-04,209451,car overheating in traffic
+1261,277,PDT12SBA62TDO1DF,2025-01-06,183505,battery keeps dying overnight
+1262,376,EZEMQT788G35SFY1,2020-07-27,221330,oil leak under the car
+1263,320,74QR14VUYV2EMY9T,2025-12-29,131165,tire pressure warning keeps coming back
+1264,345,WV9NJS96ALGXZJ9M,2022-02-11,197661,weird vibration at highway speeds
+1265,146,O7ERC4R6S34A1NFX,2025-07-14,138087,ac is blowing warm air
+1266,283,CPJZE1XTAR0KO31N,2025-12-30,109306,trunk wont open
+1267,73,T4ZF3D4D32NKX5ZT,2020-07-19,116737,suspension feels bouncy
+1268,169,KBQNXPVMSR75RMG7,2024-12-29,92968,fuel efficiency dropped a lot
+1269,129,MFKRIG7JVDIKDTSG,2024-07-01,40279,car wont start in the morning
+1270,51,1HGAV42T8LLIHKPJ,2025-12-17,199386,exhaust is louder than usual
+1271,143,G6G04JGSQOF3WGI8,2025-02-28,167781,engine is making a weird noise
+1272,259,91KUBJJJX1ALX44P,2021-03-13,16608,grinding noise from rear wheels
+1273,216,Y6D1HFDI3JSTY876,2025-06-02,164725,door lock is stuck
+1274,338,T87K9TPZ1J8Q9I6K,2021-06-12,166854,car overheating in traffic
+1275,348,GJVSDBIDE6UITJ5Z,2021-05-03,17116,smoke coming from under hood
+1276,445,NAAXU3K8JB79YJ65,2023-12-16,149102,ac is blowing warm air
+1277,283,CPJZE1XTAR0KO31N,2021-09-03,189819,grinding noise from rear wheels
+1278,440,EH8UXZ3ADHF025LO,2023-01-05,222930,grinding noise from rear wheels
+1279,25,VU5WP8MVU2YETTRU,2025-05-06,202643,grinding noise from rear wheels
+1280,345,WV9NJS96ALGXZJ9M,2021-02-26,160553,exhaust is louder than usual
+1281,423,8U1QP2WNV2MK48J4,2023-08-14,244726,suspension feels bouncy
+1282,346,DAO13TB25ICCPKLV,2022-05-14,117553,suspension feels bouncy
+1283,32,WAPCQ7VG6N968XF6,2023-03-02,26831,fuel efficiency dropped a lot
+1284,322,XMOE545VYBJH4OUL,2025-03-26,241988,exhaust is louder than usual
+1285,131,SV5ITMTJLEGP4H2H,2021-03-29,187449,suspension feels bouncy
+1286,198,A6U48GWGHM56VU6Z,2025-03-30,83388,clutch pedal feels loose
+1287,283,595CEKOF92Y8LZ8C,2024-04-27,46537,ac is blowing warm air
+1288,157,0V4PSC9J5UGE1G41,2022-08-31,140562,trunk wont open
+1289,13,CRHYQNRM31SL7ZX4,2025-04-08,83742,radio cuts in and out
+1290,440,EH8UXZ3ADHF025LO,2024-11-13,204157,trunk wont open
+1291,390,33A8NCXCWC0BOGWH,2022-11-22,50049,steering wheel shakes when braking
+1292,89,4PN8QIX43IRGM5DK,2023-11-04,56787,smoke coming from under hood
+1293,183,N99LT3J6LILB7ZWD,2025-03-09,240073,rough idle at stoplights
+1294,137,IP35T54GYLBI18A2,2024-03-21,163230,car overheating in traffic
+1295,118,GSV5E033DZQQ5EB9,2024-07-21,93488,smell of burning rubber
+1296,418,JHMXCQDJ5CUYDA9A,2025-10-24,239442,smoke coming from under hood
+1297,57,NIA2Y7VFHPD6VQ81,2021-10-03,223868,fuel efficiency dropped a lot
+1298,103,PSSCP9KJYMJBT35Y,2022-07-16,204989,battery keeps dying overnight
+1299,347,IEKX6MJ53YXHZKIE,2023-04-30,172957,ac is blowing warm air
+1300,305,ZU1TOZHDV5OJZTO7,2024-09-11,157353,check engine light came on
+1301,205,YE71TWD96HHWMF1G,2020-07-23,194004,grinding noise from rear wheels
+1302,124,9VVN5X48PW5K0JJS,2020-09-26,162655,squealing noise when turning
+1303,458,CQPHLI5L692TULGE,2025-05-11,64783,squealing noise when turning
+1304,323,NX9OWWEW9V08LIUQ,2021-11-18,235419,power windows stopped working
+1305,130,S83GYZIEPO772NRC,2021-07-20,209264,ac is blowing warm air
+1306,358,S924W7W8TWT2I9OW,2021-09-21,160687,tire pressure warning keeps coming back
+1307,94,FX3030A67RL2YJ09,2022-08-03,113158,check engine light came on
+1308,439,MC8FU0AB76LBWLA9,2023-01-04,193175,tire pressure warning keeps coming back
+1309,326,FFZADVJFUY0F39WG,2021-02-14,244172,door lock is stuck
+1310,292,T1OXHFDXK31WBHTF,2022-09-17,127358,car pulls to the left when braking
+1311,14,ESIRQ4TP1NA6KSNJ,2022-01-16,53325,power windows stopped working
+1312,149,7TNQETMNI3GOM673,2025-07-05,72796,smoke coming from under hood
+1313,30,B20UC87NXP0JF6DN,2020-02-22,154835,abs light is on
+1314,379,HG0U43QLX3F2XHDC,2022-12-25,141761,ac is blowing warm air
+1315,382,RGSL55X9E0RAGHKE,2023-09-13,61997,fuel efficiency dropped a lot
+1316,375,M1INUFNCC8UUXOP6,2025-01-10,76538,suspension feels bouncy
+1317,253,XRED8U8NOZEMDMZ5,2022-09-19,46396,clutch pedal feels loose
+1318,25,JFUPMVL5VECF8OCQ,2024-09-05,166600,door lock is stuck
+1319,110,E0JXYO6HFD7LTTC9,2025-05-06,211442,suspension feels bouncy
+1320,308,Y32I3PJ7K99BV2J3,2020-03-22,70325,suspension feels bouncy
+1321,241,T8AN2LM1CBHT94OZ,2021-10-31,118056,radio cuts in and out
+1322,401,YCZU80ZRZ79HQTYL,2022-08-25,195996,power windows stopped working
+1323,8,IWPFVB71GHLU8M87,2022-04-10,16195,ac is blowing warm air
+1324,32,UOJA5ENP2WA6M96M,2020-06-04,155640,trunk wont open
+1325,6,SF2AALUDHAAHOP0E,2023-05-16,118331,clutch pedal feels loose
+1326,318,YQYVBNUZ2KGA99UF,2023-06-30,22708,steering wheel shakes when braking
+1327,162,WHHOLI54087WS1LO,2025-06-25,136920,oil leak under the car
+1328,8,XF50OJQRLG6UACOT,2020-08-03,73107,trunk wont open
+1329,98,I3UDUURWUDKBU0T3,2022-10-15,173112,car pulls to the left when braking
+1330,497,2YGYZTHQSE0KIVWM,2021-08-11,161943,radio cuts in and out
+1331,349,7M6J3RTXYMSCNX8E,2024-01-29,121096,suspension feels bouncy
+1332,200,84P4K9DXOQ8JXLFI,2022-03-15,168046,steering wheel shakes when braking
+1333,276,EV4DH9UGF10OO1PV,2020-03-19,159004,battery keeps dying overnight
+1334,476,FVWJ7YZ6L7X6OA3N,2022-01-20,198813,suspension feels bouncy
+1335,157,0V4PSC9J5UGE1G41,2025-04-04,139580,coolant warning light on
+1336,240,GTEFR6MQW7673UBL,2022-03-22,124714,oil leak under the car
+1337,393,QW8EVRC0ERJE4S4M,2022-06-25,238815,oil leak under the car
+1338,190,DL7FKNDG1JRJ5XFE,2023-02-09,65933,exhaust is louder than usual
+1339,111,JJ0076EKHI1RD5B2,2022-01-10,18231,oil leak under the car
+1340,9,A67MSWPATOM287C4,2022-01-02,31599,ac is blowing warm air
+1341,305,ZU1TOZHDV5OJZTO7,2022-11-04,249686,engine is making a weird noise
+1342,31,1PW26RQH7O0ZBO70,2025-02-21,55037,transmission slipping between gears
+1343,294,RWSF5PAE9Z5JL6UF,2023-11-21,65332,check engine light came on
+1344,250,TKUDE358TRE9QDI3,2020-07-16,109794,ac is blowing warm air
+1345,111,JJ0076EKHI1RD5B2,2021-01-27,90630,clutch pedal feels loose
+1346,42,D7Z4KSO03W2MROP2,2021-01-02,190781,car overheating in traffic
+1347,219,8VE00H2K2P3AJFAX,2025-08-04,145069,check engine light came on
+1348,10,9AFPP7SDWYQTUV27,2020-08-02,171212,battery keeps dying overnight
+1349,297,MU6U4PLLGF309HSU,2023-05-10,239713,exhaust is louder than usual
+1350,306,3D3513LM7E41OFV1,2020-11-18,23666,grinding noise from rear wheels
+1351,447,XUNHU25Z8KQ86YNI,2024-03-04,102343,smoke coming from under hood
+1352,307,RCKQH3ERAM4BE52S,2022-08-10,89080,rough idle at stoplights
+1353,325,ZXQOMTS1EGPGVTN4,2025-10-18,207033,brakes feel spongy
+1354,10,DU9V45D3DGC50I32,2022-10-18,226375,clutch pedal feels loose
+1355,210,H0CD8A2IBCLTRH9V,2022-07-03,96565,radio cuts in and out
+1356,198,A6U48GWGHM56VU6Z,2020-10-07,249213,fuel efficiency dropped a lot
+1357,487,N1TCJFCZWKGUY0OF,2025-07-29,92341,smoke coming from under hood
+1358,293,4DX6UZS1XKE1KWON,2021-05-11,135069,abs light is on
+1359,24,42GA3YYGDTWBKSDN,2022-08-02,214070,transmission slipping between gears
+1360,433,W0PN524KSKWECY9A,2024-08-04,77788,oil leak under the car
+1361,248,05XT54FN5G77LK6H,2024-08-08,36542,ac is blowing warm air
+1362,51,1HGAV42T8LLIHKPJ,2024-11-06,238774,oil leak under the car
+1363,332,DUVL911ZSB8LV6TX,2020-01-04,7426,headlights are dim
+1364,125,31OGWRVZ90472UQL,2020-06-19,86962,steering wheel shakes when braking
+1365,129,MFKRIG7JVDIKDTSG,2024-04-27,87416,rough idle at stoplights
+1366,422,Q6FWTV1DJJZQFE8E,2024-12-29,161145,headlights are dim
+1367,300,TRUML3F4RTGOOXUC,2022-06-02,54767,trunk wont open
+1368,9,V4DC0FP672ZFBQBK,2025-08-31,244312,check engine light came on
+1369,226,T8LI72W4OEBMQPJB,2020-06-29,33653,brakes feel spongy
+1370,98,2NGQEUA73ABZGS9W,2021-01-28,197081,smoke coming from under hood
+1371,142,DRN4ORAC8CYNL63G,2021-09-01,162259,car wont start in the morning
+1372,351,U61O85VO1TK5EZS9,2022-04-28,146019,check engine light came on
+1373,301,WLF9YXAM97YOFCX7,2021-04-14,177082,power windows stopped working
+1374,126,ZYF2EV4JI4UFANS5,2025-09-12,111858,car wont start in the morning
+1375,423,8U1QP2WNV2MK48J4,2025-11-30,28224,clutch pedal feels loose
+1376,62,5J1VRKF4HT69A143,2024-09-18,249474,tire pressure warning keeps coming back
+1377,160,89QSNVYF2ZQOYGWO,2020-05-24,96886,door lock is stuck
+1378,147,C60CJBMUVHGQK820,2024-06-27,92574,smell of burning rubber
+1379,93,6AP3VGVFHZT8I5YI,2021-10-18,203879,power windows stopped working
+1380,410,EE2ABG9SHO5D5AFQ,2020-05-20,142364,engine is making a weird noise
+1381,410,EE2ABG9SHO5D5AFQ,2025-06-22,192311,transmission slipping between gears
+1382,0,N92TP6QAQ3K8A7RV,2021-04-04,172331,door lock is stuck
+1383,38,3HXK13C3ZQX3QFXM,2021-09-24,122290,windshield wipers not working
+1384,223,C11JG1MS4TSRW2MD,2023-12-11,60254,squealing noise when turning
+1385,176,E07FPY1AELDWQXKE,2025-10-13,127187,oil leak under the car
+1386,42,WUOCS224EQKQ7MOU,2020-07-22,63181,smell of burning rubber
+1387,100,AK1VPANGW3PAJVF9,2025-11-01,236816,smell of burning rubber
+1388,37,9GQJANQS334KCCNJ,2024-02-29,169838,car pulls to the left when braking
+1389,78,0P5RUKCASSSLSLV3,2023-03-09,95879,fuel efficiency dropped a lot
+1390,58,VDXDF6YV2VP6F0O7,2025-03-05,112913,abs light is on
+1391,374,BAYKIS11D2MRMTXJ,2025-05-23,106588,battery keeps dying overnight
+1392,27,ZYFGGK82P5YRO1WO,2024-04-01,118975,rough idle at stoplights
+1393,433,W0PN524KSKWECY9A,2024-03-06,122818,brakes feel spongy
+1394,445,NAAXU3K8JB79YJ65,2025-07-05,204979,abs light is on
+1395,99,PWG3XG0TRKY8RYOZ,2023-05-31,116407,car overheating in traffic
+1396,275,R9F5IV86ZP1WZ2NA,2024-02-05,97037,clutch pedal feels loose
+1397,497,2YGYZTHQSE0KIVWM,2022-10-16,84605,tire pressure warning keeps coming back
+1398,169,ZF0P7KB7IYNO667V,2024-12-02,245151,weird vibration at highway speeds
+1399,26,7GVLHWXPBRRNTYLV,2020-05-12,9261,ac is blowing warm air
+1400,298,WVVSKP30TX8J1CCM,2023-09-18,117334,smell of burning rubber
+1401,204,DNGFLYRJ8GOSD3M0,2025-04-07,206989,trunk wont open
+1402,368,T8ZGEHUIQSI2FEXT,2022-09-18,213300,engine is making a weird noise
+1403,57,NIA2Y7VFHPD6VQ81,2024-03-30,31062,car wont start in the morning
+1404,93,OK3ZY5SRO0L9LAYK,2021-10-20,33381,clutch pedal feels loose
+1405,110,FZJAHSAO2QWKBSEP,2023-03-05,102301,coolant warning light on
+1406,464,81JMBPTPDWR1XFHS,2021-02-27,8307,ac is blowing warm air
+1407,163,GQQLYZJ0AEOORBT6,2024-03-15,41305,clutch pedal feels loose
+1408,79,3VX4GH0Y3HKK54K4,2020-04-07,89213,door lock is stuck
+1409,397,GBSVK3X8MBGL2MCX,2020-05-08,82538,rough idle at stoplights
+1410,325,ZXQOMTS1EGPGVTN4,2025-07-24,153905,power windows stopped working
+1411,434,DIRL481XLAXHNOC2,2025-11-01,67102,rough idle at stoplights
+1412,368,2ZSA6HA3VMOT4SAY,2024-03-26,86226,car pulls to the left when braking
+1413,24,HZMJBG3K59S7V55K,2022-04-08,8457,suspension feels bouncy
+1414,176,E07FPY1AELDWQXKE,2022-06-19,142927,smell of burning rubber
+1415,34,1FS324ERTL15E166,2020-05-02,12208,grinding noise from rear wheels
+1416,374,BAYKIS11D2MRMTXJ,2023-07-05,63563,transmission slipping between gears
+1417,59,CAG1JDHQW2VGQZDN,2022-07-14,167125,engine is making a weird noise
+1418,366,6QEPYOHAKC37WMFP,2024-11-27,32880,grinding noise from rear wheels
+1419,172,E5GV7P2A2Q9OJF3C,2023-01-16,87337,squealing noise when turning
+1420,245,0Z7Q0I9BL14HOAE5,2025-07-26,139213,trunk wont open
+1421,256,9WRR513BB6F05EP4,2025-11-07,31155,fuel efficiency dropped a lot
+1422,16,Z0KDN3TN60TLXOUN,2023-10-11,43082,ac is blowing warm air
+1423,291,PHWHM54XR8PJPF24,2024-07-13,170632,check engine light came on
+1424,2,E0GYAJPGZ6TPBWSX,2022-10-20,38395,check engine light came on
+1425,448,TXB1761M3J1HA0W5,2023-03-21,240048,check engine light came on
+1426,444,72NS8ERKD0RNGCT2,2025-04-01,199919,headlights are dim
+1427,35,3FKEOUBXXQ6MF5QA,2020-11-18,99221,door lock is stuck
+1428,22,AA34H8NL9VFRUK94,2022-12-10,221548,car pulls to the left when braking
+1429,363,TGDK4SNV9RR49HQW,2025-09-07,207428,abs light is on
+1430,146,O7ERC4R6S34A1NFX,2024-08-17,23205,power windows stopped working
+1431,275,R9F5IV86ZP1WZ2NA,2021-04-15,191027,smoke coming from under hood
+1432,23,R8IQRT007PCEASEH,2021-06-04,156811,car wont start in the morning
+1433,314,G770XDHJ5SC36U9C,2023-02-02,207197,car wont start in the morning
+1434,6,SF2AALUDHAAHOP0E,2024-04-12,158014,suspension feels bouncy
+1435,256,9WRR513BB6F05EP4,2023-08-29,26731,ac is blowing warm air
+1436,386,NUSG9L9Q3CYBYC4I,2023-08-15,165300,clutch pedal feels loose
+1437,233,M1V395ZDHZ6M9BJU,2023-05-25,84363,ac is blowing warm air
+1438,409,918SLOMEYL6SS1A2,2022-11-29,46961,trunk wont open
+1439,36,67CSZVUTBT6AO3FJ,2024-05-28,70814,weird vibration at highway speeds
+1440,482,BXQJ7DPFSSBJDX0P,2025-03-05,232621,oil leak under the car
+1441,390,X1JD3VURR6CG1S2L,2024-02-12,83696,check engine light came on
+1442,178,JKS4I2NR1P02JYV6,2021-03-26,224571,tire pressure warning keeps coming back
+1443,116,VEZRAD8EJPMLNL7H,2021-09-16,187308,power windows stopped working
+1444,88,79OKQBBWBX54QOTV,2021-05-13,170491,tire pressure warning keeps coming back
+1445,163,GQQLYZJ0AEOORBT6,2022-10-15,163409,door lock is stuck
+1446,151,HZTAY12YIVFQSX50,2024-04-18,6678,brakes feel spongy
+1447,133,ZUFDNU4I5YMQT3DG,2021-01-13,124065,smoke coming from under hood
+1448,143,G6G04JGSQOF3WGI8,2021-02-21,222794,clutch pedal feels loose
+1449,304,T6UR9XRWNNVGQCQN,2023-07-15,197318,smoke coming from under hood
+1450,16,Z0KDN3TN60TLXOUN,2023-05-29,237886,radio cuts in and out
+1451,480,LM576M2YVP6MPB4D,2022-05-15,151852,steering wheel shakes when braking
+1452,180,K4O67BXCD20J1OUL,2022-12-08,62788,brakes feel spongy
+1453,301,7V4K88K686QE7AJU,2020-10-12,56905,rough idle at stoplights
+1454,249,4SMZOCXMZMZ2K1KO,2021-02-28,229884,steering wheel shakes when braking
+1455,4,ZTGBIBF57J2XI3TA,2020-12-17,246599,trunk wont open
+1456,276,EV4DH9UGF10OO1PV,2021-04-19,87539,headlights are dim
+1457,10,EF2IBNAJFH71UZN4,2023-06-22,5583,steering wheel shakes when braking
+1458,440,EH8UXZ3ADHF025LO,2024-01-19,136682,squealing noise when turning
+1459,0,IOT860X5ZU2ZUEUG,2023-01-30,200255,suspension feels bouncy
+1460,373,3FRB7EI5R8VO4KVF,2021-02-13,123812,steering wheel shakes when braking
+1461,33,Q7KA8OBM5RY6Q2M8,2022-05-21,143036,brakes feel spongy
+1462,168,NKOWYPSWLDOQ59B9,2022-12-11,32411,suspension feels bouncy
+1463,458,CQPHLI5L692TULGE,2023-07-13,76241,car wont start in the morning
+1464,12,VRECJTR0M6HZ72KX,2023-09-05,124989,door lock is stuck
+1465,154,2ZNTGG50YQL25S8T,2020-08-11,212240,headlights are dim
+1466,200,84P4K9DXOQ8JXLFI,2022-05-29,63322,smoke coming from under hood
+1467,440,EH8UXZ3ADHF025LO,2025-11-21,72704,headlights are dim
+1468,1,J014GVE4ZTJ1KM98,2022-10-08,65206,fuel efficiency dropped a lot
+1469,416,8VGZSXJZVUV3CB0I,2023-03-29,108070,brakes feel spongy
+1470,247,7UXHVDHGUESXNU4V,2020-10-17,83763,engine is making a weird noise
+1471,117,JR211PV58Y9N81DJ,2021-11-18,63758,squealing noise when turning
+1472,440,EH8UXZ3ADHF025LO,2020-09-24,66274,trunk wont open
+1473,83,A70TGO5AWLGITIZ7,2025-06-25,96142,tire pressure warning keeps coming back
+1474,320,74QR14VUYV2EMY9T,2020-05-28,27960,brakes feel spongy
+1475,296,U8BWAUFXQP6XGHU9,2024-07-21,162957,windshield wipers not working
+1476,292,FANS0GNH8S2GT30G,2021-01-22,111693,transmission slipping between gears
+1477,150,VWOZQXIWE6RGL7JY,2020-06-02,108852,power windows stopped working
+1478,68,CD3IRVXD2ZU4NS7N,2023-02-24,21104,headlights are dim
+1479,79,7284JC755OTS42KQ,2025-03-15,109859,fuel efficiency dropped a lot
+1480,17,5PNEDL60YOKR78L1,2025-10-26,104240,grinding noise from rear wheels
+1481,20,IDUWETOWTK4KL9FG,2025-10-17,71145,brakes feel spongy
+1482,466,EC275JT660J08XTR,2022-10-06,240453,power windows stopped working
+1483,416,8VGZSXJZVUV3CB0I,2025-02-10,19039,suspension feels bouncy
+1484,466,EC275JT660J08XTR,2020-10-21,202523,headlights are dim
+1485,480,HYVNI8E61493685E,2025-05-22,176400,exhaust is louder than usual
+1486,151,HZTAY12YIVFQSX50,2022-03-19,161111,suspension feels bouncy
+1487,45,LNKKUO4JH9JPDMN1,2025-12-01,121431,car pulls to the left when braking
+1488,420,V47LZN9UHJPKHF33,2021-03-12,120959,grinding noise from rear wheels
+1489,9,V4DC0FP672ZFBQBK,2023-02-12,14571,fuel efficiency dropped a lot
+1490,133,ZUFDNU4I5YMQT3DG,2021-01-15,246674,battery keeps dying overnight
+1491,124,9VVN5X48PW5K0JJS,2023-12-31,27578,exhaust is louder than usual
+1492,226,T8LI72W4OEBMQPJB,2023-02-18,122372,oil leak under the car
+1493,276,EV4DH9UGF10OO1PV,2025-10-26,179478,steering wheel shakes when braking
+1494,90,MQADW9UFZDEPCGWL,2023-11-03,188849,car overheating in traffic
+1495,468,EWDS0HPRWZBYWWIM,2021-03-22,153779,car wont start in the morning
+1496,47,BZPE8M3RKL39VEL0,2022-05-14,219576,radio cuts in and out
+1497,278,XYWWSTIO1K7F5OA3,2020-01-06,68911,abs light is on
+1498,294,3O1BLOG0NQ4I6R8S,2022-01-07,166792,power windows stopped working
+1499,205,YE71TWD96HHWMF1G,2022-05-28,96221,radio cuts in and out

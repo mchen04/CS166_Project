@@ -1,0 +1,964 @@
+{
+  "diagramType": 1,
+  "data": {
+    "nodes": [
+      {
+        "id": "customer-entity-001",
+        "type": "Entity",
+        "position": {
+          "x": 200,
+          "y": 200
+        },
+        "data": {
+          "label": "Customer",
+          "type": "Regular",
+          "isConnectable": true,
+          "isSelected": false
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "customer-attr-id",
+        "parentId": "customer-entity-001",
+        "type": "Attribute",
+        "position": {
+          "x": 0,
+          "y": -110
+        },
+        "data": {
+          "label": "id",
+          "types": {
+            "Unique": true,
+            "Multivalued": false,
+            "Optional": false,
+            "Composite": false,
+            "Derived": false
+          },
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "customer-attr-fname",
+        "parentId": "customer-entity-001",
+        "type": "Attribute",
+        "position": {
+          "x": 130,
+          "y": -60
+        },
+        "data": {
+          "label": "fname",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "customer-attr-lname",
+        "parentId": "customer-entity-001",
+        "type": "Attribute",
+        "position": {
+          "x": 145,
+          "y": 20
+        },
+        "data": {
+          "label": "lname",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "customer-attr-phone",
+        "parentId": "customer-entity-001",
+        "type": "Attribute",
+        "position": {
+          "x": -130,
+          "y": -60
+        },
+        "data": {
+          "label": "phone",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "customer-attr-address",
+        "parentId": "customer-entity-001",
+        "type": "Attribute",
+        "position": {
+          "x": -145,
+          "y": 20
+        },
+        "data": {
+          "label": "address",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "car-entity-002",
+        "type": "Entity",
+        "position": {
+          "x": 800,
+          "y": 200
+        },
+        "data": {
+          "label": "Car",
+          "type": "Regular",
+          "isConnectable": true,
+          "isSelected": false
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "car-attr-vin",
+        "parentId": "car-entity-002",
+        "type": "Attribute",
+        "position": {
+          "x": 0,
+          "y": -110
+        },
+        "data": {
+          "label": "vin",
+          "types": {
+            "Unique": true,
+            "Multivalued": false,
+            "Optional": false,
+            "Composite": false,
+            "Derived": false
+          },
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "car-attr-make",
+        "parentId": "car-entity-002",
+        "type": "Attribute",
+        "position": {
+          "x": 120,
+          "y": -60
+        },
+        "data": {
+          "label": "make",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "car-attr-model",
+        "parentId": "car-entity-002",
+        "type": "Attribute",
+        "position": {
+          "x": 130,
+          "y": 20
+        },
+        "data": {
+          "label": "model",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "car-attr-year",
+        "parentId": "car-entity-002",
+        "type": "Attribute",
+        "position": {
+          "x": -120,
+          "y": -60
+        },
+        "data": {
+          "label": "year",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "mechanic-entity-003",
+        "type": "Entity",
+        "position": {
+          "x": 100,
+          "y": 750
+        },
+        "data": {
+          "label": "Mechanic",
+          "type": "Regular",
+          "isConnectable": true,
+          "isSelected": false
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "mechanic-attr-id",
+        "parentId": "mechanic-entity-003",
+        "type": "Attribute",
+        "position": {
+          "x": 0,
+          "y": 110
+        },
+        "data": {
+          "label": "id",
+          "types": {
+            "Unique": true,
+            "Multivalued": false,
+            "Optional": false,
+            "Composite": false,
+            "Derived": false
+          },
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "mechanic-attr-fname",
+        "parentId": "mechanic-entity-003",
+        "type": "Attribute",
+        "position": {
+          "x": 130,
+          "y": 60
+        },
+        "data": {
+          "label": "fname",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "mechanic-attr-lname",
+        "parentId": "mechanic-entity-003",
+        "type": "Attribute",
+        "position": {
+          "x": 140,
+          "y": 0
+        },
+        "data": {
+          "label": "lname",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "mechanic-attr-experience",
+        "parentId": "mechanic-entity-003",
+        "type": "Attribute",
+        "position": {
+          "x": -130,
+          "y": 60
+        },
+        "data": {
+          "label": "experience",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "sr-entity-004",
+        "type": "Entity",
+        "position": {
+          "x": 500,
+          "y": 450
+        },
+        "data": {
+          "label": "Service_Request",
+          "type": "Regular",
+          "isConnectable": true,
+          "isSelected": false
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "sr-attr-rid",
+        "parentId": "sr-entity-004",
+        "type": "Attribute",
+        "position": {
+          "x": 0,
+          "y": -110
+        },
+        "data": {
+          "label": "rid",
+          "types": {
+            "Unique": true,
+            "Multivalued": false,
+            "Optional": false,
+            "Composite": false,
+            "Derived": false
+          },
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "sr-attr-date",
+        "parentId": "sr-entity-004",
+        "type": "Attribute",
+        "position": {
+          "x": 165,
+          "y": -40
+        },
+        "data": {
+          "label": "date",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "sr-attr-odometer",
+        "parentId": "sr-entity-004",
+        "type": "Attribute",
+        "position": {
+          "x": -165,
+          "y": -40
+        },
+        "data": {
+          "label": "odometer",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "sr-attr-complain",
+        "parentId": "sr-entity-004",
+        "type": "Attribute",
+        "position": {
+          "x": 170,
+          "y": 40
+        },
+        "data": {
+          "label": "complain",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "cr-entity-005",
+        "type": "Entity",
+        "position": {
+          "x": 500,
+          "y": 700
+        },
+        "data": {
+          "label": "Closed_Request",
+          "type": "Regular",
+          "isConnectable": true,
+          "isSelected": false
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "cr-attr-wid",
+        "parentId": "cr-entity-005",
+        "type": "Attribute",
+        "position": {
+          "x": 0,
+          "y": 110
+        },
+        "data": {
+          "label": "wid",
+          "types": {
+            "Unique": true,
+            "Multivalued": false,
+            "Optional": false,
+            "Composite": false,
+            "Derived": false
+          },
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "cr-attr-date",
+        "parentId": "cr-entity-005",
+        "type": "Attribute",
+        "position": {
+          "x": 165,
+          "y": 40
+        },
+        "data": {
+          "label": "date",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "cr-attr-comment",
+        "parentId": "cr-entity-005",
+        "type": "Attribute",
+        "position": {
+          "x": 170,
+          "y": -30
+        },
+        "data": {
+          "label": "comment",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "cr-attr-bill",
+        "parentId": "cr-entity-005",
+        "type": "Attribute",
+        "position": {
+          "x": -130,
+          "y": 80
+        },
+        "data": {
+          "label": "bill",
+          "types": {},
+          "isSelected": false,
+          "isConnectable": true
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false
+      },
+      {
+        "id": "owns-rel-001",
+        "type": "Relationship",
+        "position": {
+          "x": 500,
+          "y": 200
+        },
+        "data": {
+          "label": "Owns",
+          "sourceEntityDetails": {
+            "id": "customer-entity-001",
+            "minCardinality": "Optional",
+            "maxCardinality": "Many"
+          },
+          "targetEntityDetails": {
+            "id": "car-entity-002",
+            "minCardinality": "Mandatory",
+            "maxCardinality": "One",
+            "exactConstraints": []
+          },
+          "isSelected": false,
+          "isConnectable": false
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "initiates-rel-002",
+        "type": "Relationship",
+        "position": {
+          "x": 290,
+          "y": 350
+        },
+        "data": {
+          "label": "Initiates",
+          "sourceEntityDetails": {
+            "id": "customer-entity-001",
+            "minCardinality": "Optional",
+            "maxCardinality": "Many"
+          },
+          "targetEntityDetails": {
+            "id": "sr-entity-004",
+            "minCardinality": "Mandatory",
+            "maxCardinality": "One",
+            "exactConstraints": []
+          },
+          "isSelected": false,
+          "isConnectable": false
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "has-rel-003",
+        "type": "Relationship",
+        "position": {
+          "x": 700,
+          "y": 340
+        },
+        "data": {
+          "label": "Has",
+          "sourceEntityDetails": {
+            "id": "car-entity-002",
+            "minCardinality": "Optional",
+            "maxCardinality": "Many"
+          },
+          "targetEntityDetails": {
+            "id": "sr-entity-004",
+            "minCardinality": "Mandatory",
+            "maxCardinality": "One",
+            "exactConstraints": []
+          },
+          "isSelected": false,
+          "isConnectable": false
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "closes-rel-004",
+        "type": "Relationship",
+        "position": {
+          "x": 270,
+          "y": 720
+        },
+        "data": {
+          "label": "Closes",
+          "sourceEntityDetails": {
+            "id": "mechanic-entity-003",
+            "minCardinality": "Optional",
+            "maxCardinality": "Many"
+          },
+          "targetEntityDetails": {
+            "id": "cr-entity-005",
+            "minCardinality": "Mandatory",
+            "maxCardinality": "One",
+            "exactConstraints": []
+          },
+          "isSelected": false,
+          "isConnectable": false
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false,
+        "dragging": false
+      },
+      {
+        "id": "closedby-rel-005",
+        "type": "Relationship",
+        "position": {
+          "x": 500,
+          "y": 575
+        },
+        "data": {
+          "label": "ClosedBy",
+          "sourceEntityDetails": {
+            "id": "sr-entity-004",
+            "minCardinality": "Optional",
+            "maxCardinality": "One"
+          },
+          "targetEntityDetails": {
+            "id": "cr-entity-005",
+            "minCardinality": "Mandatory",
+            "maxCardinality": "One",
+            "exactConstraints": []
+          },
+          "isSelected": false,
+          "isConnectable": false
+        },
+        "measured": {
+          "width": 100,
+          "height": 50
+        },
+        "selected": false,
+        "dragging": false
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge-customer-id",
+        "type": "Attribute",
+        "source": "customer-entity-001",
+        "target": "customer-attr-id"
+      },
+      {
+        "id": "edge-customer-fname",
+        "type": "Attribute",
+        "source": "customer-entity-001",
+        "target": "customer-attr-fname"
+      },
+      {
+        "id": "edge-customer-lname",
+        "type": "Attribute",
+        "source": "customer-entity-001",
+        "target": "customer-attr-lname"
+      },
+      {
+        "id": "edge-customer-phone",
+        "type": "Attribute",
+        "source": "customer-entity-001",
+        "target": "customer-attr-phone"
+      },
+      {
+        "id": "edge-customer-address",
+        "type": "Attribute",
+        "source": "customer-entity-001",
+        "target": "customer-attr-address"
+      },
+      {
+        "id": "edge-car-vin",
+        "type": "Attribute",
+        "source": "car-entity-002",
+        "target": "car-attr-vin"
+      },
+      {
+        "id": "edge-car-make",
+        "type": "Attribute",
+        "source": "car-entity-002",
+        "target": "car-attr-make"
+      },
+      {
+        "id": "edge-car-model",
+        "type": "Attribute",
+        "source": "car-entity-002",
+        "target": "car-attr-model"
+      },
+      {
+        "id": "edge-car-year",
+        "type": "Attribute",
+        "source": "car-entity-002",
+        "target": "car-attr-year"
+      },
+      {
+        "id": "edge-mechanic-id",
+        "type": "Attribute",
+        "source": "mechanic-entity-003",
+        "target": "mechanic-attr-id"
+      },
+      {
+        "id": "edge-mechanic-fname",
+        "type": "Attribute",
+        "source": "mechanic-entity-003",
+        "target": "mechanic-attr-fname"
+      },
+      {
+        "id": "edge-mechanic-lname",
+        "type": "Attribute",
+        "source": "mechanic-entity-003",
+        "target": "mechanic-attr-lname"
+      },
+      {
+        "id": "edge-mechanic-experience",
+        "type": "Attribute",
+        "source": "mechanic-entity-003",
+        "target": "mechanic-attr-experience"
+      },
+      {
+        "id": "edge-sr-rid",
+        "type": "Attribute",
+        "source": "sr-entity-004",
+        "target": "sr-attr-rid"
+      },
+      {
+        "id": "edge-sr-date",
+        "type": "Attribute",
+        "source": "sr-entity-004",
+        "target": "sr-attr-date"
+      },
+      {
+        "id": "edge-sr-odometer",
+        "type": "Attribute",
+        "source": "sr-entity-004",
+        "target": "sr-attr-odometer"
+      },
+      {
+        "id": "edge-sr-complain",
+        "type": "Attribute",
+        "source": "sr-entity-004",
+        "target": "sr-attr-complain"
+      },
+      {
+        "id": "edge-cr-wid",
+        "type": "Attribute",
+        "source": "cr-entity-005",
+        "target": "cr-attr-wid"
+      },
+      {
+        "id": "edge-cr-date",
+        "type": "Attribute",
+        "source": "cr-entity-005",
+        "target": "cr-attr-date"
+      },
+      {
+        "id": "edge-cr-comment",
+        "type": "Attribute",
+        "source": "cr-entity-005",
+        "target": "cr-attr-comment"
+      },
+      {
+        "id": "edge-cr-bill",
+        "type": "Attribute",
+        "source": "cr-entity-005",
+        "target": "cr-attr-bill"
+      },
+      {
+        "id": "edge-owns-customer",
+        "type": "Relationship",
+        "source": "owns-rel-001",
+        "target": "customer-entity-001",
+        "data": {
+          "id": "owns-rel-001->customer-entity-001",
+          "minCardinality": "Optional",
+          "maxCardinality": "Many"
+        }
+      },
+      {
+        "id": "edge-owns-car",
+        "type": "Relationship",
+        "source": "owns-rel-001",
+        "target": "car-entity-002",
+        "data": {
+          "id": "owns-rel-001->car-entity-002",
+          "minCardinality": "Mandatory",
+          "maxCardinality": "One",
+          "exactConstraints": []
+        }
+      },
+      {
+        "id": "edge-initiates-customer",
+        "type": "Relationship",
+        "source": "initiates-rel-002",
+        "target": "customer-entity-001",
+        "data": {
+          "id": "initiates-rel-002->customer-entity-001",
+          "minCardinality": "Optional",
+          "maxCardinality": "Many"
+        }
+      },
+      {
+        "id": "edge-initiates-sr",
+        "type": "Relationship",
+        "source": "initiates-rel-002",
+        "target": "sr-entity-004",
+        "data": {
+          "id": "initiates-rel-002->sr-entity-004",
+          "minCardinality": "Mandatory",
+          "maxCardinality": "One",
+          "exactConstraints": []
+        }
+      },
+      {
+        "id": "edge-has-car",
+        "type": "Relationship",
+        "source": "has-rel-003",
+        "target": "car-entity-002",
+        "data": {
+          "id": "has-rel-003->car-entity-002",
+          "minCardinality": "Optional",
+          "maxCardinality": "Many"
+        }
+      },
+      {
+        "id": "edge-has-sr",
+        "type": "Relationship",
+        "source": "has-rel-003",
+        "target": "sr-entity-004",
+        "data": {
+          "id": "has-rel-003->sr-entity-004",
+          "minCardinality": "Mandatory",
+          "maxCardinality": "One",
+          "exactConstraints": []
+        }
+      },
+      {
+        "id": "edge-closes-mechanic",
+        "type": "Relationship",
+        "source": "closes-rel-004",
+        "target": "mechanic-entity-003",
+        "data": {
+          "id": "closes-rel-004->mechanic-entity-003",
+          "minCardinality": "Optional",
+          "maxCardinality": "Many"
+        }
+      },
+      {
+        "id": "edge-closes-cr",
+        "type": "Relationship",
+        "source": "closes-rel-004",
+        "target": "cr-entity-005",
+        "data": {
+          "id": "closes-rel-004->cr-entity-005",
+          "minCardinality": "Mandatory",
+          "maxCardinality": "One",
+          "exactConstraints": []
+        }
+      },
+      {
+        "id": "edge-closedby-sr",
+        "type": "Relationship",
+        "source": "closedby-rel-005",
+        "target": "sr-entity-004",
+        "data": {
+          "id": "closedby-rel-005->sr-entity-004",
+          "minCardinality": "Optional",
+          "maxCardinality": "One"
+        }
+      },
+      {
+        "id": "edge-closedby-cr",
+        "type": "Relationship",
+        "source": "closedby-rel-005",
+        "target": "cr-entity-005",
+        "data": {
+          "id": "closedby-rel-005->cr-entity-005",
+          "minCardinality": "Mandatory",
+          "maxCardinality": "One",
+          "exactConstraints": []
+        }
+      }
+    ],
+    "viewport": {
+      "x": 200,
+      "y": 50,
+      "zoom": 0.65
+    }
+  },
+  "name": "MechanicShop_Phase1",
+  "folder": {
+    "name": "Diagrams",
+    "folderType": 1,
+    "depth": 0,
+    "id": 189233
+  },
+  "id": 218768,
+  "updatedAtTimestamp": 1739900000
+}
