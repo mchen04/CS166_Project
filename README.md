@@ -16,6 +16,7 @@ A database system for tracking customers, cars, mechanics, service requests, and
 - Swing GUI with tabbed interface (extra credit)
 - Dummy data (500 customers, 250 mechanics, 800 cars, 1500 service requests)
 - One-click deploy to UCR server: `./phase2/deploy_ucr.sh <netid>`
+
 - [Assumptions](phase2/assumptions.txt) · [Phase 2 README](phase2/README.md)
 
 ## Quick Start
@@ -23,7 +24,7 @@ A database system for tracking customers, cars, mechanics, service requests, and
 ```bash
 # UCR server (CLI)
 cd phase2
-./deploy_ucr.sh mchen356
+./deploy_ucr.sh <netid>
 
 # Local (GUI)
 cd phase2

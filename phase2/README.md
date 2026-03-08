@@ -3,7 +3,7 @@
 ## UCR Server
 
 ```bash
-./deploy_ucr.sh mchen356
+./deploy_ucr.sh <netid>
 ```
 
 Uploads files, starts PostgreSQL, loads schema + data, compiles, and runs the CLI. Stops the database automatically when you exit. One password prompt.
@@ -11,7 +11,7 @@ Uploads files, starts PostgreSQL, loads schema + data, compiles, and runs the CL
 Manual steps if needed:
 
 ```bash
-ssh mchen356@cs166.cs.ucr.edu
+ssh <netid>@cs166.cs.ucr.edu
 cd ~/phase2
 source ucr/startPostgreSQL.sh
 source ucr/createPostgreDB.sh
