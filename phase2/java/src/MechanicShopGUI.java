@@ -1,7 +1,4 @@
-/*
- * MechanicShopGUI.java - Swing GUI for CS166 Mechanic Shop (Phase 2)
- * Uses PreparedStatements throughout for SQL injection safety.
- */
+// cs166 project phase 2 - mechanic shop swing gui
 
 import javax.swing.*;
 import javax.swing.border.*;
@@ -23,12 +20,6 @@ public class MechanicShopGUI extends JFrame {
       }
       SwingUtilities.invokeLater(() -> {
          try {
-            UIManager.setLookAndFeel("javax.swing.plaf.nimbus.NimbusLookAndFeel");
-         } catch (Exception e) {
-            try { UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName()); }
-            catch (Exception ignored) {}
-         }
-         try {
             new MechanicShopGUI(args[0], args[1], args[2]).setVisible(true);
          } catch (Exception e) {
             JOptionPane.showMessageDialog(null,
@@ -43,23 +34,12 @@ public class MechanicShopGUI extends JFrame {
       conn = DriverManager.getConnection(
          "jdbc:postgresql://localhost:" + port + "/" + dbname, user, "");
 
-      setTitle("Mechanic Shop Management System");
+      setTitle("Mechanic Shop");
       setDefaultCloseOperation(EXIT_ON_CLOSE);
-      setSize(1020, 720);
-      setMinimumSize(new Dimension(820, 600));
+      setSize(900, 680);
       setLocationRelativeTo(null);
 
-      // header
-      JLabel header = new JLabel("  \u2699  Mechanic Shop Management");
-      header.setFont(new Font("SansSerif", Font.BOLD, 20));
-      header.setOpaque(true);
-      header.setBackground(new Color(44, 62, 80));
-      header.setForeground(Color.WHITE);
-      header.setBorder(BorderFactory.createEmptyBorder(14, 16, 14, 16));
-
-      // tabs
       JTabbedPane tabs = new JTabbedPane(JTabbedPane.LEFT);
-      tabs.setFont(new Font("SansSerif", Font.PLAIN, 13));
 
       tabs.addTab(" Add Customer  ", createAddCustomerPanel());
       tabs.addTab(" Add Mechanic  ", createAddMechanicPanel());
@@ -91,34 +71,22 @@ public class MechanicShopGUI extends JFrame {
          "GROUP BY c.id, c.fname, c.lname ORDER BY total DESC",
          new String[]{"First Name", "Last Name", "Total Bill ($)"}));
 
-      // sql log panel
+      // sql log
       sqlArea = new JTextArea(4, 60);
       sqlArea.setEditable(false);
       sqlArea.setFont(new Font("Monospaced", Font.PLAIN, 12));
-      sqlArea.setBackground(new Color(45, 45, 45));
-      sqlArea.setForeground(new Color(0, 230, 118));
-      sqlArea.setCaretColor(new Color(0, 230, 118));
-      sqlArea.setBorder(BorderFactory.createEmptyBorder(6, 8, 6, 8));
       JScrollPane sqlScroll = new JScrollPane(sqlArea);
-      sqlScroll.setBorder(BorderFactory.createTitledBorder(
-         BorderFactory.createMatteBorder(1, 0, 0, 0, new Color(189, 195, 199)),
-         " SQL Log ", TitledBorder.LEFT, TitledBorder.TOP,
-         new Font("SansSerif", Font.BOLD, 11)));
-      sqlScroll.setPreferredSize(new Dimension(0, 110));
+      sqlScroll.setBorder(BorderFactory.createTitledBorder("SQL Log"));
+      sqlScroll.setPreferredSize(new Dimension(0, 100));
 
-      // status bar
       statusLabel = new JLabel(" Connected to " + dbname);
-      statusLabel.setFont(new Font("SansSerif", Font.PLAIN, 12));
-      statusLabel.setBorder(BorderFactory.createCompoundBorder(
-         BorderFactory.createMatteBorder(1, 0, 0, 0, new Color(189, 195, 199)),
-         BorderFactory.createEmptyBorder(6, 10, 6, 10)));
+      statusLabel.setBorder(BorderFactory.createEmptyBorder(4, 8, 4, 8));
 
       JPanel bottomPanel = new JPanel(new BorderLayout());
       bottomPanel.add(sqlScroll, BorderLayout.CENTER);
       bottomPanel.add(statusLabel, BorderLayout.SOUTH);
 
       setLayout(new BorderLayout());
-      add(header, BorderLayout.NORTH);
       add(tabs, BorderLayout.CENTER);
       add(bottomPanel, BorderLayout.SOUTH);
 
@@ -129,7 +97,7 @@ public class MechanicShopGUI extends JFrame {
       });
    }
 
-   // ===================== HELPERS =====================
+   // helpers
 
    private JTextField addField(JPanel form, GridBagConstraints gbc, String label, int row) {
       gbc.gridx = 0; gbc.gridy = row; gbc.gridwidth = 1;
@@ -156,7 +124,7 @@ public class MechanicShopGUI extends JFrame {
 
    private void setStatus(String msg, boolean isError) {
       statusLabel.setText(" " + msg);
-      statusLabel.setForeground(isError ? new Color(192, 57, 43) : new Color(39, 174, 96));
+      statusLabel.setForeground(isError ? Color.RED : Color.BLACK);
    }
 
    private void showError(String msg) {
@@ -187,27 +155,11 @@ public class MechanicShopGUI extends JFrame {
    }
 
    private void logSQL(String sql, Object... params) {
-      StringBuilder sb = new StringBuilder();
-      if (params.length > 0) {
-         int idx = 0;
-         for (int i = 0; i < sql.length(); i++) {
-            if (sql.charAt(i) == '?' && idx < params.length) {
-               Object p = params[idx++];
-               if (p instanceof String) sb.append("'").append(p).append("'");
-               else sb.append(p);
-            } else {
-               sb.append(sql.charAt(i));
-            }
-         }
-      } else {
-         sb.append(sql);
-      }
-      String timestamp = new SimpleDateFormat("HH:mm:ss").format(new java.util.Date());
-      sqlArea.append("[" + timestamp + "] " + sb.toString() + "\n");
+      sqlArea.append(sql + "\n");
       sqlArea.setCaretPosition(sqlArea.getDocument().getLength());
    }
 
-   // ===================== FUNCTION 1: ADD CUSTOMER =====================
+   // function 1: add customer
 
    private JPanel createAddCustomerPanel() {
       JPanel panel = new JPanel(new BorderLayout());
@@ -215,7 +167,7 @@ public class MechanicShopGUI extends JFrame {
 
       JPanel form = new JPanel(new GridBagLayout());
       form.setBorder(BorderFactory.createTitledBorder(
-         BorderFactory.createLineBorder(new Color(149, 165, 166)),
+         BorderFactory.createLineBorder(Color.GRAY),
          " New Customer ", TitledBorder.LEFT, TitledBorder.TOP,
          new Font("SansSerif", Font.BOLD, 14)));
       GridBagConstraints gbc = new GridBagConstraints();
@@ -259,7 +211,7 @@ public class MechanicShopGUI extends JFrame {
       return panel;
    }
 
-   // ===================== FUNCTION 2: ADD MECHANIC =====================
+   // function 2: add mechanic
 
    private JPanel createAddMechanicPanel() {
       JPanel panel = new JPanel(new BorderLayout());
@@ -267,7 +219,7 @@ public class MechanicShopGUI extends JFrame {
 
       JPanel form = new JPanel(new GridBagLayout());
       form.setBorder(BorderFactory.createTitledBorder(
-         BorderFactory.createLineBorder(new Color(149, 165, 166)),
+         BorderFactory.createLineBorder(Color.GRAY),
          " New Mechanic ", TitledBorder.LEFT, TitledBorder.TOP,
          new Font("SansSerif", Font.BOLD, 14)));
       GridBagConstraints gbc = new GridBagConstraints();
@@ -313,7 +265,7 @@ public class MechanicShopGUI extends JFrame {
       return panel;
    }
 
-   // ===================== FUNCTION 3: ADD CAR =====================
+   // function 3: add car
 
    private JPanel createAddCarPanel() {
       JPanel panel = new JPanel(new BorderLayout());
@@ -321,7 +273,7 @@ public class MechanicShopGUI extends JFrame {
 
       JPanel form = new JPanel(new GridBagLayout());
       form.setBorder(BorderFactory.createTitledBorder(
-         BorderFactory.createLineBorder(new Color(149, 165, 166)),
+         BorderFactory.createLineBorder(Color.GRAY),
          " New Car ", TitledBorder.LEFT, TitledBorder.TOP,
          new Font("SansSerif", Font.BOLD, 14)));
       GridBagConstraints gbc = new GridBagConstraints();
@@ -350,7 +302,6 @@ public class MechanicShopGUI extends JFrame {
          try { year = Integer.parseInt(yearStr); } catch (Exception ex) { showError("Year must be numeric."); return; }
          if (year < 1970 || year > 2026) { showError("Year: 1970-2026."); return; }
          try {
-            // check duplicate
             String ckSql = "SELECT COUNT(*) FROM Car WHERE vin = ?";
             logSQL(ckSql, vin);
             PreparedStatement ck = conn.prepareStatement(ckSql);
@@ -374,7 +325,7 @@ public class MechanicShopGUI extends JFrame {
       return panel;
    }
 
-   // ===================== FUNCTION 4: INSERT SERVICE REQUEST =====================
+   // function 4: new service request
 
    private JPanel createServiceRequestPanel() {
       JPanel panel = new JPanel(new BorderLayout(0, 5));
@@ -384,7 +335,7 @@ public class MechanicShopGUI extends JFrame {
       final int[] customerId = {-1};
       final String[] carVin = {""};
 
-      // === step 1: customer search ===
+      // step 1: customer search
       JPanel step1 = new JPanel(new BorderLayout(5, 5));
       step1.setBorder(BorderFactory.createTitledBorder("Step 1: Find Customer"));
 
@@ -408,7 +359,7 @@ public class MechanicShopGUI extends JFrame {
       step1.add(searchRow, BorderLayout.NORTH);
       step1.add(custScroll, BorderLayout.CENTER);
 
-      // === step 2: car selection ===
+      // step 2: car selection
       JPanel step2 = new JPanel(new BorderLayout(5, 5));
       step2.setBorder(BorderFactory.createTitledBorder("Step 2: Select Car"));
 
@@ -424,7 +375,7 @@ public class MechanicShopGUI extends JFrame {
       step2.add(carScroll, BorderLayout.CENTER);
       step2.add(carBtnPanel, BorderLayout.SOUTH);
 
-      // === step 3: details ===
+      // step 3: details
       JPanel step3 = new JPanel(new GridBagLayout());
       step3.setBorder(BorderFactory.createTitledBorder("Step 3: Service Details"));
       GridBagConstraints gbc = new GridBagConstraints();
@@ -457,9 +408,7 @@ public class MechanicShopGUI extends JFrame {
          JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED,
          JScrollPane.HORIZONTAL_SCROLLBAR_NEVER), BorderLayout.CENTER);
 
-      // === event handlers ===
-
-      // search customers by last name
+      // event handlers
       searchBtn.addActionListener(e -> {
          String lname = lnameField.getText().trim();
          if (lname.isEmpty()) { showError("Enter a last name."); return; }
@@ -484,10 +433,8 @@ public class MechanicShopGUI extends JFrame {
          } catch (SQLException ex) { showError(ex.getMessage()); }
       });
 
-      // allow pressing enter in search field
       lnameField.addActionListener(e -> searchBtn.doClick());
 
-      // selecting a customer loads their cars
       custTable.getSelectionModel().addListSelectionListener(e -> {
          if (e.getValueIsAdjusting()) return;
          int row = custTable.getSelectedRow();
@@ -511,7 +458,6 @@ public class MechanicShopGUI extends JFrame {
          } catch (SQLException ex) { showError(ex.getMessage()); }
       });
 
-      // selecting a car stores the vin
       carTable.getSelectionModel().addListSelectionListener(e -> {
          if (e.getValueIsAdjusting()) return;
          int row = carTable.getSelectedRow();
@@ -519,18 +465,15 @@ public class MechanicShopGUI extends JFrame {
          carVin[0] = (String) carModel.getValueAt(carTable.convertRowIndexToModel(row), 0);
       });
 
-      // add new customer dialog
       addCustBtn.addActionListener(e -> {
          int newId = showAddCustomerDialog();
          if (newId >= 0) searchBtn.doClick();
       });
 
-      // add new car dialog (linked to selected customer)
       addCarBtn.addActionListener(e -> {
          if (customerId[0] < 0) { showError("Select a customer first."); return; }
          String newVin = showAddCarDialog(customerId[0]);
          if (newVin != null) {
-            // refresh car list
             carModel.setRowCount(0);
             try {
                PreparedStatement ps = conn.prepareStatement(
@@ -548,7 +491,6 @@ public class MechanicShopGUI extends JFrame {
          }
       });
 
-      // submit service request
       submitBtn.addActionListener(e -> {
          if (customerId[0] < 0) { showError("Select a customer first."); return; }
          if (carVin[0].isEmpty()) { showError("Select a car first."); return; }
@@ -579,7 +521,7 @@ public class MechanicShopGUI extends JFrame {
       return panel;
    }
 
-   // dialog to add a customer (used from service request flow)
+   // add customer dialog (from service request flow)
    private int showAddCustomerDialog() {
       JTextField fnameF = new JTextField(20), lnameF = new JTextField(20);
       JTextField phoneF = new JTextField(20), addrF  = new JTextField(20);
@@ -609,7 +551,7 @@ public class MechanicShopGUI extends JFrame {
       } catch (SQLException e) { showError(e.getMessage()); return -1; }
    }
 
-   // dialog to add a car and link to customer (used from service request flow)
+   // add car dialog (from service request flow)
    private String showAddCarDialog(int custId) {
       JTextField vinF = new JTextField(20), makeF = new JTextField(20);
       JTextField modelF = new JTextField(20), yearF = new JTextField(20);
@@ -629,20 +571,19 @@ public class MechanicShopGUI extends JFrame {
       try { year = Integer.parseInt(yearStr); } catch (Exception e) { showError("Year must be numeric."); return null; }
       if (year < 1970 || year > 2026) { showError("Year: 1970-2026."); return null; }
       try {
-         // check duplicate vin
          String ckSql = "SELECT COUNT(*) FROM Car WHERE vin = ?";
          logSQL(ckSql, vin);
          PreparedStatement ck = conn.prepareStatement(ckSql);
          ck.setString(1, vin); ResultSet crs = ck.executeQuery(); crs.next();
          if (crs.getInt(1) > 0) { showError("VIN already exists."); crs.close(); ck.close(); return null; }
          crs.close(); ck.close();
-         // insert car
+
          String carSql = "INSERT INTO Car (vin, make, model, year) VALUES (?, ?, ?, ?)";
          logSQL(carSql, vin, make, model, year);
          PreparedStatement ps = conn.prepareStatement(carSql);
          ps.setString(1, vin); ps.setString(2, make); ps.setString(3, model); ps.setInt(4, year);
          ps.executeUpdate(); ps.close();
-         // create ownership
+         // link ownership
          int oid = getNextId("Owns", "ownership_id");
          String ownsSql = "INSERT INTO Owns (ownership_id, customer_id, car_vin) VALUES (?, ?, ?)";
          logSQL(ownsSql, oid, custId, vin);
@@ -654,13 +595,12 @@ public class MechanicShopGUI extends JFrame {
       } catch (SQLException e) { showError(e.getMessage()); return null; }
    }
 
-   // ===================== FUNCTION 5: CLOSE SERVICE REQUEST =====================
+   // function 5: close service request
 
    private JPanel createCloseRequestPanel() {
       JPanel panel = new JPanel(new BorderLayout(0, 10));
       panel.setBorder(BorderFactory.createEmptyBorder(15, 15, 15, 15));
 
-      // lookup section
       JPanel lookupPanel = new JPanel(new BorderLayout(5, 5));
       lookupPanel.setBorder(BorderFactory.createTitledBorder("Look Up Service Request"));
       JPanel lookupRow = new JPanel(new BorderLayout(8, 0));
@@ -679,7 +619,6 @@ public class MechanicShopGUI extends JFrame {
       lookupPanel.add(lookupRow, BorderLayout.NORTH);
       lookupPanel.add(new JScrollPane(detailsArea), BorderLayout.CENTER);
 
-      // close section
       JPanel closePanel = new JPanel(new GridBagLayout());
       closePanel.setBorder(BorderFactory.createTitledBorder("Close Request"));
       GridBagConstraints gbc = new GridBagConstraints();
@@ -698,10 +637,8 @@ public class MechanicShopGUI extends JFrame {
       gbc.insets = new Insets(14, 8, 6, 8);
       closePanel.add(closeBtn, gbc);
 
-      // state
       final int[] validRid = {-1};
 
-      // layout
       JPanel main = new JPanel();
       main.setLayout(new BoxLayout(main, BoxLayout.Y_AXIS));
       lookupPanel.setAlignmentX(Component.LEFT_ALIGNMENT);
@@ -711,10 +648,8 @@ public class MechanicShopGUI extends JFrame {
       main.add(closePanel);
       panel.add(main, BorderLayout.NORTH);
 
-      // allow pressing enter in rid field
       ridField.addActionListener(e -> lookupBtn.doClick());
 
-      // look up handler
       lookupBtn.addActionListener(e -> {
          String ridStr = ridField.getText().trim();
          int rid;
@@ -727,7 +662,6 @@ public class MechanicShopGUI extends JFrame {
          detailsArea.setText("");
 
          try {
-            // fetch request info
             String lookupSql = "SELECT sr.rid, sr.customer_id, sr.car_vin, sr.date, sr.odometer, sr.complain, " +
                "c.fname, c.lname, car.make, car.model, car.year " +
                "FROM Service_Request sr " +
@@ -756,7 +690,7 @@ public class MechanicShopGUI extends JFrame {
             sb.append("Complaint: ").append(trimNull(rs.getString("complain"))).append("\n");
             rs.close(); ps.close();
 
-            // check if already closed
+            // check if closed
             String closedSql = "SELECT cr.date, cr.comment, cr.bill, m.fname, m.lname " +
                "FROM Closed_Request cr JOIN Mechanic m ON cr.mid = m.id WHERE cr.rid = ?";
             logSQL(closedSql, rid);
@@ -783,7 +717,6 @@ public class MechanicShopGUI extends JFrame {
          } catch (SQLException ex) { showError(ex.getMessage()); }
       });
 
-      // close handler
       closeBtn.addActionListener(e -> {
          if (validRid[0] < 0) { showError("Look up a valid open request first."); return; }
          String midStr = midField.getText().trim();
@@ -799,7 +732,7 @@ public class MechanicShopGUI extends JFrame {
          if (bill < 0) { showError("Bill must be non-negative."); return; }
 
          try {
-            // check mechanic exists
+            // verify mechanic
             String mechSql = "SELECT COUNT(*) FROM Mechanic WHERE id = ?";
             logSQL(mechSql, mid);
             PreparedStatement mk = conn.prepareStatement(mechSql);
@@ -807,7 +740,7 @@ public class MechanicShopGUI extends JFrame {
             if (mrs.getInt(1) == 0) { showError("Mechanic #" + mid + " not found."); mrs.close(); mk.close(); return; }
             mrs.close(); mk.close();
 
-            // check close date >= request date
+            // close date must be >= request date
             String dateSql = "SELECT date FROM Service_Request WHERE rid = ?";
             logSQL(dateSql, validRid[0]);
             PreparedStatement dp = conn.prepareStatement(dateSql);
@@ -840,7 +773,7 @@ public class MechanicShopGUI extends JFrame {
       return panel;
    }
 
-   // ===================== QUERIES 6, 7, 8, 10 (reusable) =====================
+   // queries 6, 7, 8, 10 (shared panel builder)
 
    private JPanel createQueryPanel(String title, String sql, String[] columns) {
       JPanel panel = new JPanel(new BorderLayout(0, 10));
@@ -887,7 +820,7 @@ public class MechanicShopGUI extends JFrame {
       return panel;
    }
 
-   // ===================== QUERY 9: TOP K CARS =====================
+   // query 9: top k cars
 
    private JPanel createTopKPanel() {
       JPanel panel = new JPanel(new BorderLayout(0, 10));

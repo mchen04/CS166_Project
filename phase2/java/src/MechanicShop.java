@@ -1,7 +1,4 @@
-/*
- * cs166 project phase 2 - mechanic shop jdbc client
- * template structure based on the ucr cs166 starter code
- */
+// cs166 project phase 2 - mechanic shop jdbc client
 
 import java.sql.*;
 import java.io.*;
@@ -11,15 +8,9 @@ import java.text.SimpleDateFormat;
 
 public class MechanicShop {
 
-   // connection params - passed via command line
    private Connection _connection = null;
-
-   // output stream
    private static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 
-   /**
-    * creates a new connection to the database
-    */
    public MechanicShop(String dbname, String dbport, String user) throws SQLException {
       System.out.print("connecting to database...");
       try {
@@ -32,9 +23,6 @@ public class MechanicShop {
       }
    }
 
-   /**
-    * run an insert/update/delete query. returns the number of rows affected.
-    */
    public int executeUpdate(String sql) throws SQLException {
       Statement stmt = this._connection.createStatement();
       int rowCount = stmt.executeUpdate(sql);
@@ -42,9 +30,6 @@ public class MechanicShop {
       return rowCount;
    }
 
-   /**
-    * run a select query and print results to stdout.
-    */
    public int executeQueryAndPrintResult(String query) throws SQLException {
       Statement stmt = this._connection.createStatement();
       ResultSet rs = stmt.executeQuery(query);
@@ -78,9 +63,6 @@ public class MechanicShop {
       return rowCount;
    }
 
-   /**
-    * run a select query and return results as a list of string arrays.
-    */
    public List<List<String>> executeQueryAndReturnResult(String query) throws SQLException {
       Statement stmt = this._connection.createStatement();
       ResultSet rs = stmt.executeQuery(query);
@@ -101,9 +83,6 @@ public class MechanicShop {
       return result;
    }
 
-   /**
-    * run a select query and return the number of results.
-    */
    public int executeQuery(String query) throws SQLException {
       Statement stmt = this._connection.createStatement();
       ResultSet rs = stmt.executeQuery(query);
@@ -126,7 +105,7 @@ public class MechanicShop {
       }
    }
 
-   // ==================== MAIN ====================
+   // main
 
    public static void main(String[] args) {
       if (args.length != 3) {
@@ -200,7 +179,7 @@ public class MechanicShop {
       return input;
    }
 
-   // ==================== VALIDATION HELPERS ====================
+   // input validation helpers
 
    // check that a string is non-empty and within max length
    public static boolean charCheck(String s, int maxLen) {
@@ -270,11 +249,10 @@ public class MechanicShop {
       return s.replace("'", "''");
    }
 
-   // ==================== FUNCTION 1: ADD CUSTOMER ====================
+   // function 1: add customer
 
    public static void AddCustomer(MechanicShop esql) {
       try {
-         // get first name
          String fname;
          do {
             System.out.print("first name: ");
@@ -282,7 +260,6 @@ public class MechanicShop {
             if (!charCheck(fname, 32)) System.out.println("  invalid. must be 1-32 chars.");
          } while (!charCheck(fname, 32));
 
-         // get last name
          String lname;
          do {
             System.out.print("last name: ");
@@ -290,7 +267,6 @@ public class MechanicShop {
             if (!charCheck(lname, 32)) System.out.println("  invalid. must be 1-32 chars.");
          } while (!charCheck(lname, 32));
 
-         // get phone
          String phone;
          do {
             System.out.print("phone (###)###-####: ");
@@ -298,7 +274,6 @@ public class MechanicShop {
             if (!phoneCheck(phone)) System.out.println("  invalid. use format (###)###-####.");
          } while (!phoneCheck(phone));
 
-         // get address
          String address;
          do {
             System.out.print("address: ");
@@ -306,7 +281,7 @@ public class MechanicShop {
             if (!charCheck(address, 256)) System.out.println("  invalid. must be 1-256 chars.");
          } while (!charCheck(address, 256));
 
-         // grab the next available id
+         // next available id
          List<List<String>> res = esql.executeQueryAndReturnResult("SELECT MAX(id) FROM Customer");
          int newId = Integer.parseInt(res.get(0).get(0)) + 1;
 
@@ -324,7 +299,7 @@ public class MechanicShop {
       }
    }
 
-   // ==================== FUNCTION 2: ADD MECHANIC ====================
+   // function 2: add mechanic
 
    public static void AddMechanic(MechanicShop esql) {
       try {
@@ -357,7 +332,7 @@ public class MechanicShop {
             if (!charCheck(specialty, 64)) System.out.println("  invalid. must be 1-64 chars.");
          } while (!charCheck(specialty, 64));
 
-         // grab the next available id
+         // next available id
          List<List<String>> res = esql.executeQueryAndReturnResult("SELECT MAX(id) FROM Mechanic");
          int newId = Integer.parseInt(res.get(0).get(0)) + 1;
 
@@ -375,7 +350,7 @@ public class MechanicShop {
       }
    }
 
-   // ==================== FUNCTION 3: ADD CAR ====================
+   // function 3: add car
 
    public static void AddCar(MechanicShop esql) {
       try {
@@ -428,11 +403,11 @@ public class MechanicShop {
       }
    }
 
-   // ==================== FUNCTION 4: INSERT SERVICE REQUEST ====================
+   // function 4: insert service request
 
    public static void InsertServiceRequest(MechanicShop esql) {
       try {
-         // step 1: find the customer by last name
+         // step 1: find customer by last name
          String lname;
          do {
             System.out.print("customer last name: ");
@@ -453,7 +428,6 @@ public class MechanicShop {
             return;
          }
 
-         // display matching customers
          System.out.println("\nmatching customers:");
          for (int i = 0; i < customers.size(); i++) {
             List<String> c = customers.get(i);
@@ -476,7 +450,7 @@ public class MechanicShop {
 
          int customerId = Integer.parseInt(customers.get(custChoice - 1).get(0));
 
-         // step 2: list all cars this customer owns so they can pick one
+         // step 2: pick a car
          List<List<String>> carList = esql.executeQueryAndReturnResult(
             "SELECT c.vin, c.make, c.model, c.year FROM Car c, Owns o " +
             "WHERE o.customer_id = " + customerId + " AND c.vin = o.car_vin");
@@ -488,10 +462,9 @@ public class MechanicShop {
             String ans = in.readLine().trim();
             if (ans.equalsIgnoreCase("y")) {
                AddCar(esql);
-               // ask for the vin they just added so we can link it
                System.out.print("enter the vin you just added: ");
                carVin = in.readLine().trim();
-               // create ownership record
+               // link car to customer
                List<List<String>> ownsRes = esql.executeQueryAndReturnResult("SELECT MAX(ownership_id) FROM Owns");
                int newOwnId = Integer.parseInt(ownsRes.get(0).get(0)) + 1;
                esql.executeUpdate("INSERT INTO Owns (ownership_id, customer_id, car_vin) VALUES ("
@@ -506,7 +479,6 @@ public class MechanicShop {
                List<String> car = carList.get(i);
                System.out.println("  " + (i + 1) + ". " + car.get(3) + " " + car.get(1) + " " + car.get(2) + " (vin: " + car.get(0) + ")");
             }
-            // option to add a new car
             System.out.println("  " + (carList.size() + 1) + ". Add a new car");
 
             int carChoice;
@@ -523,11 +495,10 @@ public class MechanicShop {
             } while (carChoice < 1 || carChoice > carList.size() + 1);
 
             if (carChoice == carList.size() + 1) {
-               // add a new car
                AddCar(esql);
                System.out.print("enter the vin you just added: ");
                carVin = in.readLine().trim();
-               // create ownership record
+               // link car to customer
                List<List<String>> ownsRes = esql.executeQueryAndReturnResult("SELECT MAX(ownership_id) FROM Owns");
                int newOwnId = Integer.parseInt(ownsRes.get(0).get(0)) + 1;
                esql.executeUpdate("INSERT INTO Owns (ownership_id, customer_id, car_vin) VALUES ("
@@ -538,7 +509,7 @@ public class MechanicShop {
             }
          }
 
-         // step 3: get odometer and complaint
+         // step 3: odometer and complaint
          String odoStr;
          do {
             System.out.print("current odometer reading: ");
@@ -554,7 +525,7 @@ public class MechanicShop {
             return;
          }
 
-         // generate rid and insert with today's date
+         // insert with today's date
          List<List<String>> ridRes = esql.executeQueryAndReturnResult("SELECT MAX(rid) FROM Service_Request");
          int newRid = Integer.parseInt(ridRes.get(0).get(0)) + 1;
 
@@ -575,11 +546,11 @@ public class MechanicShop {
       }
    }
 
-   // ==================== FUNCTION 5: CLOSE SERVICE REQUEST ====================
+   // function 5: close service request
 
    public static void CloseServiceRequest(MechanicShop esql) {
       try {
-         // get the service request id
+         // look up the request
          String ridStr;
          do {
             System.out.print("service request number (rid): ");
@@ -588,21 +559,21 @@ public class MechanicShop {
          } while (!idCheck(ridStr));
          int rid = Integer.parseInt(ridStr);
 
-         // check if the service request actually exists
+         // verify request exists
          int srExists = esql.executeQuery("SELECT * FROM Service_Request WHERE rid = " + rid);
          if (srExists == 0) {
             System.out.println("service request #" + rid + " doesn't exist.");
             return;
          }
 
-         // check if it's already been closed
+         // make sure it's not already closed
          int alreadyClosed = esql.executeQuery("SELECT * FROM Closed_Request WHERE rid = " + rid);
          if (alreadyClosed > 0) {
             System.out.println("service request #" + rid + " is already closed.");
             return;
          }
 
-         // get the mechanic id
+         // get mechanic id
          String midStr;
          do {
             System.out.print("mechanic employee id: ");
@@ -611,14 +582,14 @@ public class MechanicShop {
          } while (!idCheck(midStr));
          int mid = Integer.parseInt(midStr);
 
-         // check if the mechanic actually exists before we try to close anything
+         // verify mechanic exists
          int mechExists = esql.executeQuery("SELECT * FROM Mechanic WHERE id = " + mid);
          if (mechExists == 0) {
             System.out.println("mechanic #" + mid + " doesn't exist.");
             return;
          }
 
-         // get comment and bill
+         // comment and bill
          System.out.print("closing comment: ");
          String comment = in.readLine().trim();
 
@@ -630,18 +601,16 @@ public class MechanicShop {
          } while (!numCheck(billStr));
          double bill = Double.parseDouble(billStr);
 
-         // generate wid and insert with today's date
+         // insert with today's date
          List<List<String>> widRes = esql.executeQueryAndReturnResult("SELECT MAX(wid) FROM Closed_Request");
          int newWid = Integer.parseInt(widRes.get(0).get(0)) + 1;
 
          String today = new SimpleDateFormat("yyyy-MM-dd").format(new java.util.Date());
 
-         // check that closing date is >= request date
+         // closing date must be >= request date
          List<List<String>> srDate = esql.executeQueryAndReturnResult(
             "SELECT date FROM Service_Request WHERE rid = " + rid);
          String requestDateStr = srDate.get(0).get(0);
-
-         // parse and compare dates
          SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
          java.util.Date requestDate = sdf.parse(requestDateStr);
          java.util.Date closeDate = new java.util.Date(); // today
@@ -665,7 +634,7 @@ public class MechanicShop {
       }
    }
 
-   // ==================== QUERY 6: CLOSED REQUESTS WITH BILL < $100 ====================
+   // query 6: closed requests with bill < $100
 
    public static void ListClosedRequestsUnder100(MechanicShop esql) {
       try {
@@ -680,7 +649,7 @@ public class MechanicShop {
       }
    }
 
-   // ==================== QUERY 7: CUSTOMERS WITH >20 CARS ====================
+   // query 7: customers with more than 20 cars
 
    public static void ListCustomersWithMoreThan20Cars(MechanicShop esql) {
       try {
@@ -697,7 +666,7 @@ public class MechanicShop {
       }
    }
 
-   // ==================== QUERY 8: PRE-1995 CARS WITH <50K MILES ====================
+   // query 8: pre-1995 cars with < 50k miles
 
    public static void ListCarsBefore1995With50kMiles(MechanicShop esql) {
       try {
@@ -714,7 +683,7 @@ public class MechanicShop {
       }
    }
 
-   // ==================== QUERY 9: TOP K CARS WITH MOST PENDING REQUESTS ====================
+   // query 9: top k cars with most pending requests
 
    public static void ListKCarsWithMostServices(MechanicShop esql) {
       try {
@@ -741,7 +710,7 @@ public class MechanicShop {
       }
    }
 
-   // ==================== QUERY 10: CUSTOMER TOTAL BILLS ====================
+   // query 10: customer total bills
 
    public static void ListCustomerTotalBills(MechanicShop esql) {
       try {
