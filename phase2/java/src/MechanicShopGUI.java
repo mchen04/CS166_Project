@@ -39,31 +39,31 @@ public class MechanicShopGUI extends JFrame {
       setSize(900, 680);
       setLocationRelativeTo(null);
 
-      JTabbedPane tabs = new JTabbedPane(JTabbedPane.LEFT);
+      JTabbedPane tabs = new JTabbedPane(JTabbedPane.TOP);
 
-      tabs.addTab(" Add Customer  ", createAddCustomerPanel());
-      tabs.addTab(" Add Mechanic  ", createAddMechanicPanel());
-      tabs.addTab(" Add Car       ", createAddCarPanel());
-      tabs.addTab(" New Request   ", createServiceRequestPanel());
-      tabs.addTab(" Close Request ", createCloseRequestPanel());
-      tabs.addTab(" Bills < $100  ", createQueryPanel(
+      tabs.addTab("Add Customer", createAddCustomerPanel());
+      tabs.addTab("Add Mechanic", createAddMechanicPanel());
+      tabs.addTab("Add Car", createAddCarPanel());
+      tabs.addTab("New Request", createServiceRequestPanel());
+      tabs.addTab("Close Request", createCloseRequestPanel());
+      tabs.addTab("Bills < $100", createQueryPanel(
          "Closed Requests with Bill Under $100",
          "SELECT cr.date, cr.comment, cr.bill FROM Closed_Request cr WHERE cr.bill < 100 ORDER BY cr.bill",
          new String[]{"Date", "Comment", "Bill ($)"}));
-      tabs.addTab(" > 20 Cars     ", createQueryPanel(
+      tabs.addTab("> 20 Cars", createQueryPanel(
          "Customers Who Own More Than 20 Cars",
          "SELECT c.fname, c.lname, COUNT(*) as car_count FROM Customer c " +
          "JOIN Owns o ON c.id = o.customer_id " +
          "GROUP BY c.id, c.fname, c.lname HAVING COUNT(*) > 20 ORDER BY car_count DESC",
          new String[]{"First Name", "Last Name", "Car Count"}));
-      tabs.addTab(" Pre-1995 Cars ", createQueryPanel(
+      tabs.addTab("Pre-1995 Cars", createQueryPanel(
          "Cars Before 1995 with Less Than 50,000 Miles",
          "SELECT DISTINCT c.make, c.model, c.year FROM Car c " +
          "JOIN Service_Request sr ON c.vin = sr.car_vin " +
          "WHERE c.year < 1995 AND sr.odometer < 50000 ORDER BY c.year",
          new String[]{"Make", "Model", "Year"}));
-      tabs.addTab(" Top K Cars    ", createTopKPanel());
-      tabs.addTab(" Total Bills   ", createQueryPanel(
+      tabs.addTab("Top K Cars", createTopKPanel());
+      tabs.addTab("Total Bills", createQueryPanel(
          "Customer Total Bills (Highest First)",
          "SELECT c.fname, c.lname, SUM(cr.bill) as total FROM Customer c " +
          "JOIN Service_Request sr ON c.id = sr.customer_id " +
