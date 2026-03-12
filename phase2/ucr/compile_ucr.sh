@@ -5,6 +5,7 @@ DB_NAME=$USER"_project_DB"
 JAVA_DIR="$PWD/java"
 
 export CLASSPATH=$CLASSPATH:$JAVA_DIR/lib/postgresql-42.7.3.jar
+mkdir -p "$JAVA_DIR/bin/"
 javac -cp "$JAVA_DIR/lib/*" "$JAVA_DIR/src/MechanicShop.java" -d "$JAVA_DIR/bin/"
 echo "compiled MechanicShop.java"
 
