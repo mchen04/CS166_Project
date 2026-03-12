@@ -4,7 +4,6 @@
 
 - `MechanicShop_Phase1.erdplus` — ER diagram (open with [ERDPlus](https://erdplus.com/))
 - `create_tables.sql` — PostgreSQL schema (6 tables with keys, constraints, and foreign keys)
-- `assumptions.txt` — design decisions and constraints we can't enforce in the schema
 
 ## Tables
 

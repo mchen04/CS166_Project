@@ -39,7 +39,6 @@ cd java && ./compile.sh
 ```
 deploy_ucr.sh              one-click UCR deploy + run
 start.sh                   one-click local setup + GUI
-assumptions.txt            design assumptions
 generate_data.py           dummy data generator
 ucr/                       UCR server helper scripts
 sql/create.sql             schema + indexes (local)

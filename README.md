@@ -8,7 +8,6 @@ A database system for tracking customers, cars, mechanics, service requests, and
 
 - ER diagram modeling all entities and relationships
 - PostgreSQL schema with 6 tables, foreign keys, and constraints
-- [Assumptions](phase1/assumptions.txt)
 
 ### [Phase 2](phase2/) — Implementation
 
@@ -17,7 +16,7 @@ A database system for tracking customers, cars, mechanics, service requests, and
 - Dummy data (500 customers, 250 mechanics, 800 cars, 1500 service requests)
 - One-click deploy to UCR server: `./phase2/deploy_ucr.sh <netid>`
 
-- [Assumptions](phase2/assumptions.txt) · [Phase 2 README](phase2/README.md)
+- [Phase 2 README](phase2/README.md)
 
 ## Quick Start
 
