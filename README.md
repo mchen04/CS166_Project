@@ -23,11 +23,11 @@ A database system for tracking customers, cars, mechanics, service requests, and
 ```bash
 # UCR server (CLI)
 cd phase2
-./deploy_ucr.sh <netid>
+scripts/./deploy_ucr.sh <netid>
 
 # Local (GUI)
 cd phase2
-./start.sh
+scripts/./start.sh
 ```
 
 ## Schema
