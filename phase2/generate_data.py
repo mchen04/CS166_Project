@@ -7,7 +7,7 @@ import string
 import os
 from datetime import date, timedelta
 
-random.seed(42)
+random.seed(12345)
 
 OUT_DIR = os.path.join(os.path.dirname(__file__), "data")
 os.makedirs(OUT_DIR, exist_ok=True)

@@ -87,7 +87,7 @@ echo ""
 echo "=== Compiling Java ==="
 cd "$JAVA_DIR"
 rm -rf bin/*.class
-javac -cp "lib/*" src/MechanicShop.java src/MechanicShopGUI.java src/TestGUI.java -d bin/
+javac -cp "lib/*" src/MechanicShop.java src/MechanicShopGUI.java -d bin/
 echo "Compiled successfully."
 
 # --- Launch GUI ---
