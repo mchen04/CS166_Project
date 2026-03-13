@@ -12,7 +12,7 @@ fi
 
 NETID="$1"
 SERVER="cs166.cs.ucr.edu"
-DIR="$(cd "$(dirname "$0")" && pwd)"
+DIR="$(cd "$(dirname "$0")/.." && pwd)"
 
 echo "=== deploying phase2 to $NETID@$SERVER ==="
 echo ""

@@ -3,7 +3,7 @@
 ## UCR Server
 
 ```bash
-./deploy_ucr.sh <netid>
+./scripts/deploy_ucr.sh <netid>
 ```
 
 Uploads files, starts PostgreSQL, loads schema + data, compiles, and runs the CLI. Stops the database automatically when you exit. One password prompt.
@@ -23,7 +23,7 @@ source ucr/stopPostgreDB.sh
 ## Local (macOS)
 
 ```bash
-./start.sh
+./scripts/start.sh
 ```
 
 Creates database, compiles, and launches the Swing GUI. Or run separately:
@@ -37,8 +37,8 @@ cd java && ./compile.sh
 ## Structure
 
 ```
-deploy_ucr.sh              one-click UCR deploy + run
-start.sh                   one-click local setup + GUI
+scripts/start.sh           one-click local setup + GUI
+scripts/deploy_ucr.sh      one-click UCR deploy + run
 generate_data.py           dummy data generator
 ucr/                       UCR server helper scripts
 sql/create.sql             schema + indexes (local)
@@ -46,7 +46,6 @@ sql/create_ucr.sql         schema + indexes (UCR)
 data/*.csv                 dummy data (500 customers, 250 mechanics, 800 cars, etc.)
 java/src/MechanicShop.java CLI client
 java/src/MechanicShopGUI.java  Swing GUI (extra credit)
-java/src/TestGUI.java      automated GUI test
 java/lib/                  JDBC driver
 ```
 

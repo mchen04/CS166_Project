@@ -8,7 +8,7 @@ DB="${1:-mechanic_shop}"
 PORT="${2:-5432}"
 USER="${3:-$(whoami)}"
 
-DIR="$(cd "$(dirname "$0")" && pwd)"
+DIR="$(cd "$(dirname "$0")/.." && pwd)"
 JAVA_DIR="$DIR/java"
 
 if [ -d "/opt/homebrew/opt/openjdk" ]; then
